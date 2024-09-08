@@ -2,8 +2,9 @@ title: Barty's Guide to Caelum's Landing
 author:
   name: By Alexander Birch
 description: A custom setting for D&D 5e
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 minima:
-  skin: dark
-header-pages:
+  skin: auto
+header_pages:
   - getting-started.md
