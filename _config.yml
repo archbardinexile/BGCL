@@ -1,10 +1,9 @@
 title: Barty's Guide to Caelum's Landing
 author:
-  name: GitHub Repository
-  email: https://github.com/archbardinexile/BGCL
+  name: By Alexander Birch
 description: A custom setting for D&D 5e
 theme: minima
 minima:
-  skin: auto
+  skin: dark
 header-pages:
-  - page.md
+  - getting-started.md
