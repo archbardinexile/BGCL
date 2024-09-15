@@ -3,13 +3,15 @@
 title: Barty's Guide to Caelum's Landing
 author:
   name: Alexander Birch
-description: A custom setting for Dungeons and Dragons Fifth Edition. View the [GitHub Repository](https://github.com/archbardinexile/BGCL).
+description: Barty's Guide to Caelum's Landing is an open source custom setting for Dungeons and Dragons Fifth Edition.
 
 # Theme
 
 remote_theme: jekyll/minima
 minima:
   skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/archbardinexile/BGCL" }
 
 # Content
 
