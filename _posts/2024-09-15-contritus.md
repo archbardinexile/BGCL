@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Region ▶ Contritus
+title: Contritus (Region)
 ---
 
 *Contritus*, the easternmost region, is broken by the far-reaching fjords and archipelagos of the [Manyshells](). To the south-east, the enormous jungle earthmote of [Mallia]() appears to drain the sea with curtains of vines that veil its shores.

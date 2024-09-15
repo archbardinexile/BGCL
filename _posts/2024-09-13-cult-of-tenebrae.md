@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ Cult of Tenebrae
+title: The Cult of Tenebrae (Faction)
 published: false
 ---
 

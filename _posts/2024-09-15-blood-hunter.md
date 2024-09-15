@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subclass ▶ Order of the Lantern
+title: The Order of the Lantern (Subclass)
 published: false
 ---
 

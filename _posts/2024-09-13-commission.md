@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ The Commission
+title: The Commission (Faction)
 ---
 
 The Commission for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber]() in 899 PO. Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the Relief, research new magic, and prospect new [earthmotes]() for colonisation. The [Order of the Lantern]() is a clandestine sub-organisation of Blood Hunters who undergo a ritual that allows them to navigate and research the Miasma.

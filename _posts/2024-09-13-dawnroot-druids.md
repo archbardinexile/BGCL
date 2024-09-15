@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ Dawnroot Druids
+title: The Dawnroot Druids (Faction)
 published: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ Profundus Theocracy
+title: The Profundus Theocracy (Faction)
 ---
 
 The Profundus Theocracy is the most prominent nation in the [Relief](), with territories stretching as far as the [Miasma](). Its capital, [Caelum's Landing](), is the largest and most populous city in the Relief, with much of the continent's trade passing through its markets. Governance of the nation is shared between the [Church of Caelum]() and the [Ministry](), while the [Inland Guard]() police the capital.

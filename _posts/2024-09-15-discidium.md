@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Region ▶ Discidium
+title: Discidium (Region)
 ---
 
 *Discidium*, though completely engulfed by the Miasma, can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which [Mundi Eversor]() emerged 1,000 years ago.

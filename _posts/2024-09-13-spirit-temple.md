@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ Spirit Temple
+title: The Spirit Temple (Faction)
 published: false
 ---
 

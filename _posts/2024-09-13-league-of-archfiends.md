@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction ▶ League of Archfiends
+title: The League of Archfiends (Faction)
 published: false
 ---
 
