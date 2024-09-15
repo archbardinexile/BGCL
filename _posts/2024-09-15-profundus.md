@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Region\: Profundus
+title: Region ▶ Profundus
 ---
 
 *Profundus* is the largest region at the centre of the Relief. It houses Caelum's Landing, the capital city of the [Profundus Theocracy]() and the most prominent and populous city in the known world.

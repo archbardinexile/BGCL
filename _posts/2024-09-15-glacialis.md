@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Region\: Glacialis
+title: Region ▶ Glacialis
 ---
 
 *Glacialis*, the frozen region to the north, suffers arctic climates that only the stalwart denizens of Nox can endure.
