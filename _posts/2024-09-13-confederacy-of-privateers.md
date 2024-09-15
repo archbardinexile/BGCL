@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction: Confederacy of Privateers
+title: Faction\: Confederacy of Privateers
 published: false
 ---
 

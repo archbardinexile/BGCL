@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faction: Cult of Tenebrae
+title: Faction\: Cult of Tenebrae
 published: false
 ---
 
