@@ -29,7 +29,7 @@ Perhaps chief among the nascent technologies developed since the Rising is the r
 
 # Factions
 
-The world of [Fio]() holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take.
+The world of Fio holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take.
 
 - [**The Profundus Theocracy**]() is the most prominent nation in the [Relief](), with territories stretching as far as the [Miasma](). Its capital, [Caelum's Landing](), is the largest and most populous city in the Relief, with much of the continent's trade passing through its markets. Governance of the nation is shared between the [Church of Caelum]() and the [Ministry](), while the [Inland Guard]() police the capital.
 
