@@ -4,7 +4,9 @@ title: Adventurers of Renown
 published: false
 ---
 
-# Other Characters
+### Tenebrae
+
+Ancient earth genasi in hiding.
 
 ### Nox
 

@@ -4,16 +4,11 @@ title: The Confederacy of Privateers (Faction)
 published: false
 ---
 
-- Zippers
+- Zipper Pirates
 - Sky Pirates
 - Sea Pirates
 
-## Notable Members
+### Notable Members
 
-### Bhaldrom Anchorheart
-
-Seafaring mercenary in service to Umberlee.
-
-### Charyz'ad
-
-Hyperactive red dragon sorcerer githyanki
+- **Bhaldrom Anchorheart** Seafaring mercenary in service to Umberlee.
+- **Charyz'ad** Hyperactive red dragon sorcerer githyanki

@@ -9,3 +9,7 @@ published: false
 ### Baihu
 
 Master Monk of the Spirit Temple.
+
+### Keijo
+
+Scarred half-elf with the spirit of a tiger

@@ -5,7 +5,3 @@ published: false
 ---
 
 ## Notable Members
-
-### Tenebrae
-
-Ancient earth genasi in hiding.
