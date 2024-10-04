@@ -25,9 +25,17 @@ Once the turmoil had subsided, Caelum released the shield and fell to his knees,
 
 Every four years since Caelum's battle with Mundi Eversor, it is believed that a new earthmote appears somewhere on Fio. This was only discovered in the year 192 PO, when the earthmote [Nox]() first appeared skew-north of Fundus in a ring of aurora. The silver dragon [Nox](), who had gifted the wintry earthmote his namesake, flew down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returned home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
 
-### The Fundus Constitution (516 PO)
+### The First Fundus Civil War (349-351 PO)
 
-In 516 PO, a series of incidents came to light exhibiting the current state of the Church and its oppressive form of government. A brief but bloody civil war concluded with a civilian march on the Oratory. A man named [Anselm Chlodovech]() delivered the people's demands to the ruling Sol Orbis family. [Rex Sol Orbis]() stepped down and a charter was written and signed by both parties. Since this date, the nation of [Profundus]() has always been a constitutional theocracy. The power of government resides with the people, while the Exarch serves as head of state. However, it is still commonplace for the nation to be known simply as the *Church*.
+In 349 PO, a series of incidents came to light exhibiting the current state of the Church and its oppressive form of government. A two-year civil war concluded with a civilian march on the Oratory. A human named [Anselm Chlodovech]() delivered the people's demands to the ruling Sol Orbis family. When [Rex Sol Orbis]() refused to step down, Chlodovech executed the Exarch while he sat stalwart on his throne, ending the first Sol Orbis dynasty. Chlodovech anointed himself Chancellor of the nascent [Fundus Republic]() and constructed the Ministerial Houses where his new government would take shape.
+
+### The Second Fundus Civil War (411-416 PO)
+
+A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people. Chlodovech's successor, [](), would turn to corruption and exploitation in order to accumulate the funds and resources he needed to stay in power. [Auga Vigil](), a proponent of the Church of Caelum, became aware of this corruption and began a campaign to remove ** from office.
+
+### The Fundus Constitution (416 PO)
+
+a charter was written and signed by both parties. Since this date, the nation of [Profundus]() has been a constitutional theocracy. The power of government resides with the people, while the Exarch serves as head of state. However, it is still commonplace for the nation to be known simply as the *Church*.
 
 ### Moving Ingenium (748-756 PO)
 

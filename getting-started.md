@@ -13,6 +13,37 @@ A millennium of living in such isolated conditions has inspired a wealth of tech
 
 Perhaps chief among the nascent technologies developed since the Rising is the resonance engine, invented by [Artifex Calligo]() in 756 PO to propel [Ingenium]() toward [Fundus](). Resonance engines use the magical properties of resonite, a lustrous, dark purple ore found in the [Resonant Mines](), to create kinetic energy. The ore is capable of exerting magical pressures on its surroundings, making it difficult to cast magic in close proximity to rich deposits. The ore can be refined into resonance stones. Much like how the similar poles of two magnets repel, the magical pressures of two resonance stones forced together can create motion. Resonance engines are used in machines such as auto-mobiles, aircraft, power generators and even rail-guns. Some have even theorised that the heart used to power [Mundi Eversor]() was a prototype resonance engine on a colossal scale.
 
+## The Calendar
+
+There are 12 months in one year. Each month is 24 days long, divided into four six-day weeks. One day is 24 hours long. The days are named: *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*. A year is divided into four seasons according to the climate. Due to the way the world of Fio rotates on all three of its axes, the summer and winter solstices only occur once every four years. A period of four years is known as a *fewyear*. 
+
+#### Moon Phases
+
+- 1 day = 24 hours
+- 1 week = 6 days or 144 hours
+- 1 month = 4 weeks or 24 days
+- 1 season = 3 months, 12 weeks or 72 days
+- 1 year = 4 seasons, 12 months, 48 weeks or 288 days
+- 1 fewyear = 4 years, 16 seasons, 48 months, 192 weeks or 1,152 days
+
+#### Months
+
+| Month         | Season | Holidays                      |
+| ------------- | ------ | ----------------------------- |
+| Adventus      | Summer | Summer Solstice (1st year)    |
+| Viridis       | Summer | Aura's Birthday (14th)        |
+| Vale          | Summer |                               |
+| Perventum     | Autumn | Arrows Day (17th)             |
+| Rubrum        | Autumn |                               |
+| Habeo         | Autumn | Harvest Festival (12th-18th)  |
+| Tabernacula   | Winter | Winter Solstice (3rd year)    |
+| Niveus        | Winter | First Life (4th)              |
+| Roscidas      | Winter |                               |
+| Inceptum      | Spring | Guilds Exhibition (12th)      |
+| Flavum        | Spring | Coronation Anniversary (11th) |
+| Ascendentem   | Spring | Caelum's Day (24th)           |
+
+
 # Regions
 
 The Relief is almost 6,000 miles in circumference and 1,900 miles in diameter, spanning six regions in the northern hemisphere. Despite the Miasma limiting the expanse of the known world, the Relief contains an abundance of culture that transcends even the barriers between the planes of existence.
