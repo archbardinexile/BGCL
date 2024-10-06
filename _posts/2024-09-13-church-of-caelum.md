@@ -17,21 +17,6 @@ The Church of Caelum is the most prominent nation in the [Relief](), with territ
 
 ## Notable Members
 
-### Caelum Sol Orbis
-
-*Male, Aasimar Paladin*
-
-- **Born:** 64 AO, [Anfang]()
-- **Died:** 0 PO, Anfang (Ascended)
-- **Aliases:** The Ascended, Grand Paladin
-- **Relations:** Prima Vita Sol Orbis (Daughter)
-
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
-
-Caelum Sol Orbis was born an aasimar from human parentage on the 24th day of Ascendentem 64 AO in the city of Anfang, now known as Caelum's Landing. Raised by a religious family, Caelum quickly gained renown as a paladin of *Lathander*. His generosity and exploits protecting Anfang justified his rise to power in the Church of Lathander. Caelum is described as being quiet and kindly but fiercely determined and dutiful. He had warm-tinted brown skin, sky-blue eyes, and is depicted sporting hair ranging from a buzz cut to short afro curls. Caelum had a distinctive silver halo on his forehead as a result of his aasimar heritage. The halo would be passed down to his daughter, *Prima Vita*, born on the 4th day of Niveus 22 AO, and all her descendants. The halo would become the symbol for the *Church of Caelum*. The first of the Church of Lathander to be given the title *Grand Paladin*, Caelum was tasked with protecting Anfang from the colossus [Mundi Eversor]() on 0 AO, which would eventually lead to his ascension and the [Rising]().
-
 ### Aura Sol Orbis
 
 *Female, Aasimar Paladin*
