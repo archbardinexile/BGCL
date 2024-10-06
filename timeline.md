@@ -31,11 +31,11 @@ In 349 PO, a series of incidents came to light exhibiting the current state of t
 
 ### The Second Fundus Civil War (411-416 PO)
 
-A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people. Chlodovech's successor, [](), would turn to corruption and exploitation in order to accumulate the funds and resources he needed to stay in power. [Auga Vigil](), a proponent of the Church of Caelum, became aware of this corruption and began a campaign to remove ** from office.
+A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people. Chlodovech's successor, [**](), would turn to corruption and exploitation in order to accumulate the funds and resources he needed to stay in power. [Auga Vigil](), a proponent of the Church of Caelum, became aware of this corruption and began a campaign to remove ** from office.
 
 ### The Fundus Constitution (416 PO)
 
-a charter was written and signed by both parties. Since this date, the nation of [Profundus]() has been a constitutional theocracy. The power of government resides with the people, while the Exarch serves as head of state. However, it is still commonplace for the nation to be known simply as the *Church*.
+A charter was written and signed by both parties in 416 PO. Since this date, the Church of Caelum has been a constitutional theocracy. The power of government resides with the people, while the Exarch serves as head of state. However, it is still commonplace for the nation to be known simply as the *Church*.
 
 ### Moving Ingenium (748-756 PO)
 

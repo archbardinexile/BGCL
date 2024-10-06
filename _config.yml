@@ -16,3 +16,4 @@ minima:
 header_pages:
   - getting-started.md
   - timeline.md
+  - exploration.md

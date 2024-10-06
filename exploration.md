@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Exploring Uncharted Territories
+layout: page
+title: Exploration
 ---
 
 While exploring the Relief and delving into the depths of the Miasma, you may discover new regions and earthmotes yet to be charted. When navigating through the skies, an essential piece of equipment is the six-point compass; a spherical device that can not only determine the direction of magnetic north, but also provide the elevation of one's destination. A third perpendicular axis on the compass traps a small lead pellet at one end, and a pocket of air at the other, providing wary explorers with the means to always know which way is up. In addition to north, east, south and west, *skew* is used to denote an elevation of 90 degrees (directly above the observer), while *erde* is used to denote an elevation of 270 degrees (directly below the observer). For example, Nox, a high altitude earthmote in the northernmost region of Glacialis, would be *skew-north* of the observer when viewed from Caelum's Landing.

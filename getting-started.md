@@ -3,30 +3,13 @@ layout: page
 title: Getting Started
 ---
 
-For almost a millennium the world of *Fio* has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing]() sits at the heart of a circular *Relief* in the storm. It was here that [Caelum Sol Orbis]() sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](), large chunks of land that float above the ground. This event has come to be known as the [Rising](). You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing, at the advent of the summer solstice.
+For almost a millennium the world of [Fio]() has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing]() sits at the heart of a circular [Relief]() in the storm. It was here that [Caelum Sol Orbis]() sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](), large chunks of land that float above the ground. This event has come to be known as the [Rising](). You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing, at the advent of the summer solstice.
 
-## An Era of Innovation
+## A World Obscured
 
-A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel the [Innermotes]() in style on powered cable cars. The most wealthy of denizens can even be found driving rudimentary auto-mobiles, powered by resonance engines.
+The world of *Fio* is estimated by scholars to be approximately 7,500 miles in diameter. It takes one year or 288 days to orbit its sun, *Sol*. It takes one day or 24 hours for Fio to complete one rotation around its polar axis. Fio has a single moon, *Auga*, which sits above the northern hemisphere in geostationary orbit. Due to the way Fio oscillates on its equatorial axes, Auga appears to circle the sky above the *Relief* once every six days. The days are 24 hours long and are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*.
 
-### Resonance Engines
-
-Perhaps chief among the nascent technologies developed since the Rising is the resonance engine, invented by [Artifex Calligo]() in 756 PO to propel [Ingenium]() toward [Fundus](). Resonance engines use the magical properties of resonite, a lustrous, dark purple ore found in the [Resonant Mines](), to create kinetic energy. The ore is capable of exerting magical pressures on its surroundings, making it difficult to cast magic in close proximity to rich deposits. The ore can be refined into resonance stones. Much like how the similar poles of two magnets repel, the magical pressures of two resonance stones forced together can create motion. Resonance engines are used in machines such as auto-mobiles, aircraft, power generators and even rail-guns. Some have even theorised that the heart used to power [Mundi Eversor]() was a prototype resonance engine on a colossal scale.
-
-## The Calendar
-
-There are 12 months in one year. Each month is 24 days long, divided into four six-day weeks. One day is 24 hours long. The days are named: *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*. A year is divided into four seasons according to the climate. Due to the way the world of Fio rotates on all three of its axes, the summer and winter solstices only occur once every four years. A period of four years is known as a *fewyear*. 
-
-#### Moon Phases
-
-- 1 day = 24 hours
-- 1 week = 6 days or 144 hours
-- 1 month = 4 weeks or 24 days
-- 1 season = 3 months, 12 weeks or 72 days
-- 1 year = 4 seasons, 12 months, 48 weeks or 288 days
-- 1 fewyear = 4 years, 16 seasons, 48 months, 192 weeks or 1,152 days
-
-#### Months
+#### The Calendar
 
 | Month         | Season | Holidays                      |
 | ------------- | ------ | ----------------------------- |
@@ -43,28 +26,53 @@ There are 12 months in one year. Each month is 24 days long, divided into four s
 | Flavum        | Spring | Coronation Anniversary (11th) |
 | Ascendentem   | Spring | Caelum's Day (24th)           |
 
+#### Time
 
-# Regions
+| Days | Weeks | Months | Seasons | Years |
+| ---- | ----- | ------ | ------- | ----- |
+| 1    |       |        |         |       |
+| 6    | 1     |        |         |       |
+| 24   | 4     | 1      |         |       |
+| 72   | 12    | 3      | 1       |       |
+| 288  | 48    | 12     | 4       | 1     |
 
-The Relief is almost 6,000 miles in circumference and 1,900 miles in diameter, spanning six regions in the northern hemisphere. Despite the Miasma limiting the expanse of the known world, the Relief contains an abundance of culture that transcends even the barriers between the planes of existence.
+### The Miasma
 
-- [**Profundus**]() is the largest region at the centre of the Relief. It houses Caelum's Landing, the capital city of the [Profundus Theocracy]() and the most prominent and populous city in the known world.
+With the exception of the Relief, Fio is believed to be completely engulfed by the *Miasma*, a purple fog that envelops the globe and reaches almost 36,000 feet into the sky. The denizens of [Nox](), the highest earthmote in the Relief, are able to see the vast blanket of magical fog from above, enshrouding the world. The Miasma has tides affected by Fio's moon. Malformed landscape plagued by sickened flora and fauna is revealed at the fringes of the Relief then concealed again on a six-day cycle. Occasionally, migrating monsters and even rogue *earthmotes* emerge from the Miasma, proving that survival is possible beyond the barrier. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom. Though the history of these pillars remains a mystery.
 
-- [**Glacialis**](), the frozen region to the north, suffers arctic climates that only the stalwart denizens of [Nox]() can endure.
+### The Relief
 
-- [**Contritus**](), the easternmost region, is broken by the far-reaching fjords and archipelagos of the [Manyshells](). To the south-east, the enormous jungle earthmote of [Mallia]() appears to drain the sea with curtains of vines that veil its shores.
+The Relief is a circular expanse in the northern hemisphere of Fio unaffected by the Miasma. Approximately 1,000 miles in diameter, the Relief spans six unique regions with an abundance of culture that transcends even the barriers between the planes of existence.
 
-- [**Calidus**]() is the southernmost region blanketed by harsh sands, yet many varied cultures thrive here. For most, the heat is preferable to the darkened landscape beyond the Miasma, where powerful fiends are said to watch with envious eyes.
+- [**Profundus**]() is the largest region at the centre of the Relief. It plays host to *Caelum's Landing*, the capital city of [Fundus]() and the most prominent and populous city in the known world.
+
+- [**Glacialis**](), the frozen region to the north, suffers arctic climates that only the stalwart denizens of *Nox* can endure.
+
+- [**Contritus**](), the easternmost region, is broken by the far-reaching fjords and archipelagos of the [Manyshells](). To the south-east, the enormous jungle earthmote [Mallia]() appears to drain the sea with curtains of vines that veil its shores.
+
+- [**Calidus**](), the southernmost region, is blanketed by harsh sands, yet many varied cultures thrive here. For most, the heat is preferable to the darkened landscape beyond the Miasma, where powerful fiends are said to watch with envious eyes.
 
 - [**Montanum**]() to the west is characterised by its expansive mountain ranges. Much of Montanum is engulfed by the Miasma, while the peninsula of [Porta Ignota]() serves as an invaluable trade hub for intrepid explorers.
 
 - [**Discidium**](), though completely engulfed by the Miasma, can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which Mundi Eversor emerged 1,000 years ago.
 
-# Factions
+### Fundus and Caelum's Landing
+
+With an area of 150 square miles, *Fundus* appears to those sailing the [Altum Ocean]() below as a mighty inverted mountain in the clouds. Its underbelly glimmers with enchanted [resonite]() ores that keep it afloat. Sitting atop Fundus, *Caelum's Landing* is the capital city of the most prominent nation in the Relief, the [Church of Caelum](), which rose to power when *Caelum Sol Orbis* ascended to shield Fundus from the growing Miasma almost 1,000 years ago. Once known as *Anfang*, the city serves as the beating economic and cultural heart of the vast archipelagos and floating islands that constitute the Relief. Caelum's Landing is home to nearly 100,000 people of countless races and cultures.
+
+## An Era of Innovation
+
+A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel the [Innermotes]() in style on powered cable cars. The most wealthy of denizens can even be found driving rudimentary auto-mobiles, powered by resonance engines.
+
+### Resonance Engines
+
+Perhaps chief among the nascent technologies developed since the Rising is the resonance engine, invented by [Artifex Calligo]() in 756 PO to propel [Ingenium]() toward Fundus. Resonance engines use the magical properties of resonite, a lustrous, dark purple ore found in the [Resonant Mines](), to create kinetic energy. The ore is capable of exerting magical pressures on its surroundings, making it difficult to cast magic in close proximity to rich deposits. The ore can be refined into resonance stones. Much like how the similar poles of two magnets repel, the magical pressures of two resonance stones forced together can create motion. Resonance engines are used in machines such as auto-mobiles, aircraft, power generators and even rail-guns. Some have even theorised that the heart used to power [Mundi Eversor]() was a prototype resonance engine on a colossal scale.
+
+## Finding Adventure
 
 The world of Fio holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take.
 
-- [**The Profundus Theocracy**]() is the most prominent nation in the Relief, with territories stretching as far as the Miasma. Its capital, Caelum's Landing, is the largest and most populous city in the Relief, with much of the continent's trade passing through its markets. Governance of the nation is shared between the [Church of Caelum]() and the [Ministry](), while the [Inland Guard]() police the capital.
+- [**The Church of Caelum**]() is the most prominent nation in the Relief, with territories stretching as far as the Miasma. Its capital, Caelum's Landing, is the largest and most populous city in the Relief, with much of the continent's trade passing through its markets. Since the creation of the [Fundus Constitution]() in 416 PO, governance of the nation has been shared with the [Ministry](), while the [Inland Guard]() police the capital.
 
 - [**The Commission**]() for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber]() in 899 PO. Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the Relief, research new magic, and prospect new earthmotes for colonisation. The [Order of the Lantern]() is a clandestine sub-organisation of Blood Hunters who undergo a ritual that allows them to safely navigate and research the Miasma.
 

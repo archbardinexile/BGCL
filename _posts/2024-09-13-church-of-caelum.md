@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Profundus Theocracy (Faction)
+title: The Church of Caelum (Faction)
 ---
 
-More commonly known as the Church of Caelum, or simply the Church, the Profundus Theocracy is the most prominent nation in the [Relief](), with territories stretching as far as the [Miasma](). Its capital, [Caelum's Landing](), is the largest and most populous city in the Relief, with much of the continent's trade passing through its markets. The Church of Caelum has remained the most influential and widespread religion in Fio for 1,000 years. Sharing governance of its territories with the Ministry, the Church seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
+The Church of Caelum is the most prominent nation in the [Relief](), with territories stretching as far as the [Miasma](). Its capital, [Caelum's Landing](), is the largest and most populous city in the Relief, with much of the region's trade passing through its markets. The Church has remained the most influential and widespread religion in Fio for 1,000 years. The Church shares governance of its territories with the Ministry, making the nation a *constitutional theocracy*. The Church seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
 
 ### Ranks
 

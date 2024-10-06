@@ -3,11 +3,9 @@ layout: post
 title: Profundus (Region)
 ---
 
-*Profundus* is the largest region at the centre of the Relief. It houses Caelum's Landing, the capital city of the [Profundus Theocracy]() and the most prominent and populous city in the known world.
+*Profundus* is the largest region at the centre of the Relief. It plays host to *Caelum's Landing*, the capital city of *Fundus* and the most prominent and populous city in the known world.
 
 ## Caelum’s Landing
-
-Sitting atop *Fundus*, the largest earthmote in the known world, *Caelum's Landing* is the capital city of the most prominent nation in the [Relief](), the Profundus Theocracy. Once known as *Anfang*, the city serves as the beating economic and cultural heart of Fio's vast archipelagos and floating islands. With an area of 150 square miles, Fundus appears to those sailing the [Altum Ocean]() below as a mighty inverted mountain in the clouds. Its underbelly glimmers with enchanted [resonite]() ores that keep it afloat. Caelum's Landing is home to nearly 100,000 people of countless races and cultures.
 
 Caelum's Landing boasts 20 square miles of developed areas, making it the largest city in the Profundus region. At its centre stands the great spire of the *Oratory*, the seat of the [Church of Caelum](), where the Exarch and head of state, [Aura Sol Orbis](), resides. To the southwest, vast rolling hills of patchwork farmland are cut in two by the [Fountainhead River](), which diffuses into the air when it reaches the shore, nourishing a perpetual rainbow below. To the east, the industrial, residential and commercial districts of Caelum's Landing are framed by the [Dawnroot Forest](), where the [Dawnroot druids]() protect the Fountainhead River's sacred source. And to the north, the [Ministerial Houses]() play host to the nation's government, a council of elected ministers representing the many provinces under the Church's jurisdiction. Their Chairman, [Emil Hartmann]() serves as head of government.
 
