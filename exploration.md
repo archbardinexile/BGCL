@@ -11,9 +11,9 @@ Those wishing to explore the skies without the aid of public transportation may 
 
 Earthmotes are pieces of land that, due to the influence of magic, float above the ground. Despite their appearance, earthmotes are as durable and stable as any island at sea level. Every earthmote is unique in size, shape and altitude. A few move either in programmed routes or erratically, but most are stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, don't have any effect on an earthmote's ability to float.
 
-You can determine the size of an earthmote or region using the *Size* table below. You can then determine that earthmote's biome type by selecting features from *Biomes* table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level. The Biomes table also shows which encounter tables to use when traversing the biome. These encounter tables can be found in *Xanathar's Guide to Everything*.
+You can determine the size of an earthmote or region using the ***Size*** table below. You can then determine that earthmote's biome type by selecting features from ***Biomes*** table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level. The Biomes table also shows which encounter tables to use when traversing the biome. These encounter tables can be found in ***Xanathar's Guide to Everything***.
 
-##### Size
+##### **Size**
 
 | d6  | Size                            |
 | --- | ------------------------------- |
@@ -24,7 +24,7 @@ You can determine the size of an earthmote or region using the *Size* table belo
 | 5   | Huge (4,400 to 5,279 sq. ft.)   |
 | 6   | Gargantuan (≥ 5,280 sq. ft.)    |
 
-##### Biomes
+##### **Biomes**
 
 | 2d12   | Biome                                         | Encounters            |
 | ------ | --------------------------------------------- | --------------------- |
@@ -86,11 +86,13 @@ You can determine the size of an earthmote or region using the *Size* table belo
 | 11     | Settlement/stronghold/ruin                    | Urban                 |
 | 12     | Feywild/Shadowfell/Elemental Plane            | Planar portal         |
 
-##### Settlements and Portals
+##### **Settlements and Portals**
 
 When you roll an 11, you may re-roll that die and add an appropriate settlement, stronghold or ruin to the biome you discover. For example, you may roll an 11 and a 1, then re-roll a 3. In this case you may discover a settlement of igloos on an ice sheet. It is up to you whether the settlement is still populated.
 
 When you roll a 12 a planar portal may be present. Re-roll that die and add a portal of your choice to the biome you discover. For example, you may roll a 12 and a 7, then re-roll an 8. A portal to the elemental plane of fire may turn an alpine lake into a bubbling hot spring, or a portal to the Feywild may alter the surrounding flora in strange ways.
+
+---
 
 ### **Next: [Timeline](timeline.md)**
 ### **Previous: [Getting Started](getting-started.md)**

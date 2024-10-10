@@ -16,7 +16,7 @@ Reclusive silver dragon of Nox.
 
 Giant chromatic wandering sea-dragon of Contritus. Seahorse-like features.
 
-### Terra
+### Vulcan
 
 Giant mountain-like dragon asleep under Montanum
 
