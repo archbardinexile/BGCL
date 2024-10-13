@@ -31,7 +31,7 @@ Once the turmoil had subsided, Caelum released the shield and fell to his knees,
 
 ##### **Nox arrives in Fio**
 
-Every summer solstice since Caelum's battle with Mundi Eversor, it is believed that a new earthmote appears somewhere on Fio. This was only discovered in the year 192 PO, when the earthmote Nox first appeared skew-north of Fundus in a ring of aurora. The silver dragon *Nox*, who had gifted the wintry earthmote his namesake, flew down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returned home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
+The earthmote Nox first appeared high in the sky skew-north of Fundus in a ring of aurora. The silver dragon *Nox*, who had gifted the wintry earthmote his namesake, flew down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returned home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
 
 ### 204 PO
 

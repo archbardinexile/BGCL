@@ -3,32 +3,36 @@ layout: page
 title: Getting Started
 ---
 
-For almost a millennium the world of *Fio* has been plagued by an unnatural, perpetual storm of its own creation; the *Miasma*, a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of *Caelum's Landing* sits at the heart of a circular *Relief* in the storm. It was here that *Caelum Sol Orbis* sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the *earthmotes*, large chunks of land that float above the ground. This event has come to be known as the *Rising*. You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing, at the advent of the summer solstice.
+For almost a millennium the world of *Fio* has been plagued by an unnatural, perpetual storm of its own creation; the *Miasma*, a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of *Caelum's Landing* sits at the heart of a circular *Relief* in the storm. It was here that *Caelum Sol Orbis* sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the *earthmotes*, large chunks of land that float above the ground. This event has come to be known as the *Rising*. You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing.
 
 ### A World Obscured
 
-The world of Fio is estimated by scholars to be approximately 7,500 miles in diameter. It takes one year or 288 days to orbit its sun, *Sol*. It takes one day or 24 hours for Fio to complete one rotation around its polar axis. Fio has a single moon, *Auga*, which sits above the northern hemisphere in geostationary orbit. Due to the way Fio oscillates on its equatorial axes, Auga appears to circle the sky above the Relief once every six days. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*.
+The world of Fio is estimated by scholars to be approximately 7,500 miles in diameter. It takes 288 days for Fio to orbit its sun, *Sol* and 24 hours to complete one rotation around its polar axis. Fio oscillates on its equatorial axes causing a change in axial tilt from 23° to -23° and a change in average temperature from 6℃ to 21℃ over the course of six days. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*. Sunday is the longest day while Winday is the shortest. Fio has a single moon, *Auga*, which sits above the northern hemisphere in geostationary orbit. Auga appears to circle the sky above the Relief once every week and transitions from new to full every day.
 
 ##### **The Calendar**
 
-| Month         | Season | Holidays                      |
-| ------------- | ------ | ----------------------------- |
-| Adventus      | Summer | Summer Solstice (1st year)    |
-| Viridis       | Summer | Aura's Birthday (14th)        |
-| Vale          | Summer |                               |
-| Perventum     | Autumn | Arrows Day (17th)             |
-| Rubrum        | Autumn |                               |
-| Habeo         | Autumn | Harvest Festival (12th-18th)  |
-| Tabernacula   | Winter | Winter Solstice (3rd year)    |
-| Niveus        | Winter | First Life (4th)              |
-| Roscidas      | Winter |                               |
-| Inceptum      | Spring | Guilds Exhibition (12th)      |
-| Flavum        | Spring | Coronation Anniversary (11th) |
-| Ascendentem   | Spring | Caelum's Day (24th)           |
+| Month (24 days) | Events                        |
+| --------------- | ----------------------------- |
+| Adventus        | Caelum's Light (1st)          |
+| Viridis         | Aura's Birthday (14th)        |
+| Vale            | Guilds Exhibition (12th)      |
+| Perventum       | Arrows Day (17th)             |
+| Rubrum          |                               |
+| Habeo           | Guilds Exhibition (12th)      |
+| Tabernacula     |                               |
+| Niveus          | First Life (4th)              |
+| Roscidas        | Guilds Exhibition (12th)      |
+| Inceptum        |                               |
+| Flavum          | Coronation Anniversary (11th) |
+| Ascendentem     | Guilds Exhibition (12th)      |
 
 ##### **The Miasma**
 
 With the exception of the Relief, Fio is believed to be completely engulfed by the Miasma, a purple fog that envelops the globe and reaches almost 36,000 feet into the sky. The denizens of *Nox*, the highest earthmote in the Relief, are able to see the vast blanket of magical fog from above, enshrouding the world. The Miasma has tides affected by Fio's moon. Malformed landscape plagued by sickened flora and fauna is revealed at the fringes of the Relief then concealed again on a six-day cycle. Occasionally, migrating monsters and even rogue earthmotes emerge from the Miasma, proving that survival is possible beyond the barrier. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom. Though the history of these pillars remains a mystery.
+
+##### **Caelum's Light**
+
+Caelum's Light is a holiday celebrated across the Relief. It marks the beginning of a new year as Fio passes through a wondrous aurora. Chromatic ribbons illuminate the sky at midnight every 24th of Ascendentem. The light is believed to be a blessing from Caelum, the colours representing the pride or shame he may feel for his people at the year's end. Since the arrival of Nox in in 192 PO, it is believed that a new earthmote appears somewhere on Fio during every Caelum's Light. Scholars believe that this is a result of Fio passing through a planar portal created by Caelum when he ascended to divinity 1,000 years ago. The arriving earthmotes can vary greatly in size and biome and can be deposited anywhere in Fio. Most earthmotes are uninhabited chunks of land which may house valuable minerals. On the occasion a populated earthmote arrives in the Relief, the *Church of Caelum* are the first to extend a hand of welcome and help reorient the newcomers.
 
 ### Welcome to the Relief
 

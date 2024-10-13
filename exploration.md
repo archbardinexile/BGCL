@@ -92,6 +92,35 @@ When you roll an 11, you may re-roll that die and add an appropriate settlement,
 
 When you roll a 12 a planar portal may be present. Re-roll that die and add a portal of your choice to the biome you discover. For example, you may roll a 12 and a 7, then re-roll an 8. A portal to the elemental plane of fire may turn an alpine lake into a bubbling hot spring, or a portal to the Feywild may alter the surrounding flora in strange ways.
 
+### Weather
+*Dungeon Master's Guide, p. 109*
+
+You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
+
+##### **Weather**
+
+| d20   | Temperature                                    |
+| ----- | ---------------------------------------------- |
+| 1-14  | normal for the season                          |
+| 15-17 | 1d4 × 10 degrees Fahrenheit colder than normal |
+| 18-20 | 1d4 × 10 degrees Fahrenheit hotter than normal |
+
+##### **Wind**
+
+| d20   | Wind        |
+| ----- | ----------- |
+| 1-12  | no wind     |
+| 13-17 | light wind  |
+| 18-20 | strong wind |
+
+##### **Precipitation**
+
+| d20   | Precipitation                |
+| ----- | ---------------------------- |
+| 1-12  | no precipitation             |
+| 13-17 | light rain or light snowfall |
+| 18-20 | heavy rain or heavy snowfall |
+
 ---
 
 ### **Next: [Timeline](timeline.md)**
