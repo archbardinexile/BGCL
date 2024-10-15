@@ -7,32 +7,32 @@ For almost a millennium the world of *Fio* has been plagued by an unnatural, per
 
 ### A World Obscured
 
-The world of Fio is estimated by scholars to be approximately 7,500 miles in diameter. It takes 288 days for Fio to orbit its sun, *Sol* and 24 hours to complete one rotation around its polar axis. Fio oscillates on its equatorial axes causing a change in axial tilt from 23° to -23° and a change in average temperature from 6℃ to 21℃ over the course of six days. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*. Sunday is the longest day while Winday is the shortest. Fio has a single moon, *Auga*, which sits above the northern hemisphere in geostationary orbit. Auga appears to circle the sky above the Relief once every week and transitions from new to full every day.
+The world of Fio is estimated by scholars to be approximately 7,500 miles in diameter. Fio's rotation period is 24 hours and it takes 336 days for Fio to orbit its sun, *Sol*. Due to Fio's axial tilt of approximately 23°, the amount of sunlight reaching any given point on the surface varies over the course of a year. This causes a seasonal change in climate. According to the *New Sol Orbis Calendar*, there are twelve 28-day months in a year and seven days in a week. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Eorday*, *Starday* and *Sunday*. Fio has a single moon, *Auga*, which orbits Fio approximately every 23½ days. Auga orbits Fio 14¼ times in one year and 57 times in four years. A period of four years is known as a *fewyear*. A solar eclipse occurs every fewyear. This event is known as *Caelum's Light*.
 
 ##### **The Calendar**
 
-| Month (24 days) | Events                        |
-| --------------- | ----------------------------- |
-| Adventus        | Caelum's Light (1st)          |
-| Viridis         | Aura's Birthday (14th)        |
-| Vale            | Guilds Exhibition (12th)      |
-| Perventum       | Arrows Day (17th)             |
-| Rubrum          |                               |
-| Habeo           | Guilds Exhibition (12th)      |
-| Tabernacula     |                               |
-| Niveus          | First Life (4th)              |
-| Roscidas        | Guilds Exhibition (12th)      |
-| Inceptum        |                               |
-| Flavum          | Coronation Anniversary (11th) |
-| Ascendentem     | Guilds Exhibition (12th)      |
+| Month         | Season | Holidays                              |
+| ------------- | ------ | ------------------------------------- |
+| Adventus      | Summer | Summer Solstice, Caelum's Light (1st) |
+| Viridis       | Summer | Aura's Birthday (14th)                |
+| Vale          | Summer | Guilds Exhibition                     |
+| Perventum     | Autumn | Arrows Day (17th)                     |
+| Rubrum        | Autumn | Harvest Festival (12th-18th)          |
+| Habeo         | Autumn | Guilds Exhibition                     |
+| Tabernacula   | Winter | Winter Solstice                       |
+| Niveus        | Winter | First Life (4th)                      |
+| Roscidas      | Winter | Guilds Exhibition                     |
+| Inceptum      | Spring |                                       |
+| Flavum        | Spring | Coronation Anniversary (11th)         |
+| Ascendentem   | Spring | Guilds Exhibition                     |
 
 ##### **The Miasma**
 
-With the exception of the Relief, Fio is believed to be completely engulfed by the Miasma, a purple fog that envelops the globe and reaches almost 36,000 feet into the sky. The denizens of *Nox*, the highest earthmote in the Relief, are able to see the vast blanket of magical fog from above, enshrouding the world. The Miasma has tides affected by Fio's moon. Malformed landscape plagued by sickened flora and fauna is revealed at the fringes of the Relief then concealed again on a six-day cycle. Occasionally, migrating monsters and even rogue earthmotes emerge from the Miasma, proving that survival is possible beyond the barrier. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom. Though the history of these pillars remains a mystery.
+With the exception of the Relief, Fio is believed to be completely engulfed by the Miasma, a purple fog that envelops the globe and reaches almost 36,000 feet into the sky. The denizens of *Nox*, the highest earthmote in the Relief, are able to see the vast blanket of magical fog from above, enshrouding the world. The Miasma has tides affected by Fio's moon. Malformed landscape plagued by sickened flora and fauna is revealed and concealed from west to east on a 23½-day cycle. Occasionally, migrating monsters and even rogue earthmotes emerge from the Miasma, proving that survival is possible beyond the barrier. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom. Though the history of these pillars remains a mystery.
 
 ##### **Caelum's Light**
 
-Caelum's Light is a holiday celebrated across the Relief. It marks the beginning of a new year as Fio passes through a wondrous aurora. Chromatic ribbons illuminate the sky at midnight every 24th of Ascendentem. The light is believed to be a blessing from Caelum, the colours representing the pride or shame he may feel for his people at the year's end. Since the arrival of Nox in in 192 PO, it is believed that a new earthmote appears somewhere on Fio during every Caelum's Light. Scholars believe that this is a result of Fio passing through a planar portal created by Caelum when he ascended to divinity 1,000 years ago. The arriving earthmotes can vary greatly in size and biome and can be deposited anywhere in Fio. Most earthmotes are uninhabited chunks of land which may house valuable minerals. On the occasion a populated earthmote arrives in the Relief, the *Church of Caelum* are the first to extend a hand of welcome and help reorient the newcomers.
+Caelum's Light is a holiday celebrated across the Relief. It marks the beginning of a new fewyear as chromatic rays illuminate the fringes of the solar eclipse at midnight, Adventus 1st. The light is believed to be a blessing from Caelum, the colours representing the pride or shame he may feel for his people at the year's end. Since the arrival of Nox in in 192 PO, it is believed that a new earthmote appears somewhere on Fio during every Caelum's Light. Scholars believe that this is a result of Fio aligning with a planar portal created by Caelum when he ascended to divinity 1,000 years ago. Arriving earthmotes can vary greatly in size and biome and can be deposited anywhere in Fio. Most earthmotes are uninhabited chunks of land which may house valuable minerals. On the occasion a populated earthmote arrives in the Relief, the *Church of Caelum* are the first to extend a hand of welcome and help reorient the newcomers.
 
 ### Welcome to the Relief
 
