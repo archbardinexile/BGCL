@@ -3,7 +3,7 @@ layout: page
 title: Exploration
 ---
 
-While exploring the Relief and delving into the depths of the Miasma, you may discover new regions and earthmotes yet to be charted. When navigating through the skies, an essential piece of equipment is the six-point compass; a spherical device that can not only determine the direction of magnetic north, but also provide the elevation of one's destination. A third perpendicular axis on the compass traps a small lead pellet at one end, and a pocket of air at the other, providing wary explorers with the means to always know which way is up. In addition to north, east, south and west, *skew* is used to denote an elevation of 90 degrees (directly above the observer), while *erde* is used to denote an elevation of 270 degrees (directly below the observer). For example, Nox, a high altitude earthmote in the northernmost region of Glacialis, would be *skew-north* of the observer when viewed from Caelum's Landing.
+While exploring the Relief and delving into the depths of the Miasma, you may discover new regions and earthmotes yet to be charted. When navigating through the skies, an essential piece of equipment is the *six-point compass*; a spherical device that can not only determine the direction of magnetic north, but also provide the elevation of one's destination. A third perpendicular axis on the compass traps a small lead pellet at one end, and a pocket of air at the other, providing wary explorers with the means to always know which way is up. In addition to north, east, south and west, *skew* is used to denote an elevation of 90° (directly above the observer), while *erde* is used to denote an elevation of 270° (directly below the observer). For example, Nox, a high altitude earthmote in the northernmost region of Glacialis, would be *skew-north* of the observer when viewed from Caelum's Landing.
 
 Those wishing to explore the skies without the aid of public transportation may visit *Caelum's Landing University* in order to gain their *glider proficiency*. Gliders are the simplest and cheapest way to traverse the skies between earthmotes, and are as commonplace as the humble bicycle. They come in single and two-seat variants, while some larger gliders even come equipped with small resonance engines to travel longer distances. Adventurers beware: most personal gliders are not built to handle strong winds and stormy weather. Hiring an airship is strongly recommended for more taxing journeys.
 
@@ -11,7 +11,9 @@ Those wishing to explore the skies without the aid of public transportation may 
 
 Earthmotes are pieces of land that, due to the influence of magic, float above the ground. Despite their appearance, earthmotes are as durable and stable as any island at sea level. Every earthmote is unique in size, shape and altitude. A few move either in programmed routes or erratically, but most are stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, don't have any effect on an earthmote's ability to float.
 
-You can determine the size of an earthmote or region using the ***Size*** table below. You can then determine that earthmote's biome type by selecting features from ***Biomes*** table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level. The Biomes table also shows which encounter tables to use when traversing the biome. These encounter tables can be found in ***Xanathar's Guide to Everything***.
+You can determine the size of an earthmote or region using the ***Size*** table below. You can then determine that earthmote's biome type by selecting features from ***Biomes*** table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level.
+
+The Biomes table also shows which encounter tables to use when traversing the biome. These tables can be found in ***Xanathar's Guide to Everything***. You can also use the ***Weather*** tables found in the ***Dungeon Master's Guide*** to determine the temperature, wind and precipitation.
 
 ##### **Size**
 
@@ -92,8 +94,7 @@ When you roll an 11, you may re-roll that die and add an appropriate settlement,
 
 When you roll a 12 a planar portal may be present. Re-roll that die and add a portal of your choice to the biome you discover. For example, you may roll a 12 and a 7, then re-roll an 8. A portal to the elemental plane of fire may turn an alpine lake into a bubbling hot spring, or a portal to the Feywild may alter the surrounding flora in strange ways.
 
-### Weather
-*Dungeon Master's Guide, p. 109*
+### Weather (DMG, p. 109)
 
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 

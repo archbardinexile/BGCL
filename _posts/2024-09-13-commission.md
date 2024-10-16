@@ -7,12 +7,15 @@ The Commission for the Research of Offshore Worlds, affectionately called Crows,
 
 ### Notable Members
 
-- **Glimback Toestubber** Founder of the Commission.
+##### **Glimback Toestubber**
+
+Founder of the Commission.
+
 - **Bartholomeus Fairchild** Human member of the Commission, author of Barty's Guide to Caelum's Landing
 - **Hadley Pinchbrew** Halfling artificer, alchemist and portent wizard
 - **Droleg the Wit** Hobgoblin oath of glory paladin and bard
 
-## Order of the Lantern
+# Order of the Lantern
 
 ### Notable Members
 
