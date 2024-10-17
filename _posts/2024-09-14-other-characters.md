@@ -24,10 +24,6 @@ Giant mountain-like dragon asleep under Montanum
 
 Queen of Mallia.
 
-### Anselm Chlodovech
-
-Signed the Fundus Constitution (516 PO)
-
 ### Neira
 
 ### Meizilde

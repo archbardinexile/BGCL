@@ -50,3 +50,4 @@ Prefect of Tenebrae's Refuge, member of the Commission.
 - **Tristis Veritas** Grand Inquisitor.
 - **Patrocinor Mors** Grand Herald.
 - **Luna Vigil** Prefect of Micantrum.
+- **Auga Vigil** First of the Vigil dynasty.
