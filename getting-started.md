@@ -16,13 +16,13 @@ Fio is the name of a planet in the *Material plane*. Estimated by scholars to be
 | Adventus      | Summer | Summer Solstice, Caelum's Light (1st)       |
 | Viridis       | Summer | Aura's Birthday (14th)                      |
 | Vale          | Summer | Guilds Exhibition                           |
-| Perventum     | Autumn | Arrows Day (17th)                           |
+| Perventum     | Autumn | Autumn Equinox, Arrows Day (17th)           |
 | Rubrum        | Autumn | Harvest Festival (12th-18th)                |
 | Habeo         | Autumn | Guilds Exhibition                           |
 | Tabernacula   | Winter | Winter Solstice                             |
 | Niveus        | Winter | First Life (4th)                            |
 | Roscidas      | Winter | Guilds Exhibition                           |
-| Inceptum      | Spring |                                             |
+| Inceptum      | Spring | Spring Equinox                              |
 | Flavum        | Spring | Coronation Anniversary (11th)               |
 | Ascendentem   | Spring | Guilds Exhibition, Caelum's Birthday (24th) |
 
