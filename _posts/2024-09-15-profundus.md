@@ -59,6 +59,10 @@ Ingenium appeared in the skies north east of Fundus in the year 748 PO, bringing
 
 The Outermotes are the territories of the Church that can only be reached by airship or glider. Though the Church has established a presence in these regions, their distance from Caelum's Landing and lack of Church involvement can sometimes invite apostasy.
 
+##### **Kingdom of Diamante**
+
+
+
 ##### **Micantrum**
 
 Micantrum is the smallest of the Church's territories at only eight miles in diameter. The earthmote can be described as a floating geode northeast of Fundus. It is spherical in shape, with several tunnel entrances that lead inside to the 1,000 storied rings that form a disreputable mining metropolis. Inside, crystals are illuminated by an artificial moon hanging at the earthmote's centre, created by Micantrum's current governor, the philandering tiefling wizard, [Havat Eilistre](). Under his administration, Micantrum has become a lawless place of debauchery, gambling and fornication. Denizens can even be found battling for riches in Micantrum's infamous gladiatorial arena. The Church maintains a trade presence through Micantrum's Prefect, [Luna Vigil](). However, much to the Church's disdain, they were recently revealed to have become Eilistre's mistress. Many believe it is this affair that has caused Micantrum's reputation to fall into its current state. Thanks to its seclusion, many races who prefer to live in darkness make their home in Micantrum.
