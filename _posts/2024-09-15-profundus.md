@@ -27,6 +27,8 @@ Caelum's Landing boasts 20 square miles of developed areas, making it the larges
 
 ##### **Fundus Park**
 
+
+
 ##### **Crowswood Place**
 
 Crowswood Place is the stately manor home of the [Commission]() for the Research of Offshore Worlds, or the Commission for short. Situated west of Caelum's Landing University, members of this organization are affectionately called Crows. They are tasked with surveying the earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [Order of the Lantern](). These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the Miasma.
@@ -58,10 +60,6 @@ Ingenium appeared in the skies north east of Fundus in the year 748 PO, bringing
 ### The Outermotes
 
 The Outermotes are the territories of the Church that can only be reached by airship or glider. Though the Church has established a presence in these regions, their distance from Caelum's Landing and lack of Church involvement can sometimes invite apostasy.
-
-##### **Kingdom of Diamante**
-
-
 
 ##### **Micantrum**
 

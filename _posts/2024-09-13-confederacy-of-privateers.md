@@ -10,5 +10,6 @@ published: false
 
 ### Notable Members
 
-- **Bhaldrom Anchorheart** Seafaring mercenary in service to Umberlee.
-- **Charyz'ad** Hyperactive red dragon sorcerer githyanki
+##### **Bhaldrom Anchorheart**
+
+Seafaring mercenary in service to Umberlee.
