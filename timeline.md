@@ -121,5 +121,5 @@ Though the imps were defeated and Madanau saved, the oasis' source, a portal to 
 
 ---
 
-### **Next: [Character](character.md)**
+### **Next: [Links](links.md)**
 ### **Previous: [Exploration](exploration.md)**

@@ -124,6 +124,23 @@ You can pick weather to fit your campaign or roll on the Weather table to determ
 | 13-17 | light rain or light snowfall |
 | 18-20 | heavy rain or heavy snowfall |
 
+### Psychosis
+
+Venturing into the Miasma for long periods without protection or being maimed by one of the aberrations within can lead to a special condition called *psychosis*. Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis.
+
+| Level | Effect                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | The creature inhales Miasma exuded from the environment or an aberration and is ***poisoned***                                                    |
+| 2     | The creature becomes dizzy and its speed is halved                                                                                                |
+| 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |
+| 4     | The creature's skin tone becomes pallid, its eyes turn purple and its hit point maximum is halved                                                 |
+| 5     | The creature suffers extreme paranoia and must use its action each round to attack the nearest creature                                           |
+| 6     | The creature becomes an ***aberration***. It can't cast spells, activate magic items, understand language, or communicate in any intelligible way |
+
+If a creature suffers another effect that causes psychosis while it already has a level of psychosis, its current level of psychosis increases by an amount appropriate for the effect. A creature suffers the effect of its current level of psychosis as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and is poisoned.
+
+An effect that removes psychosis reduces the level of psychosis by an appropriate amount, with all psychosis effects ending if a creature's level of psychosis is reduced below 1. Finishing a long rest reduces a creature's level of psychosis by 1, provided that the creature is not inside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A ***lesser restoration*** spell can rid a character of 1 level of psychosis, while a ***greater restoration*** spell is required to rid a character of 1d4 levels of psychosis.
+
 ---
 
 ### **Next: [Timeline](timeline.md)**
