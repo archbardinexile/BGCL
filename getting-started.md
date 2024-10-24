@@ -38,15 +38,15 @@ Caelum's Light is a holiday celebrated across the Relief. It marks the beginning
 
 The Relief is a circular expanse in the northern hemisphere of Fio unaffected by the Miasma. Approximately 1,000 miles in diameter, the Relief spans six unique regions with an abundance of culture that transcends even the barriers between the planes of existence.
 
-- [**Profundus**](profundus) is the largest region at the centre of the Relief. It plays host to Caelum's Landing, the capital city of Fundus and the most prominent and populous city in the known world.
+- [**Profundus**](profundus) is the largest region at the centre of the Relief. It plays host to Caelum's Landing, the capital city of Fundus and the most prominent and populous city in the known world where adventurers and tourists alike can travel the [Innermotes](profundus#the-innermotes) in style on powered cable cars.
 
-- [**Glacialis**](glacialis), the frozen region to the north, suffers arctic climates that only the stalwart denizens of Nox can endure.
+- [**Glacialis**](glacialis), the frozen region to the north, suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of Nox look upon the Relief through rings of aurora, while further east, the dinosaur-riding clans of [Primal Antiqua](glacialis#primal-antiqua) thrive on more verdant land.
 
 - [**Contritus**](contritus), the easternmost region, is broken by the far-reaching fjords and archipelagos of the [Manyshells](contritus#the-manyshells). To the south-east, the enormous jungle earthmote [Mallia](contritus#mallia) appears to drain the sea with curtains of vines that veil its shores.
 
 - [**Calidus**](calidus), the southernmost region, is blanketed by harsh sands, yet many varied cultures thrive here. The sandstone city of [Arx](calidus#arx) offers refuge to travellers while powerful fiends are said to watch with envious eyes from the darkened landscape beyond the Miasma.
 
-- [**Montanum**](montanum) to the west is characterised by its expansive mountain ranges. Much of Montanum is engulfed by the Miasma, while the peninsula of [Porta Ignota](montanum#porta-ignota) serves as an invaluable trade hub for intrepid explorers.
+- [**Montanum**](montanum) to the west is characterised by its expansive mountain ranges. Affluent nations sit atop the earthmote [Vinculo](montanum#vinculo), while the peninsula of [Porta Ignota](montanum#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the Miasma.
 
 - [**Discidium**](discidium), though completely engulfed by the Miasma, can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which [Mundi Eversor](#mundi-eversor) emerged 1,000 years ago.
 
@@ -56,7 +56,7 @@ Sat at the centre of the Relief with an area of 150 square miles, the earthmote 
 
 ### An Era of Innovation
 
-A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel the [Innermotes](profundus#the-innermotes) in style on powered cable cars. The most wealthy of denizens can even be found driving rudimentary automobiles, powered by [resonance engines](#resonance-engines).
+A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel the Innermotes in style on powered cable cars. The most wealthy of denizens can even be found driving rudimentary automobiles, powered by [resonance engines](#resonance-engines).
 
 ##### **Resonance Engines**
 
@@ -88,11 +88,15 @@ The world of Fio holds many opportunities for budding adventurers. Join one of i
 
 - [**The Dawnroot Druids**](dawnroot-druids) make their home in the Dawnroot Forest on Fundus, secluded from the trappings of lifestyle in the capital. They revere and protect a portal to the elemental plane of water, the source of the Fountainhead River, which they believe to be a blessing from *Silvanus*, the deity of wild nature. Though they disapprove of the Church's expansionist practices, they seem to prefer not to intervene.
 
+- [**The Kingdom of Diamante**](kingdom-of-diamante) is the largest of several feudal nations that sit atop the earthmote Vinculo on the north-western border between Profundus and Montanum. Currently ruled by Queen [Carina Diamante IV](kingdom-of-diamante#carina-diamante-iv) and her consort, [Rafael de Florencia](kingdom-of-diamante#rafael-de-florencia), the nation boasts great wealth and pride in their flamboyant culture.
+
 - [**The Cult of Tenebrae**](cult-of-tenebrae) work in the shadows to expose the hypocrisy of the Church of Caelum. They claim the Miasma was released 1,000 years ago as a result of Caelum's ritual to expel the darkness within him so that he might to ascend to divinity. They also claim Mundi Eversor was created by Tenebrae and his followers in order to stop Caelum.
 
 - [**The League of Archfiends**](league-of-archfiends) is said to be a secret cabal of fiends who operate from within the Miasma, subsidising illegal practices across the Relief that will bring them luxury in their empire beyond the barrier. It is rumoured they even conspired with Tenebrae to create Mundi Eversor 1,000 years ago, but it has never been proven the organisation exists or ever existed.
 
 - [**The Confederacy of Privateers**](confederacy-of-privateers) is a loose alliance of pirates, privateers and merchant crews governed by those with the largest fleets and the greatest wealth. The bowels of [Raptor Island](contritus#raptor-island) serve as headquarters for the ever-changing members of a pirate moot that keep the various guilds of the Manyshells in check, while the mayor of [Anchora](contritus#anchora) acts only as their figurehead.
+
+- [**The Githzechi Clans**](githzechi-clans) are said to be the descendants of githyanki who fell through a portal to the *Astral Plane* several centuries ago. The clans constantly feud over the barren territories of [Os Terrae](calidus#os-terrae) and have developed their psionic abilities to survive its harsh sands. While some uphold their faith in *Vlaakith*, others seek their fortune in Os Terrae's grand sinkhole that provides precious materials from the *Elemental Plane of Earth*.
 
 Other factions that can be found across the Relief include: the [Mining Consortium](other-factions#mining-consortium), an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](profundus#micantrum); the [Bounty Hunters Codex](other-factions#bounty-hunters-codex), a code of honour that binds all hunters, hunter parties and lodges to prevent infighting and ensure business remains profitable; and the [Merchants Guild](other-factions#merchants-guild), a union of tradespeople operating out of Arx that sponsor and protect independent merchants across the Relief. Other characters you encounter may travel the Relief independently or work on behalf of a guild or society. Routinely, these characters can offer freelance work for budding adventurers. You might find yourself protecting a cable car of perishable goods from *Zipper Pirates* or catching rare and exotic fish for the *Fishing Guild*.
 
