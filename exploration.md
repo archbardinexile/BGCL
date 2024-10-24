@@ -3,7 +3,7 @@ layout: page
 title: Exploration
 ---
 
-While exploring the [Relief](getting-started.md#the-relief) and delving into the depths of the [Miasma](getting-started.md#the-miasma), you may discover new regions and [earthmotes](exploration.md#earthmotes) yet to be charted. When navigating through the skies, an essential piece of equipment is the *six-point compass*; a spherical device that can not only determine the direction of magnetic north, but also provide the elevation of one's destination. A third perpendicular axis on the compass traps a small lead pellet at one end, and a pocket of air at the other, providing wary explorers with the means to always know which way is up. In addition to north, east, south and west, *skew* is used to denote an elevation of 90° (directly above the observer), while *erde* is used to denote an elevation of 270° (directly below the observer). For example, [Nox](_posts/2024-09-15-glacialis.md#nox), a high-altitude earthmote in the northernmost region of [Glacialis](_posts/2024-09-15-glacialis.md), would be *skew-north* of the observer when viewed from [Caelum's Landing](_posts/2024-09-15-profundus.md#caelums-landing).
+While exploring the [Relief](getting-started#the-relief) and delving into the depths of the [Miasma](getting-started#the-miasma), you may discover new regions and [earthmotes](exploration#earthmotes) yet to be charted. When navigating through the skies, an essential piece of equipment is the *six-point compass*; a spherical device that can not only determine the direction of magnetic north, but also provide the elevation of one's destination. A third perpendicular axis on the compass traps a small lead pellet at one end, and a pocket of air at the other, providing wary explorers with the means to always know which way is up. In addition to north, east, south and west, *skew* is used to denote an elevation of 90° (directly above the observer), while *erde* is used to denote an elevation of 270° (directly below the observer). For example, [Nox](glacialis#nox), a high-altitude earthmote in the northernmost region of [Glacialis](glacialis), would be *skew-north* of the observer when viewed from [Caelum's Landing](profundus#caelums-landing).
 
 ##### **Glider Proficiency**
 
@@ -143,5 +143,5 @@ An effect that removes psychosis reduces the level of psychosis by an appropriat
 
 ---
 
-### **Next: [Timeline](timeline.md)**
-### **Previous: [Getting Started](getting-started.md)**
+### **Next: [Timeline](timeline)**
+### **Previous: [Getting Started](getting-started)**
