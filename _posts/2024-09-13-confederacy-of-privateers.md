@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Confederacy of Privateers (Faction)
-published: false
 ---
 
 - Zipper Pirates
@@ -12,4 +11,4 @@ published: false
 
 ##### **Bhaldrom Anchorheart**
 
-Seafaring mercenary in service to Umberlee.
+Seafaring mercenary in service to Umberlee. Guy Brush's Captain.

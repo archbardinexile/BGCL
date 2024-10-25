@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Adventurers of Renown
-published: false
 ---
-
-### Tenebrae
-
-Ancient earth genasi in hiding.
 
 ### Nox
 

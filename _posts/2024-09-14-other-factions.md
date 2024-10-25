@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jobs and Guilds
-published: false
 ---
 
 # Mining Consortium

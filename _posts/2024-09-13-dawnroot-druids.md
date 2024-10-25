@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Dawnroot Druids (Faction)
-published: false
 ---
 
 ## Notable Members

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The League of Archfiends (Faction)
-published: false
 ---
 
 ## Notable Members
