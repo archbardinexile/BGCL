@@ -5,7 +5,7 @@ title: The Church of Caelum (Faction)
 
 The Church of Caelum is the most prominent nation in the [Relief](setting-started#the-relief). Ruled by the *Exarch*, [Aura Sol Orbis](#aura-sol-orbis), its territories stretch as far as the [Miasma](getting-started#the-miasma). Its capital, Caelum's Landing, is the largest and most populous city in the Relief, with much of the region's trade passing through its markets. Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), governance of the nation has been shared with the [Ministry](ministry), while the [Inland Guard](ministry#inland-guard) police the capital. This makes the nation a *constitutional theocracy*. The Church has remained the most influential and widespread religion in [Fio](getting-started#a-world-obscured) for 1,000 years. It seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
 
-### Notable Roles
+### Roles
 
 - **Exarch** is the title given to the head of the Church of Caelum. The Exarch establishes the laws of the nation as proposed by the *Chairman* of the Ministry. The current Exarch is Aura Sol Orbis. She resides in the *Oratory* on [Caelum's Landing](profundus#caelums-landing).
 
@@ -23,7 +23,7 @@ The Church of Caelum is the most prominent nation in the [Relief](setting-starte
 
 - **Heralds** are the Church's sacred groundskeepers. Their duties include tending to the Oratory's graveyards and gardens among other sacred sites. They also perform funeral rites.
 
-### Members
+### Notable Members
 
 ##### **Aura Sol Orbis**
 
@@ -37,42 +37,19 @@ Aura has warm-tinted brown skin and sky-blue eyes much like her father, and spor
 
 Following the natural death of her father, Aura was heralded as the new Exarch in a grand coronation on the 11th day of Flavum, [986 PO](timeline#986-po). Accepting her crown, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](#sana-sol-orbis), Prefect of [Madanau](profundus#madanau) and her sister [Clara](#clara-sol-orbis), Prefect of [Tenebrae's Refuge](profundus#tenebraes-refuge).
 
-<details>
-<summary><b>Stat Block</b></summary>
-
-##### **Aasimar Paladin**
-
-- **Armour Class:** 00 (leather armour)
-- **Hit Points:** 00 (0d0 +0)
-- **Speed:** 00 ft.
-- **Passive WIS:** 00
-- **Proficiency:** +0
-
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 00    | 00    | 00    | 00    | 00    | 00    |
-| 00    | 00    | 00    | 00    | 00    | 00    |
-
-##### **Actions**
-
-**Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
-
-**Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
-
-</details>
-
-
-### Spiro Sol Orbis
+##### **Spiro Sol Orbis**
 
 Grand Paladin, Prefect of Ingenium.
 
-### Sana Sol Orbis
+##### **Sana Sol Orbis**
 
 Prefect of Madanau.
 
-### Clara Sol Orbis
+##### **Clara Sol Orbis**
 
 Prefect of Tenebrae's Refuge, member of the Commission.
+
+### Other Members
 
 - **Prima Vita Sol Orbis** Caelum's Daughter.
 - **Rex Sol Orbis** Exarch who signed the Fundus Constitution (516 PO).
