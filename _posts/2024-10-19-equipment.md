@@ -15,7 +15,7 @@ You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon
 
 *Martial weapon, ranged weapon, firearm, rare.* 500 gp, 3 lb.
 
-**2d6 piercing. Ammunition (50/150 ft), loading.**
+**2d6 piercing. Ammunition (50/150 ft.), loading.**
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
@@ -27,6 +27,14 @@ You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon
 
 *Martial weapon, ranged weapon, firearm, rare.* 1000 gp, 10 lb.
 
-**2d8 piercing. Ammunition (80/240 ft), loading, two-handed.**
+**2d8 piercing. Ammunition (80/240 ft.), loading, two-handed.**
 
 **Two-handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+
+### Zip-Wheel
+
+*Improvised weapon, ranged weapon, firearm.* 200 gp, 3 lb.
+
+**3d4 bludgeoning. Ammunition (15 ft. cone), loading, two-handed.**
+
+You drop a handful of ball bearings into your zip-wheel while it spins at high speed. ***On a roll of 5 or less:*** the zip-wheel jams and must be repaired using an action.
