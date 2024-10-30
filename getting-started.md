@@ -3,7 +3,7 @@ layout: page
 title: Getting Started
 ---
 
-For almost a millennium the world of [Fio](#a-world-obscured) has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](#the-miasma), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing](profundus#caelums-landing) sits atop [Fundus](#fundus) at the heart of a circular [Relief](#the-relief) in the storm. It was here that [Caelum Sol Orbis](#caelum-sol-orbis) sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](exploration#earthmotes), large chunks of land that float above the ground. This event has come to be known as the [Rising](timeline#the-rising). You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing.
+For almost a millennium the world of [Fio](#a-world-obscured) has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](#the-miasma), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing](profundus#caelums-landing) sits atop [Fundus](profundus#fundus) at the heart of a circular [Relief](#the-relief) in the storm. It was here that [Caelum Sol Orbis](#caelum-sol-orbis) sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](exploration#earthmotes), large chunks of land that float above the ground. This event has come to be known as the [Rising](timeline#the-rising). You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing.
 
 ### A World Obscured
 
@@ -38,7 +38,7 @@ Caelum's Light is a holiday celebrated across the Relief. It marks the beginning
 
 The Relief is a circular expanse in the northern hemisphere of Fio unaffected by the Miasma. Approximately 1,000 miles in diameter, the Relief spans six unique regions with an abundance of culture that transcends even the barriers between the planes of existence.
 
-- [**Profundus**](profundus) is the largest region at the centre of the Relief. It plays host to Caelum's Landing, the capital city of Fundus and one of the largest and most populous cities in the Relief where adventurers and tourists alike can travel the [Innermotes](profundus#the-innermotes) in style on powered cable cars.
+- [**Profundus**](profundus) is the largest region at the centre of the Relief. It plays host to one of the largest and most populous cities in the Relief, Caelum's Landing, the capital city of Fundus. Adventurers and tourists can take advantage of sprawling markets and travel the [Innermotes](profundus#the-innermotes) on powered cable cars.
 
 - [**Glacialis**](glacialis), the frozen region to the north, suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of Nox look upon the Relief through rings of aurora, while further east, the dinosaur-riding clans of [Primal Antiqua](glacialis#primal-antiqua) thrive on more verdant land.
 
@@ -49,10 +49,6 @@ The Relief is a circular expanse in the northern hemisphere of Fio unaffected by
 - [**Montanum**](montanum) to the west is characterised by its expansive mountain ranges. Affluent nations sit atop the earthmote [Vinculo](montanum#vinculo), while the peninsula of [Porta Ignota](montanum#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the Miasma.
 
 - [**Discidium**](discidium), though completely engulfed by the Miasma, can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which [Mundi Eversor](#mundi-eversor) emerged 1,000 years ago.
-
-##### **Fundus**
-
-Sat at the centre of the Relief with an area of 150 square miles, the earthmote Fundus appears to those sailing the [Altum Ocean](profundus#altum-ocean) below as a mighty inverted mountain in the clouds. Its underbelly glimmers with the enchanted [resonite](#resonance-engines) ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. On the south-western shore, a great waterfall is fuelled by the *Fountainhead River*, that leads north-east to the *Dawnroot Forest*. Along the river can be found numerous fishing villages and watermills and at the centre of the forest sits a statue of Caelum, which presides over the river's source; a portal to the elemental plane of water. The [Dawnroot druids](dawnroot-druids) reside here, sworn to protect and nurture the portal.
 
 ### An Era of Innovation
 
@@ -78,7 +74,7 @@ Little is known of the fiend Tenebrae. Restricted chronicles held deep within th
 
 The world of Fio holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take.
 
-- [**The Church of Caelum**](church-of-caelum) is the most prevalent nation and religion in the Relief. Ruled by the *Exarch*, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the Miasma. The nation's capital, Caelum's Landing, is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets.
+- [**The Church of Caelum**](church-of-caelum) is the most prevalent nation and religion in the Relief. Ruled by the *Exarch*, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the Miasma. The nation's capital, Caelum's Landing, is the largest city in Profundus, with much of the region's trade passing through its markets.
 
 - [**The Ministry**](ministry) serves as government for Caelum's Landing and the Church's many territories. Elected representatives from each territory meet in the *Ministerial Houses* to establish the demands of the people and how they will be met by law. Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the Ministry must present new laws to the Exarch for sanction.
 

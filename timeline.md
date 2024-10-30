@@ -23,7 +23,7 @@ Born on the 4th day of Niveus, *Prima Vita Sol Orbis* was Caelum's first and onl
 
 In a bid for power, the fiend Tenebrae conducted a ritual to grow the skeleton of a colossal war machine from the very earth beneath [Discidium](discidium). Flying high above the *Oratory*, Caelum watched in horror as Mundi Eversor erupted from the ground of the neighbouring region. So great was the colossus in size that it seemed to rise from the horizon as it approached. Great chunks of earth crumbled away from Eversor's metallic form and rained down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor began its approach to Anfang. As Eversor took enormous strides toward Anfang, Caelum soared across the [Altum Ocean](profundus#altum-ocean) alongside his winged paladins to intercept the colossus.
 
-Returning to the site where his statue now stands, mortally wounded, Caelum gave his last breath to inspire his people. His people's faith renewed his body and, engulfed in a radiant inferno, Caelum ascended to deliver a final blow to Eversor. The [resonance engine](getting-started#resonance-engines) within Eversor exploded, releasing the [Miasma](getting-started#the-miasma) from its corpse. The resulting magical shock-wave enchanted the deposits of [resonite](getting-started#resonance-engines) in the earth and the [earthmotes](exploration#earthmotes) began to rise. As a fissure opened up around Caelum's city, he stood at its centre and raised his wings. A mighty golden shield grew around the city, holding back the Miasma as [Fundus](getting-started#fundus) rose into the sky.
+Returning to the site where his statue now stands, mortally wounded, Caelum gave his last breath to inspire his people. His people's faith renewed his body and, engulfed in a radiant inferno, Caelum ascended to deliver a final blow to Eversor. The [resonance engine](getting-started#resonance-engines) within Eversor exploded, releasing the [Miasma](getting-started#the-miasma) from its corpse. The resulting magical shock-wave enchanted the deposits of [resonite](getting-started#resonance-engines) in the earth and the [earthmotes](exploration#earthmotes) began to rise. As a fissure opened up around Caelum's city, he stood at its centre and raised his wings. A mighty golden shield grew around the city, holding back the Miasma as [Fundus](profundus#fundus) rose into the sky.
 
 Once the turmoil had subsided, Caelum released the shield and fell to his knees, having expended the last of his energy. Caelum's body erupted into a coruscation of light, and he ascended to godhood. The city was renamed Caelum's Landing in recognition of their saviour. This event is known as the *Rising*. It should be noted, however, that this is only what is written in the chronicles of the Church of Caelum. As more and more adventurers brave the Miasma in search of new lands to settle, strange stone pillars are being discovered which seem to hold chapters of another story.
 
@@ -62,6 +62,12 @@ Chlodovech's successor, *Ewalt Niemann*, would turn to corruption and exploitati
 ##### **The Fundus Constitution is signed**
 
 Facing increasing resistance as support for Vigil grew across the Republic's territories, Niemann was eventually deposed by his own senate for his refusal to surrender. Niemann's envoy and adviser, *Klemens Frey*, would sign a charter alongside Vigil in 416 PO. Since this date, the Church of Caelum has been a constitutional theocracy. The power of government resides with the people, while the Exarch serves as head of state. However, it is still commonplace for the nation to be known simply as the "Church". Auga Vigil assumed the role of Exarch after some encouragement from their peers, given their blood relation to the Sol Orbis family. A new Vigil dynasty would begin while Frey would take on the new role of *Chairman* at the [Ministry](ministry).
+
+### 617 PO
+
+##### **Little Nox separates from Tenebrae's Refuge**
+
+Erde-south-west of Fundus, the earthmote known as [Tenebrae's Refuge](profundus#tenebraes-refuge) is constantly weathered by the *Fountainhead Falls*. In 617 PO, the eastern side of Tenebrae's Refuge was abandoned when it became clear the erosion would finally cause the earthmote to split in two. The new smaller earthmote remained stable and was named [Little Nox](profundus#little-nox).
 
 ### 748 PO
 
