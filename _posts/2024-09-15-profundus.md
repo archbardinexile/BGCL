@@ -3,9 +3,11 @@ layout: post
 title: Profundus (Region)
 ---
 
-*Profundus* is the largest region at the centre of the Relief. It plays host to *Caelum's Landing*, the capital city of *Fundus* and the most prominent and populous city in the known world.
+Profundus is the largest region at the centre of the [Relief](getting-started#the-relief). It plays host to [Caelum's Landing](#caelums-landing), the capital city of [Fundus](#fundus) and one of the largest and most populous cities in the Relief where adventurers and tourists alike can travel the [Innermotes](profundus#the-innermotes) in style on powered cable cars.
 
 ### Fundus
+
+Sat at the centre of the Relief with an area of 150 square miles, the [earthmote](exploration#earthmotes) Fundus appears to those sailing the [Altum Ocean](profundus#altum-ocean) below as a mighty inverted mountain in the clouds. Its underbelly glimmers with the enchanted [resonite](getting-started#resonance-engines) ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region.
 
 ##### **Caelum’s Landing**
 
@@ -27,7 +29,7 @@ Caelum's Landing boasts 20 square miles of developed areas, making it the larges
 
 ##### **Fundus Park**
 
-
+Fundus Park is a small town on the south-western shore of Fundus constructed around the first cable car station on the *Calligo Way*. It has several amenities one might need after a lengthy journey. A tavern, several inns, even a tourist information centre. The park itself has rolling green hills and a lush pond with a statuesque fountain in the centre. Beyond the park can be found patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers.
 
 ##### **Crowswood Place**
 
