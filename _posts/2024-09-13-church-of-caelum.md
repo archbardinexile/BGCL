@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Church of Caelum (Faction)
+title: Church of Caelum
 ---
 
 The Church of Caelum is the most prevalent nation and religion in the [Relief](getting-started#the-relief). Ruled by the *Exarch*, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the [Miasma](getting-started#the-miasma). The nation's capital, [Caelum's Landing](profundus#caelums-landing), is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets. Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the [Ministry](ministry) must present new laws to the Exarch for sanction. The Church has remained the most influential and widespread religion in [Fio](getting-started#a-world-obscured) for 1,000 years. It seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
@@ -49,6 +49,10 @@ Prefect of Madanau.
 
 Prefect of Tenebrae's Refuge, member of the Commission.
 
+##### **Luna Vigil**
+
+Prefect of Micantrum.
+
 ### Other Members
 
 - **Prima Vita Sol Orbis** Caelum's Daughter.
@@ -57,5 +61,4 @@ Prefect of Tenebrae's Refuge, member of the Commission.
 - **Ardeat Sol Orbis** Former Exarch, father of Aura, Spiro, Sana and Clara. Died 986 PO.
 - **Tristis Veritas** Grand Inquisitor.
 - **Patrocinor Mors** Grand Herald.
-- **Luna Vigil** Prefect of Micantrum.
 - **Auga Vigil** First of the Vigil dynasty.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blood Hunter (Class)
+title: Order of the Lantern (Subclass)
 published: false
 ---
 

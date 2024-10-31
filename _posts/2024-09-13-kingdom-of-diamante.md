@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kingdom of Diamante (Faction)
+title: Kingdom of Diamante
 ---
 
 The Kingdom of Diamante is the largest of several feudal nations that sit atop the earthmote [Vinculo](montanum#vinculo) on the north-western border between [Profundus](profundus) and [Montanum](montanum). Currently ruled by Queen [Carina Diamante IV](#carina-diamante-iv) and her consort, [Rafael de Florencia](#rafael-de-florencia), the nation boasts great wealth and pride in their flamboyant culture.

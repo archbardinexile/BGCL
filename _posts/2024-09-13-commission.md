@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Commission (Faction)
+title: The Commission
 ---
 
 The Commission for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber](commission#glimback-toestubber) in [899 PO](timeline#899-po). Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the [Relief](getting-started#the-relief), research new magic, and prospect new [earthmotes](exploration#earthmotes) for colonisation. They operate out of [Crowswood Place](profundus#crowswood-place) on Fundus.

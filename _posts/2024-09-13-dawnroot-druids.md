@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dawnroot Druids (Faction)
+title: Dawnroot Druids
 ---
 
 The Dawnroot Druids make their home in the *Dawnroot Forest* on [Fundus](profundus#fundus), secluded from the trappings of lifestyle in the capital. They revere and protect a portal to the elemental plane of water, the source of the *Fountainhead River*, which they believe to be a blessing from *Silvanus*, the deity of wild nature. Though they disapprove of the [Church](church-of-caelum)'s expansionist practices, they seem to prefer not to intervene.
