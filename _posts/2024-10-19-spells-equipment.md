@@ -14,7 +14,7 @@ title: Spells and Equipment
 
 Choose a weapon that you can see within range. For the duration, weapon attacks made with it use ***lucky dice*** in place of its normal damage dice on a hit. The weapon also becomes magical, if it isn't already.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the table below. When you use a spell slot of 7th level or higher, the bonus increases according to the table below.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the lucky dice table. When you use a spell slot of 7th level or higher, the bonus increases according to the lucky dice table.
 
 ##### **Lucky Dice**
 
@@ -37,7 +37,7 @@ Choose a weapon that you can see within range. For the duration, weapon attacks 
 
 Choose a creature that you can see within range. For the duration, spell attacks made by it use ***lucky dice*** in place of its normal damage dice on a hit.
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the table below. When you use a spell slot of 7th level or higher, the bonus increases according to the table below.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the lucky dice table. When you use a spell slot of 7th level or higher, the bonus increases according to the lucky dice table.
 
 ### Double or Nothing
 
@@ -61,7 +61,7 @@ Whenever you make an attack roll, you can use your reaction to roll an additiona
 
 You scribble a string of insults laced with subtle enchantments onto a sheet of parchment. The parchment folds itself into a paper plane and flies toward the target. If the target opens the parchment, it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn. This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether the spell reaches its target.
+There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether or not the spell reaches its target.
 
 ### Lantern Flail
 
@@ -69,7 +69,7 @@ There is a chance the parchment will be damaged when travelling distances over 1
 
 **1d8 bludgeoning.**
 
-You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 30-foot radius and dim light for an additional 30 feet. It also disperses fog out to a radius of 30 feet. The fog reforms behind you as you move through it.
+You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog within a 20-foot radius. The fog reforms behind you as you move through it.
 
 ### Stonelock Pistol
 

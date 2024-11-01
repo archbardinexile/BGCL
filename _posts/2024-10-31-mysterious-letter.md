@@ -3,7 +3,7 @@ layout: post
 title: Letter from Naal Berevan
 ---
 
-A letter given to Blythe Nettleford by the druid Falvalor, in hopes the investigator will be able to track down his friend.
+A letter taken from the Berevan household by the druid Falvalor, hoping he might find a clue to the whereabouts of his friend, Naal. Having exposed the druid's cat disguise, Blythe Nettleford takes on the druid's case.
 
 > 47 Larch Peak, Tenebrae's Refuge. 996, Niveus 6th.
 >
@@ -14,3 +14,5 @@ A letter given to Blythe Nettleford by the druid Falvalor, in hopes the investig
 > Only a month ago I considered leaving just as Vespera did, but more recently my friends have quashed my loneliness and I have begun to appreciate the peace and quiet that comes with my role. I have decided to remain at the Oratory at least until new opportunities present themselves. I am headed to the Dawnroot Forest tomorrow morning to cleanse the statue of Caelum. I hope to see Falvalor again and tell him the good news.
 >
 > P.S. Thank you for the scarf, the Oratory gets really cold this time of year.
+>
+> Naal

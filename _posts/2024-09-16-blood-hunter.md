@@ -1,66 +1,103 @@
 ---
 layout: post
 title: Order of the Lantern (Subclass)
-published: false
 ---
 
-## Blood Hunter Order
+### Blood Hunter Class Features (MM, [dndbeyond.com](https://www.dndbeyond.com/classes/357975-blood-hunter))
 
-At 3rd level, you commit to an order of blood hunters whose philosophy will guide you throughout your life. The following options are available to you when making that choice:
+##### **Hit Points**
 
-- **Order of the Lantern.** The Order of the Lantern is a clandestine clique of Blood Hunters who perform blood rituals in order to safely traverse the Miasma.
+**Hit Dice:** 1d10
+**Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Blood Hunter level after 1st
 
+##### **Proficiencies**
 
+**Armour:** light armour, medium armour, shields
+**Weapons:** simple weapons, martial weapons
+**Tools:** alchemist's supplies
+**Saving Throws:** Dexterity, Intelligence
+**Skills:** Choose 3 from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival
 
+##### **Equipment**
 
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) a martial weapon or (b) two simple weapons
+- a light crossbow and 20 bolts
+- (a) studded leather armour or (b) scale mail armour
+- an explorer's pack and alchemist's supplies
+
+##### **Blood Hunter Table**
+
+| Level                      | Proficiency Bonus | Features                                         | Hemocraft Die | Blood Curses Known |
+| -------------------------- | ----------------- | ------------------------------------------------ | ------------- | ------------------ |
+| 1st                        | 2                 | Hunter's Bane, Blood Maledict                    | 1d4           | 1                  |
+| 2nd                        | 2                 | Fighting Style, Crimson Rite                     | 1d4           | 1                  |
+| 3rd                        | 2                 | Blood Hunter Order                               | 1d4           | 1                  |
+| 4th                        | 2                 | Ability Score Improvement                        | 1d4           | 1                  |
+| 5th                        | 3                 | Extra Attack                                     | 1d6           | 1                  |
+| 6th                        | 3                 | Brand of Castigation, Blood Maledict Improvement | 1d6           | 2                  |
+| 7th                        | 3                 | Order feature, Crimson Rite Improvement          | 1d6           | 2                  |
+| 8th                        | 3                 | Ability Score Improvement                        | 1d6           | 2                  |
+| 9th                        | 4                 | Grim Psychometry                                 | 1d6           | 2                  |
+| 10th                       | 4                 | Dark Augmentation                                | 1d6           | 3                  |
+| 11th                       | 4                 | Order feature                                    | 1d8           | 3                  |
+| 12th                       | 4                 | Ability Score Improvement                        | 1d8           | 3                  |
+| 13th                       | 5                 | Brand of Tethering, Blood Maledict Improvement   | 1d8           | 3                  |
+| 14th                       | 5                 | Hardened Soul, Crimson Rite Improvement          | 1d8           | 4                  |
+| 15th                       | 5                 | Order feature                                    | 1d8           | 4                  |
+| 16th                       | 5                 | Ability Score Improvement                        | 1d8           | 4                  |
+| 17th                       | 6                 | Blood Maledict Improvement                       | 1d10          | 4                  |
+| 18th                       | 6                 | Order feature                                    | 1d10          | 5                  |
+| 19th                       | 6                 | Ability Score Improvement                        | 1d10          | 5                  |
+| 20th                       | 6                 | Sanguine Mastery                                 | 1d10          | 5                  |
 
 # Blood Hunter Orders
 
 ### Order of the Lantern
-*Barty's Guide to Caelum's Landing*
-
-### 3rd Level
 
 ##### **Rite of the Dusk**
 
-When you join this order at 3rd level, you learn the Rite of the Dusk as part of your Crimson Rite feature. When you activate the Rite of the Dusk, the extra damage dealt by your rite is acid damage. Additionally, while that rite is active on your weapon, you gain the following benefits:
+When you join this order at 3rd level, you learn the Rite of the Dusk as part of your Crimson Rite feature. When you activate the Rite of the Dusk, the extra damage dealt by your rite is poison damage. Additionally, while that rite is active on your weapon, you gain the following benefits:
 
-- Your weapon disperses fog out to a radius of 20 feet. The fog reforms behind you as you move through it.
-- You have resistance to acid damage
+- Your weapon disperses fog within a 20-foot radius. The fog reforms behind you as you move through it.
+- You have resistance to poison damage.
 - When you hit an aberration with a weapon for which the Rite of the Dusk is active, you roll an additional hemocraft die when determining the extra damage from the rite.
 
-##### **Caustic Blood**
+##### **Feature**
 
-Starting at 3rd level, whenever you take slashing or piercing damage from a non-magical melee weapon, you may choose to take acid damage equal to one roll of your hemocraft die. If you do, after dealing damage, that weapon takes a permanent and cumulative -1 penalty to attack and damage rolls. If its penalty drops to −5, the weapon is destroyed.
+Starting at 3rd level,
 
-### 7th Level
+##### **Psychotic Rebuke**
 
-##### **Stoichiometry**
-
-Starting at 7th level, your weapons for which the Rite of the Dusk is active ignore resistance to acid damage. The first time you take acid damage on a turn, you gain a +2 bonus to your AC until the start of your next turn.
-
-### 11th Level
+Starting at 7th level, when you are damaged by a creature within 60 feet of you that you can see, you can use your reaction to enshroud the creature that damaged you with a cloud of poisonous, purple fog. That creature must make a Constitution saving throw. If it fails, the target is ***blinded*** for 1 minute and its ***psychosis level*** increases by 1. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the blinded condition ends.
 
 ##### **Feature**
 
 Starting at 11th level,
 
-### 15th Level
-
 ##### **Feature**
 
 Starting at 15th level,
 
-### 18th Level
-
 ##### **Blood Curse of the Miasma**
 
-Upon reaching 18th level, you gain the Blood Curse of the Miasma for your Blood Maledict feature. This does not count against your number of blood curses known.
+At 18th level, You gain the Blood Curse of the Miasma for your Blood Maledict feature. This doesn't count against your number of blood curses known.
 
 **Prerequisite: 18th level, Order of the Lantern.**
-You create a 20-foot-radius sphere of caustic, dark purple fog centred on a point you choose within 120 feet. The fog spreads around corners. It lasts for 10 minutes or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
-
-When a creature enters the curse's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 acid damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.
+You create a 20-foot-radius sphere of poisonous, purple fog centred on a point you choose within 120 feet. The fog spreads around corners. It lasts for 10 minutes or until you lose concentration. Strong wind can disperse the fog, ending the spell. Its area is heavily obscured. Any creature that starts its turn in the area takes 2d6 poison damage. Creatures are affected even if they hold their breath or don't need to breathe.
 
 **Amplify.**
-On each of your turns after you use this curse, you can use a bonus action to move the fog up to 60 feet in any direction. When a creature starts its turn in the fog, it becomes vulnerable to acid damage for the duration of the curse.
+As a bonus action on your turn, you can move the fog up to 20 feet. Any creature that ends its turn in the area must succeed on a Constitution saving throw or its ***psychosis level*** increases by 1.
+
+##### **Psychosis Table**
+
+| Level | Effect                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | The creature inhales Miasma exuded from the environment or an attack and is ***poisoned***                                                        |
+| 2     | The creature becomes dizzy and its speed is halved                                                                                                |
+| 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |
+| 4     | The creature's skin tone becomes pallid, its eyes turn purple and its hit point maximum is halved                                                 |
+| 5     | The creature suffers extreme paranoia and must use its action each round to attack the nearest creature                                           |
+| 6     | The creature becomes an ***aberration***. It can't cast spells, activate magic items, understand language, or communicate in any intelligible way |
