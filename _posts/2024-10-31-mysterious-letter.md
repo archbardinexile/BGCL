@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Letter from Naal Berevan
-published: false
 ---
+
+A letter given to Blythe Nettleford by the druid Falvalor, in hopes the investigator will be able to track down his friend.
 
 <em>
 
