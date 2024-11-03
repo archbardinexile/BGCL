@@ -3,30 +3,7 @@ layout: post
 title: Spells and Equipment
 ---
 
-### Bandorul's Lucky Weapon
-
-*3rd-level transmutation*
-
-- **Casting Time:** 1 bonus action
-- **Range:** 30 feet
-- **Components:** V, S, M (a shamrock leaf, which the spell consumes)
-- **Duration:** Concentration, up to 1 minute
-
-Choose a weapon that you can see within range. For the duration, weapon attacks made with it use ***lucky dice*** in place of its normal damage dice on a hit. The weapon also becomes magical, if it isn't already.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the lucky dice table. When you use a spell slot of 7th level or higher, the bonus increases according to the lucky dice table.
-
-##### **Lucky Dice**
-
-| Damage die | Lucky die | 5th level | 7th level |
-| ---------- | --------- | --------- | --------- |
-| d4         | d6        | d8        | d10       |
-| d6         | d8        | d10       | d12       |
-| d8         | d10       | d12       | d12 + 1d4 |
-| d10        | d12       | d12 + 1d4 | d12 + 1d6 |
-| d12        | d12 + 1d4 | d12 + 1d6 | d12 + 1d8 |
-
-### Bandorul's Cheap Shot
+### Bandorul's Winning Streak
 
 *3rd-level enchantment*
 
@@ -35,9 +12,19 @@ Choose a weapon that you can see within range. For the duration, weapon attacks 
 - **Components:** V, S, M (a shamrock leaf, which the spell consumes)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. For the duration, spell attacks made by it use ***lucky dice*** in place of its normal damage dice on a hit.
+Choose a creature that you can see within range. For the duration, when that creature makes a successful attack roll, it can roll ***lucky dice*** in place of the normal damage dice of its weapon or spell. Lucky dice are never rolled in place of damage dice from an item's magical properties (e.g. from attunement, charges etc.).
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bonus increases according to the lucky dice table. When you use a spell slot of 7th level or higher, the bonus increases according to the lucky dice table.
+
+##### **Lucky Dice**
+
+| Normal damage die | Lucky die  | 5th level  | 7th level  |
+| ----------------- | ---------- | ---------- | ---------- |
+| ?d4               | ?d6        | ?d8        | ?d10       |
+| ?d6               | ?d8        | ?d10       | ?d12       |
+| ?d8               | ?d10       | ?d12       | ?d12 + ?d4 |
+| ?d10              | ?d12       | ?d12 + ?d4 | ?d12 + ?d6 |
+| ?d12              | ?d12 + ?d4 | ?d12 + ?d6 | ?d12 + ?d8 |
 
 ### Double or Nothing
 
