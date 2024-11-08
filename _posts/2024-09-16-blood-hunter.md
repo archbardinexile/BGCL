@@ -3,7 +3,7 @@ layout: post
 title: Order of the Lantern (Subclass)
 ---
 
-### Blood Hunter Class Features (MM, [dndbeyond.com](https://www.dndbeyond.com/classes/357975-blood-hunter))
+### Blood Hunter Class Features ([DNDB](https://www.dndbeyond.com/classes/357975-blood-hunter))
 
 ##### **Hit Points**
 
@@ -61,13 +61,13 @@ You start with the following equipment, in addition to the equipment granted by 
 
 When you join this order at 3rd level, you learn the Rite of the Dusk as part of your Crimson Rite feature. When you activate the Rite of the Dusk, the extra damage dealt by your rite is poison damage. Additionally, while that rite is active on your weapon, you gain the following benefits:
 
-- Your weapon disperses fog within a 20-foot radius. The fog reforms behind you as you move through it.
-- You have resistance to poison damage.
-- When you hit an aberration with a weapon for which the Rite of the Dusk is active, you roll an additional hemocraft die when determining the extra damage from the rite.
+- Your weapon disperses fog in a 20-foot radius. The fog reforms behind you as you move through it.
+- Creatures hit with your weapon must succeed on a Constitution saving throw or be poisoned for 1 hour.
+- When you hit a poisoned creature with your weapon, roll an additional hemocraft die when determining the extra damage from the rite.
 
-##### **Feature**
+##### **Aberrant Sight**
 
-Starting at 3rd level,
+Starting at 3rd level, you can see a faint aura around poisoned creatures to a distance of 120 feet. Your sight can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You can see poisoned creatures normally in darkness, both magical and nonmagical.
 
 ##### **Psychotic Rebuke**
 
@@ -86,7 +86,7 @@ Starting at 15th level,
 At 18th level, You gain the Blood Curse of the Miasma for your Blood Maledict feature. This doesn't count against your number of blood curses known.
 
 **Prerequisite: 18th level, Order of the Lantern.**
-You create a 20-foot-radius sphere of poisonous, purple fog centred on a point you choose within 120 feet. The fog spreads around corners. It lasts for 10 minutes or until you lose concentration. Strong wind can disperse the fog, ending the spell. Its area is heavily obscured. Any creature that starts its turn in the area takes 2d6 poison damage. Creatures are affected even if they hold their breath or don't need to breathe.
+Choose one creature you can see within 120 feet of you that is poisoned. It takes 2d6 necrotic damage and poisonous, purple fog spills from its veins in a 20-foot-radius sphere. The fog spreads around corners. It lasts for 10 minutes or until strong wind disperses the fog, ending the curse. Its area is heavily obscured. Any creature that starts its turn in the area takes 2d6 poison damage. Creatures are affected even if they hold their breath or don't need to breathe.
 
 **Amplify.**
 As a bonus action on your turn, you can move the fog up to 20 feet. Any creature that ends its turn in the area must succeed on a Constitution saving throw or its ***psychosis level*** increases by 1.

@@ -52,11 +52,11 @@ There is a chance the parchment will be damaged when travelling distances over 1
 
 ### Lantern Flail
 
-*Martial weapon, melee weapon, artefact (requires attunement).* 2 lb.
+*Martial weapon, melee weapon, very rare (requires attunement).* 2 lb.
 
 **1d8 bludgeoning.**
 
-You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog within a 20-foot radius. The fog reforms behind you as you move through it.
+You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog in a 20-foot radius. The fog reforms behind you as you move through it.
 
 ### Stonelock Pistol
 

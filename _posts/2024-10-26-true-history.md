@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Annals of Tenebrae (Spoilers)
+published: false
 ---
 
 The Annals of Tenebrae, held secretly within the *Oratory*'s vaults, hold the words of [Tenebrae](getting-started#tenebrae) as they recount the alleged true events that led up to the [Rising](timeline#the-rising).
