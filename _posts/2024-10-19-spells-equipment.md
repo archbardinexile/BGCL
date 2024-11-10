@@ -50,6 +50,19 @@ You scribble a string of insults laced with subtle enchantments onto a sheet of 
 
 There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether or not the spell reaches its target.
 
+### Imprison Creature
+
+*4th-level abjuration*
+
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a flask, locket or playing card)
+- **Duration:** Concentration, up to 1 minute
+
+Make a ranged spell attack against a creature that you can see within range. On a hit, the target takes 1d12 lightning damage and a sustained arc of magical energy connects the target to the flask (or similar object) in your hand. On each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you. If the creature is reduced to 0 hit points before the spell ends, the target shrinks to an imperceptible height and is imprisoned inside the flask.
+
+The flask becomes a magical item with 10 charges: while holding it, you can use an action to call forth the creature you imprisoned. It manifests in an unoccupied space that you can see within range. The creature disappears back into the flask when it drops to 0 hit points or when you use an action to end the spell. The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you expend the flask's last charge, or the flask is destroyed, the creature is released and flees.
+
 ### Lantern Flail
 
 *Martial weapon, melee weapon, very rare (requires attunement).* 2 lb.
