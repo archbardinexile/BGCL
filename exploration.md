@@ -126,7 +126,7 @@ You can pick weather to fit your campaign or roll on the Weather table to determ
 
 ### Psychosis
 
-Venturing into the Miasma for long periods without protection or being maimed by one of the aberrations within can lead to a special condition called *psychosis*. Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis.
+Venturing into the Miasma for long periods without protection or being maimed by one of the aberrations within can lead to a special condition called psychosis. Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
 
 ##### **Psychosis Table**
 
@@ -139,9 +139,11 @@ Venturing into the Miasma for long periods without protection or being maimed by
 | 5     | The creature suffers extreme paranoia and must use its action each round to attack the nearest creature                                           |
 | 6     | The creature becomes an ***aberration***. It can't cast spells, activate magic items, understand language, or communicate in any intelligible way |
 
-If a creature suffers another effect that causes psychosis while it already has a level of psychosis, its current psychosis level increases by an amount appropriate for the effect. A creature suffers the effect of its current psychosis level as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and is poisoned.
+If a psychotic creature suffers another effect that causes psychosis, its current level of psychosis increases by the amount specified in the effect's description. A creature suffers the effect of its current level of psychosis as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and is poisoned.
 
-An effect that removes psychosis reduces a creature's psychosis level by an appropriate amount, with all psychosis effects ending if a creature's psychosis level is reduced below 1. Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is not inside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A ***lesser restoration*** spell can rid a character of 1 level of psychosis, while a ***greater restoration*** spell can rid a character of 1d4+1 levels of psychosis.
+An effect that removes psychosis reduces its level as specified in the effect's description, with all psychosis effects ending if a creature's psychosis level is reduced below 1. If a psychotic creature is targeted by an effect that neutralises poison, that effect has a duration of 1 hour. The creature is then poisoned again unless its psychosis level is reduced below 1.
+
+Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A ***lesser restoration*** reduces a creature's psychosis level by 1. A ***greater restoration*** reduces a creature's psychosis level by 1d4+1.
 
 ---
 
