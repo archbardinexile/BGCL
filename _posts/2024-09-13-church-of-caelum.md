@@ -29,7 +29,8 @@ The Church of Caelum is the most prevalent nation and religion in the [Relief](g
 
 - **Race:** Aasimar, Female
 - **Born:** [964 PO](timeline#964-po), Caelum's Landing
-- **Aliases:** Exarch, Sun of the World, Prefect of Caelum's Landing
+- **Roles:** Exarch, Prefect of Caelum's Landing
+- **Relationships:** Spiro Sol Orbis, younger brother; Sana Sol Orbis, younger sibling; Clara Sol Orbis, younger sister
 
 Aura Sol Orbis was born on the 14th day of Viridis in the Oratory on Caelum's Landing. As the first of *Ardeat Sol Orbis*' four children, much of her upbringing was focused on preparing her for the day she would inevitably take over as Exarch. Though she shared a close relationship with her father, her politics would grow apart from his as she watched him champion the Church's expansionist practices and perpetuate the *Medusae Wars* until [983 PO](timeline#983-po).
 
