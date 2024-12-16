@@ -28,8 +28,8 @@ A soft-spoken but nonetheless strong and charismatic human, Adelaide Burkhart be
 ### Other Members
 
 - **Bartholomeus Fairchild** Human member of the Commission, author of Barty's Guide to Caelum's Landing
-- **Hadley Pinchbrew** Halfling artificer, alchemist and portent wizard. Commission's quartermaster.
 - **Droleg the Wit** Hobgoblin oath of glory paladin and bard.
+- **Corvus** Secretive, masked wood elf. Arcane archer with a wide-brimmed hat. Expert monster slayer.
 
 # Order of the Lantern
 
@@ -37,7 +37,6 @@ The Order of the Lantern is a clandestine organisation of *Blood Hunters* who un
 
 ### Other Members
 
-- **Adelaide Burkhart** Human chief of the Commission.
-- **Corvus** Secretive, masked wood elf. Arcane archer with a wide-brimmed hat. Expert monster slayer.
+- **Hadley Pinchbrew** Halfling artificer, alchemist and portent wizard. Commission's quartermaster.
 - **Doom** Punk-ish androgynous tiefling wild magic barbarian. Commission's Beastmaster.
 - **Lathraia** Humanoid Yuan-Ti. Former Mallian spy, founder of the Order of the Lantern, liaison to the Commission.
