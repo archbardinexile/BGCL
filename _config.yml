@@ -3,7 +3,7 @@
 title: Barty's Guide
 author:
   name: Alexander Birch
-description: Barty's Guide to Caelum's Landing is an open source custom setting for Dungeons and Dragons Fifth Edition.
+description: Barty's Guide to Caelum's Landing is a custom setting for Dungeons and Dragons Fifth Edition.
 permalink: :title
 
 # Theme
@@ -18,4 +18,4 @@ header_pages:
   - getting-started.md
   - exploration.md
   - timeline.md
-  - links.md
+  - players.md

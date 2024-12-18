@@ -3,21 +3,21 @@ layout: post
 title: Order of the Lantern (Subclass)
 ---
 
-### Blood Hunter Class Features ([DNDB](https://www.dndbeyond.com/classes/357975-blood-hunter))
+### Blood Hunter Class Features [2014.5e.tools](https://2014.5e.tools/classes.html#blood%20hunter_bh2022)
 
 ##### **Hit Points**
 
-**Hit Dice:** 1d10
-**Hit Points at 1st Level:** 10 + your Constitution modifier
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Blood Hunter level after 1st
+- **Hit Dice:** 1d10
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Blood Hunter level after 1st
 
 ##### **Proficiencies**
 
-**Armour:** light armour, medium armour, shields
-**Weapons:** simple weapons, martial weapons
-**Tools:** alchemist's supplies
-**Saving Throws:** Dexterity, Intelligence
-**Skills:** Choose 3 from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival
+- **Armour:** light armour, medium armour, shields
+- **Weapons:** simple weapons, martial weapons
+- **Tools:** alchemist's supplies
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose 3 from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival
 
 ##### **Equipment**
 
