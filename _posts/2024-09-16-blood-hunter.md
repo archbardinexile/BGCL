@@ -3,7 +3,7 @@ layout: post
 title: Order of the Lantern (Subclass)
 ---
 
-### Blood Hunter Class Features [2014.5e.tools](https://2014.5e.tools/classes.html#blood%20hunter_bh2022)
+### [Blood Hunter Class Features](https://2014.5e.tools/classes.html#blood%20hunter_bh2022)
 
 ##### **Hit Points**
 

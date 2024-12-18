@@ -9,15 +9,11 @@ title: Players
 - **Class:** [Cleric (Tempest)](https://2014.5e.tools/classes.html#cleric_phb,state:sub-tempest-phb=b1)
 - **Background:** [Guild Artisan](https://2014.5e.tools/backgrounds.html#guild%20artisan_phb)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [x] Deliver the cookies to *Grevik* at the Guilds Exhibition.
 - [x] Join the Commission.
 - [ ] (Optional) Support *Oscar* and speak with *Aura*.
-
-</details>
 
 ### Gomruss Yardos Bandorul (Ethan)
 
@@ -25,16 +21,12 @@ title: Players
 - **Class:** [Wizard (Graviturgy)](https://2014.5e.tools/classes.html#wizard_phb,state:sub-graviturgy-egw=b1)
 - **Background:** [Gambler](https://2014.5e.tools/backgrounds.html#gambler_ai)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [x] Find a job at the Guilds Exhibition.
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to Arx.
 - [ ] (Optional) Pay the debt collectors at *The Hearty Tankard* on Roscidas 19th.
 - [ ] (Optional) Confront the disgruntled farmer about the fine.
-
-</details>
 
 ### Arti (Josie)
 
@@ -42,17 +34,14 @@ title: Players
 - **Class:** [Barbarian (Beast)](https://2014.5e.tools/classes.html#barbarian_phb,state:sub-beast-tce=b1)
 - **Background:** [Investigator](https://2014.5e.tools/backgrounds.html#investigator_vrgr)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [ ] Reconstruct your missing memories.
   - [x] Find out where you're from.
   - [ ] Find out what happened to the expedition.
+  - [ ] Find out who repaired you.
 - [ ] Find *Glimback* in the Miasma.
   - [ ] Prepare a report for *Adelaide*.
-
-</details>
 
 ### Blythe Nettleford (Oak)
 
@@ -60,21 +49,18 @@ title: Players
 - **Class:** [Ranger (Gloom Stalker)](https://2014.5e.tools/classes.html#ranger_phb,state:sub-gloom-stalker-xge=b1)
 - **Background:** [Investigator](https://2014.5e.tools/backgrounds.html#investigator_vrgr)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [ ] Find *Naal Berevan*.
-  - [x] Enquire at the *Oratory*
+  - [ ] Speak with the Heralds at the *Oratory*
   - [ ] (Optional) Speak with *Falvalor* in the *Dawnroot Forest*.
 - [ ] Find out who killed *Kurt Beckonhand*.
+  - [x] Decipher the will.
   - [x] Search Silas' room.
   - [ ] Visit the location in the will.
   - [ ] Visit the location in Silas' notes.
   - [ ] (Optional) Interrogate Silas.
   - [ ] (Optional) Interrogate Cade.
-
-</details>
 
 ### *Guy Brush* (Joe)
 
@@ -82,13 +68,11 @@ title: Players
 - **Class:** [Rogue (Swashbuckler)](https://2014.5e.tools/classes.html#rogue_phb,state:sub-swashbuckler-xge=b1)
 - **Background:** [Noble](https://2014.5e.tools/backgrounds.html#noble_phb)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [ ] Procure a stonelock weapon for Captain *Bhaldrom Anchorheart*.
-
-</details>
+  - [x] Discover where the triple-barrelled stonelock rifle is stored.
+  - [ ] (Optional) Steal the rifle from the warehouse on Ingenium.
 
 ### *Bantonio Anderas* (Rachael)
 
@@ -96,14 +80,10 @@ title: Players
 - **Class:** [Fighter (Battle Master)](https://2014.5e.tools/classes.html#fighter_phb,state:sub-battle-master-phb=b1)
 - **Background:** [Noble (Knight)](https://2014.5e.tools/backgrounds.html#variant%20noble%20(knight)_phb)
 
-<details>
-
-<summary>Quests</summary>
+##### **Quests**
 
 - [x] Pray for salvation at the *Oratory*.
-- [ ] Listen for news about the *Kingdom of Diamante*.
-
-</details>
+- [ ] Listen for news from the *Kingdom of Diamante*.
 
 ---
 
