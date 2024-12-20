@@ -53,7 +53,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th                       | 6                 | Ability Score Improvement                        | 1d10          | 5                  |
 | 20th                       | 6                 | Sanguine Mastery                                 | 1d10          | 5                  |
 
-# Blood Hunter Orders
+# Blood Hunter Order
 
 ### Order of the Lantern
 
