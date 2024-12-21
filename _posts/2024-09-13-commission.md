@@ -39,4 +39,4 @@ The Order of the Lantern is a clandestine organisation of *Blood Hunters* who un
 
 - **Hadley Pinchbrew** Halfling artificer, alchemist and portent wizard. Commission's quartermaster.
 - **Doom** Punk-ish androgynous tiefling wild magic barbarian. Commission's Beastmaster.
-- **Lathraia** Humanoid Yuan-Ti. Former Mallian spy, founder of the Order of the Lantern, liaison to the Commission.
+- **Lathraia** Humanoid yuan-ti. Former Mallian spy, founder of the Order of the Lantern, liaison to the Commission.
