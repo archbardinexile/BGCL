@@ -56,10 +56,16 @@ Prefect of Micantrum.
 
 ### Other Members
 
+- **Tristis Veritas** Grand Inquisitor.
+- **Patrocinor Mors** Grand Herald.
+- **Naal Berevan** Shy drow herald.
+- **Mercy** Kindly pink tiefling herald.
+- **Grevik** Nervous half-orc acolyte.
+
+### Historical Members
+
 - **Prima Vita Sol Orbis** Caelum's Daughter.
 - **Rex Sol Orbis** Exarch who signed the Fundus Constitution (516 PO).
 - **Manus Sol Orbis** Exarch during the moving of Ingenium (756 PO).
 - **Ardeat Sol Orbis** Former Exarch, father of Aura, Spiro, Sana and Clara. Died 986 PO.
-- **Tristis Veritas** Grand Inquisitor.
-- **Patrocinor Mors** Grand Herald.
 - **Auga Vigil** First of the Vigil dynasty.
