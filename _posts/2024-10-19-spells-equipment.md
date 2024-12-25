@@ -73,7 +73,7 @@ The flask becomes a magical item with 10 charges: while holding it, you can use 
 
 You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog in a 20-foot radius. The fog reforms behind you as you move through it.
 
-### Stonelock Pistol
+### Gemlock Pistol
 
 *Martial weapon, ranged weapon, firearm, rare.* 500 gp, 3 lb.
 
@@ -85,7 +85,7 @@ You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon
 
 **Loading.** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-### Stonelock Musket
+### Gemlock Musket
 
 *Martial weapon, ranged weapon, firearm, rare.* 1000 gp, 10 lb.
 

@@ -11,9 +11,10 @@ title: Players
 
 ##### **Quests**
 
-- [x] Deliver the cookies to *Grevik* at the Guilds Exhibition.
 - [x] Join the Commission.
-- [ ] (Optional) Support *Oscar* and speak with *Aura*.
+  - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
+
+---
 
 ### Gomruss Yardos Bandorul (Ethan)
 
@@ -27,6 +28,9 @@ title: Players
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to Arx.
 - [ ] (Optional) Pay the debt collectors at *The Hearty Tankard* on Roscidas 19th.
 - [ ] (Optional) Confront the disgruntled farmer about the fine.
+- [ ] Win the *New Blood Tournament*!
+
+---
 
 ### Arti (Josie)
 
@@ -41,7 +45,11 @@ title: Players
   - [ ] Find out what happened to the expedition.
   - [ ] Find out who repaired you.
 - [ ] Find *Glimback* in the Miasma.
-  - [ ] Prepare a report for *Adelaide*.
+  - [x] Prepare a report for *Adelaide*.
+  - [ ] Speak with the monks of the Spirit Temple.
+  - [ ] Deliver Adelaide's proposal to *Aura Sol Orbis* at the Oratory.
+
+---
 
 ### Blythe Nettleford (Oak)
 
@@ -62,6 +70,8 @@ title: Players
   - [ ] (Optional) Interrogate Silas.
   - [ ] (Optional) Interrogate Cade.
 
+---
+
 ### *Guy Brush* (Joe)
 
 - **Race:** [Half-Elf](https://2014.5e.tools/races.html#half-elf_phb), Male
@@ -70,9 +80,11 @@ title: Players
 
 ##### **Quests**
 
-- [ ] Procure a stonelock weapon for Captain *Bhaldrom Anchorheart*.
-  - [x] Discover where the triple-barrelled stonelock rifle is stored.
+- [ ] Procure a gemlock weapon for Captain *Bhaldrom Anchorheart*.
+  - [x] Discover where the triple-barrelled gemlock rifle is stored.
   - [ ] (Optional) Steal the rifle from the warehouse on Ingenium.
+
+---
 
 ### *Bantonio Anderas* (Rachael)
 
@@ -83,6 +95,7 @@ title: Players
 ##### **Quests**
 
 - [x] Pray for salvation at the *Oratory*.
+- [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
 - [ ] Listen for news from the *Kingdom of Diamante*.
 
 ---
