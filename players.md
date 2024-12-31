@@ -47,6 +47,7 @@ title: Players
 - [ ] Find *Glimback* in the Miasma.
   - [x] Prepare a report for *Adelaide*.
   - [ ] Speak with the monks of the Spirit Temple.
+  - [ ] Speak with the Ingenium Inventors Association.
   - [ ] Deliver Adelaide's proposal to *Aura Sol Orbis* at the Oratory.
 
 ---
@@ -60,7 +61,7 @@ title: Players
 ##### **Quests**
 
 - [ ] Find *Naal Berevan*.
-  - [ ] Speak with the Heralds at the *Oratory*
+  - [ ] Speak with the Heralds at the *Oratory*.
   - [ ] (Optional) Speak with *Falvalor* in the *Dawnroot Forest*.
 - [ ] Find out who killed *Kurt Beckonhand*.
   - [x] Decipher the will.
@@ -68,7 +69,7 @@ title: Players
   - [ ] Visit the location in the will.
   - [ ] Visit the location in Silas' notes.
   - [ ] (Optional) Interrogate Silas.
-  - [ ] (Optional) Interrogate Cade.
+  - [x] (Optional) Interrogate Cade.
 
 ---
 
@@ -96,7 +97,8 @@ title: Players
 
 - [x] Pray for salvation at the *Oratory*.
 - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
-- [ ] Listen for news from the *Kingdom of Diamante*.
+- [x] Listen for news from the *Kingdom of Diamante*.
+  - [ ] Find out more about the protests against the Queen.
 
 ---
 
