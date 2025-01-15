@@ -14,6 +14,8 @@ title: Players
 - [x] Join the Commission.
   - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
 
+- [ ] (Optional) Help Blythe with her investigations.
+
 ---
 
 ### Gomruss Yardos Bandorul (Ethan)
@@ -26,9 +28,12 @@ title: Players
 
 - [x] Find a job at the Guilds Exhibition.
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to Arx.
+
 - [ ] (Optional) Pay the debt collectors at *The Hearty Tankard* on Roscidas 19th.
+
 - [ ] (Optional) Confront the disgruntled farmer about the fine.
-- [ ] Win the *New Blood Tournament*!
+
+- [x] Win the *New Blood Tournament*!
 
 ---
 
@@ -44,6 +49,7 @@ title: Players
   - [x] Find out where you're from.
   - [ ] Find out what happened to the expedition.
   - [ ] Find out who repaired you.
+
 - [ ] Find *Glimback* in the Miasma.
   - [x] Prepare a report for *Adelaide*.
   - [ ] Speak with the monks of the Spirit Temple.
@@ -61,15 +67,18 @@ title: Players
 ##### **Quests**
 
 - [ ] Find *Naal Berevan*.
-  - [ ] Speak with the Heralds at the *Oratory*.
-  - [ ] (Optional) Speak with *Falvalor* in the *Dawnroot Forest*.
+  - [x] Speak with *Mercy*.
+    - [ ] Find and speak with *Camren*.
+    - [ ] (Optional) Investigate Naal's route to the statue of Caelum.
+  - [ ] (Optional) Speak with the Grand Herald, *Patrocinor Mors*.
+
 - [ ] Find out who killed *Kurt Beckonhand*.
   - [x] Decipher the will.
+    - [ ] Visit the location in the will (Dawnroot Forest).
   - [x] Search Silas' room.
-  - [ ] Visit the location in the will.
-  - [ ] Visit the location in Silas' notes.
-  - [ ] (Optional) Interrogate Silas.
+    - [ ] Visit the location in Silas' notes (Little Nox).
   - [x] (Optional) Interrogate Cade.
+  - [ ] (Optional) Interrogate Silas.
 
 ---
 
@@ -96,7 +105,9 @@ title: Players
 ##### **Quests**
 
 - [x] Pray for salvation at the *Oratory*.
+
 - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
+
 - [x] Listen for news from the *Kingdom of Diamante*.
   - [ ] Find out more about the protests against the Queen.
 
