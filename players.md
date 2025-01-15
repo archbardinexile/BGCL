@@ -11,9 +11,7 @@ title: Players
 
 ##### **Quests**
 
-- [x] Join the Commission.
-  - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
-
+- [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
 - [ ] (Optional) Help Blythe with her investigations.
 
 ---
@@ -28,12 +26,8 @@ title: Players
 
 - [x] Find a job at the Guilds Exhibition.
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to Arx.
-
 - [ ] (Optional) Pay the debt collectors at *The Hearty Tankard* on Roscidas 19th.
-
 - [ ] (Optional) Confront the disgruntled farmer about the fine.
-
-- [x] Win the *New Blood Tournament*!
 
 ---
 
@@ -49,12 +43,11 @@ title: Players
   - [x] Find out where you're from.
   - [ ] Find out what happened to the expedition.
   - [ ] Find out who repaired you.
-
 - [ ] Find *Glimback* in the Miasma.
   - [x] Prepare a report for *Adelaide*.
+    - [ ] Deliver Adelaide's proposal to *Aura Sol Orbis* at the Oratory.
   - [ ] Speak with the monks of the Spirit Temple.
   - [ ] Speak with the Ingenium Inventors Association.
-  - [ ] Deliver Adelaide's proposal to *Aura Sol Orbis* at the Oratory.
 
 ---
 
@@ -68,10 +61,9 @@ title: Players
 
 - [ ] Find *Naal Berevan*.
   - [x] Speak with *Mercy*.
-    - [ ] Find and speak with *Camren*.
-    - [ ] (Optional) Investigate Naal's route to the statue of Caelum.
+  - [ ] Find and speak with *Camren*.
+  - [ ] (Optional) Investigate Naal's route to the statue of Caelum.
   - [ ] (Optional) Speak with the Grand Herald, *Patrocinor Mors*.
-
 - [ ] Find out who killed *Kurt Beckonhand*.
   - [x] Decipher the will.
     - [ ] Visit the location in the will (Dawnroot Forest).
@@ -105,9 +97,7 @@ title: Players
 ##### **Quests**
 
 - [x] Pray for salvation at the *Oratory*.
-
 - [ ] Support *Clara* and speak with *Aura Sol Orbis* at the *Oratory*.
-
 - [x] Listen for news from the *Kingdom of Diamante*.
   - [ ] Find out more about the protests against the Queen.
 

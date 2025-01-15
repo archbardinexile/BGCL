@@ -145,6 +145,39 @@ An effect that removes psychosis reduces its level as specified in the effect's 
 
 Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A ***lesser restoration*** reduces a creature's psychosis level by 1. A ***greater restoration*** reduces a creature's psychosis level by 1d4+1.
 
+### [Food, Drink, and Lodging](https://2014.5e.tools/book.html#phb,5,food%2c%20drink%2c%20and%20lodging,0)
+
+The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses. *The DM may also award you bonuses for eating, drinking and sleeping healthily. Drinking excessive alcohol may require Constitution saving throws of an increasing DC to ward off the effects of inebriation.*
+
+##### **Food, Drink, and Lodging**
+
+| Item                   | *Bonus/Effect* | Cost  |
+| ---------------------- | -------------- | ----- |
+| **Ale**                |                |       |
+| Gallon                 |                | 2 sp  |
+| Mug                    |                | 4 cp  |
+| Banquet (per person)   |                | 10 gp |
+| Bread, loaf            |                | 2 cp  |
+| Cheese, hunk           |                | 1 sp  |
+| **Inn stay (per day)** |                |       |
+| Squalid                | -1             | 7 cp  |
+| Poor                   | 0              | 1 sp  |
+| Modest                 | +1             | 5 sp  |
+| Comfortable            | +1             | 8 sp  |
+| Wealthy                | +2             | 2 gp  |
+| Aristocratic           | +2             | 4 gp  |
+| **Meals (per day)**    |                |       |
+| Squalid                | -1             | 3 cp  |
+| Poor                   | 0              | 6 cp  |
+| Modest                 | +1             | 3 sp  |
+| Comfortable            | +1             | 5 sp  |
+| Wealthy                | +2             | 8 sp  |
+| Aristocratic           | +2             | 2 gp  |
+| Meat, chunk            |                | 3 sp  |
+| **Wine**               |                |       |
+| Common (pitcher)       |                | 2 sp  |
+| Fine (bottle)          |                | 10 gp |
+
 ---
 
 ### **Next: [Timeline](timeline)**
