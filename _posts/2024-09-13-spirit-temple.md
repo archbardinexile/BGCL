@@ -14,3 +14,7 @@ Master Monk of the Spirit Temple.
 ##### **Keijo**
 
 Scarred half-elf with the spirit of a tiger.
+
+##### **Blue-Belly**
+
+Chameleon lizardfolk monk.
