@@ -46,7 +46,7 @@ The Relief is a circular expanse in the northern hemisphere of Fio unaffected by
 
 - [**Calidus**](calidus), the southernmost region, is blanketed by harsh sands, yet many varied cultures thrive here. The sandstone city of [Arx](calidus#arx) offers refuge to travellers while powerful fiends are said to watch with envious eyes from the darkened landscape beyond the Miasma.
 
-- [**Montanum**](montanum) to the west is characterised by its expansive mountain ranges. Affluent nations sit atop the earthmote [Vinculo](montanum#vinculo), while the peninsula of [Porta Ignota](montanum#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the Miasma.
+- [**Montanum**](montanum) to the west is characterised by its expansive mountain ranges. Affluent nations sit atop the earthmote [Atada](montanum#atada), while the peninsula of [Porta Ignota](montanum#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the Miasma.
 
 - [**Discidium**](discidium), though completely engulfed by the Miasma, can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which [Mundi Eversor](#mundi-eversor) emerged 1,000 years ago.
 
@@ -104,7 +104,7 @@ The world of Fio holds many opportunities for budding adventurers. Join one of i
 
 - [**The Merchants Guild**](merchants-guild) is a union of tradespeople operating out of Arx that sponsor and protect independent merchants across the Relief.
 
-- [**The Combe Shipping and Courier Agency**](combe-shipping) is one the largest business empires in the Relief. Operating out of the [Duchy of Ruby](profundus#duchy-of-ruby), the business 
+- [**The Combe Shipping and Courier Agency**](combe-shipping) is one the largest business empires in the Relief. Operating out of the [Duchy of Ruby](profundus#duchy-of-ruby), the business
 
 ---
 
