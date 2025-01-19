@@ -59,6 +59,10 @@ Little Nox separated from Tenebrae's Refuge around the year [617 PO](timeline#61
 
 Ingenium appeared in the skies north-east of Fundus in the year [748 PO](timeline#748-po), bringing with it a sprawling brass metropolis and a displaced but technologically advanced culture in the tens of thousands. Facing an energy crisis, they sought the assistance of the Church while they acclimated to the new world in which they found themselves. An agreement with Caelum's Landing was reached in [756 PO](timeline#756-po), and with the help of the monks of the Spirit Temple, the earthmote Ingenium was moved to Fundus' north-eastern shore. [Spiro Sol Orbis](church-of-caelum#spiro-sol-orbis) is Ingenium's current Prefect.
 
+##### **Duchy of Ruby**
+
+Separated from the earthmote Atada, the Duchy of Ruby sits atop the earthmote Atado.
+
 ### The Outermotes
 
 The Outermotes are the territories of the Church that can only be reached by airship or glider. Though the Church has established a presence in these regions, their distance from Caelum's Landing and lack of Church involvement can sometimes invite apostasy.

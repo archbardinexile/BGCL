@@ -7,7 +7,7 @@ For almost a millennium the world of [Fio](#a-world-obscured) has been plagued b
 
 ### A World Obscured
 
-Fio is the name of a planet in the *Material plane*. Estimated by scholars to be approximately 7,500 miles in diameter, Fio's rotation period is 24 hours and it orbits the sun, sometimes called *Lux*, every 336 days. Fio has an axial tilt of approximately 23°, causing a seasonal change in climate over the course of a year. The average temperature in winter is 42℉. This rises to an average temperature of 70℉ in summer. According to the *New Sol Orbis Calendar*, there are twelve 28-day months in a year and seven days in a week. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Eorday*, *Starday* and *Sunday*. Fio has a single moon, *Auga*, which orbits Fio approximately every 23½ days. Auga orbits Fio 14¼ times in one year and 57 times in four years. A period of four years is known as a *fewyear*.
+Fio is the name of a planet in the *Material plane*. Estimated by scholars to be approximately 7,500 miles in diameter, Fio's rotation period is 24 hours and it orbits the sun, sometimes called *Sol*, every 336 days. Fio has an axial tilt of approximately 23°, causing a seasonal change in climate over the course of a year. The average temperature in winter is 42℉. This rises to an average temperature of 70℉ in summer. According to the *New Sol Orbis Calendar*, there are twelve 28-day months in a year and seven days in a week. The days are named *Menoday*, *Skewday*, *Winday*, *Mariday*, *Eorday*, *Starday* and *Sunday*. Fio has a single moon, *Auga*, which orbits Fio approximately every 23½ days. Auga orbits Fio 14¼ times in one year and 57 times in four years. A period of four years is known as a *fewyear*.
 
 ##### **The Calendar**
 
@@ -72,25 +72,23 @@ Little is known of the fiend Tenebrae. Restricted chronicles held deep within th
 
 ### Finding Adventure
 
-The world of Fio holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take.
+The world of Fio holds many opportunities for budding adventurers. Join one of its many factions or make your own adventure and explore Fio's uncharted regions. Along the way, you may uncover secrets that lead to the truth behind Caelum's ascent to divinity. Ancient pillars discovered in the Miasma seem to hold magically recorded memories. The vaults beneath the Oratory are said to contain forbidden knowledge. Rogue factions you may encounter claim to work to expose the hypocrisy of the Church. You must decide which path to take. Characters you encounter may travel the Relief independently or work on behalf of a guild or society. Routinely, these characters can offer freelance work for budding adventurers. You might find yourself protecting a cable car of perishable goods from *Zip-Pirates* or catching rare and exotic fish for a local *Fishing Guild*.
 
 - [**The Church of Caelum**](church-of-caelum) is the most prevalent nation and religion in the Relief. Ruled by the *Exarch*, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the Miasma. The nation's capital, Caelum's Landing, is the largest city in Profundus, with much of the region's trade passing through its markets.
 
 - [**The Ministry**](ministry) serves as government for Caelum's Landing and the Church's many territories. Elected representatives from each territory meet in the *Ministerial Houses* to establish the demands of the people and how they will be met by law. Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the Ministry must present new laws to the Exarch for sanction.
 
-- [**The Inland Guard**](ministry#inland-guard) is the public police service headquartered at Caelum's Landing. Funded by the Ministry, the greater number of guards compared to Church Clerics allows for more efficient policing of Fundus and the Innermotes.
+- [**The Inland Guard**](inland-guard) is the public police service headquartered at Caelum's Landing. Funded by the Ministry, the greater number of guards compared to Church Clerics allows for more efficient policing of Fundus and the Innermotes.
 
 - [**The Commission**](commission) for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber](commission#glimback-toestubber) in [899 PO](timeline#899-po). Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the Relief, research new magic, and prospect new earthmotes for colonisation. They operate out of [Crowswood Place](profundus#crowswood-place) on Fundus.
 
-- [**The Order of the Lantern**](commission#order-of-the-lantern) is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the Miasma. They have strong ties with the Commission.
+- [**The Order of the Lantern**](order-of-the-lantern) is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the Miasma. They have strong ties with the Commission.
 
 - [**The Spirit Temple**](spirit-temple) monks seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue earthmotes and send them back into the Miasma. They have an agreement with the Church that enables them to serve alongside expeditions and help prevent natural disasters.
 
 - [**The Dawnroot Druids**](dawnroot-druids) make their home in the Dawnroot Forest on Fundus, secluded from the trappings of lifestyle in the capital. They revere and protect a portal to the elemental plane of water, the source of the Fountainhead River, which they believe to be a blessing from *Silvanus*, the deity of wild nature. Though they disapprove of the Church's expansionist practices, they seem to prefer not to intervene.
 
-- [**The Kingdom of Diamante**](kingdom-of-diamante) is the largest of several feudal nations that sit atop the earthmote Vinculo on the north-western border between Profundus and Montanum. Currently ruled by Queen [Carina Diamante IV](kingdom-of-diamante#carina-diamante-iv) and her consort, [Rafael de Florencia](kingdom-of-diamante#rafael-de-florencia), the nation boasts great wealth and pride in their flamboyant culture.
-
-- [**The Diamond Guard**](kingdom-of-diamante#diamond-guard) is the moniker given to Queen Carina's royal guard. Paragons of courage and altruism, knights of the Diamond Guard command great prestige as few amongst the many warriors that apply for the role are accepted.
+- [**The Diamond Guard**](diamond-guard) is the moniker given to the [Kingdom of Diamante](montanum#kingdom-of-diamante)'s royal guard. Paragons of courage and altruism, knights of the Diamond Guard command great prestige as few amongst the many warriors that apply for the role are accepted. They are sworn to protect the current monarch, Queen [Carina Diamante IV](npcs#carina-diamante-iv), whose feudal nation boasts great wealth and pride in its flamboyant culture.
 
 - [**The Crosscut Circle**](crosscut-circle) work in the shadows to expose the hypocrisy of the Church of Caelum. They claim the Miasma was released 1,000 years ago as a result of Caelum's ritual to expel the darkness within him so that he might to ascend to divinity. They also claim Mundi Eversor was created by Tenebrae and his followers in order to stop Caelum.
 
@@ -100,7 +98,13 @@ The world of Fio holds many opportunities for budding adventurers. Join one of i
 
 - [**The Githzechi Clans**](githzechi-clans) are said to be the descendants of githyanki who fell through a portal to the *Astral Plane* several centuries ago. The clans constantly feud over the barren territories of [Os Terrae](calidus#os-terrae) and have developed their psionic abilities to survive its harsh sands. While some uphold their faith in *Vlaakith*, others seek their fortune in Os Terrae's grand sinkhole that provides precious materials from the *Elemental Plane of Earth*.
 
-Other factions that can be found across the Relief include: the [Mining Consortium](npcs#mining-consortium), an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](profundus#micantrum); the [Bounty Hunters Codex](npcs#bounty-hunters-codex), a code of honour that binds all hunters, hunter parties and lodges to prevent infighting and ensure business remains profitable; and the [Merchants Guild](npcs#merchants-guild), a union of tradespeople operating out of Arx that sponsor and protect independent merchants across the Relief. Other characters you encounter may travel the Relief independently or work on behalf of a guild or society. Routinely, these characters can offer freelance work for budding adventurers. You might find yourself protecting a cable car of perishable goods from *Zip-Pirates* or catching rare and exotic fish for the *Fishing Guild*.
+- [**The Mining Consortium**](mining-consortium) is an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](profundus#micantrum). They work in competition with the Ministry, who govern the mining rights to the Resonant Mines beneath Fundus.
+
+- [**The Bounty Hunters Codex**](bounty-hunters-codex) is a code of honour that binds all hunters, hunter parties and lodges across the Relief to prevent infighting and ensure business remains profitable. However, not all bounty hunters obey this code of honour.
+
+- [**The Merchants Guild**](merchants-guild) is a union of tradespeople operating out of Arx that sponsor and protect independent merchants across the Relief.
+
+- [**The Combe Shipping and Courier Agency**](combe-shipping) is one the largest business empires in the Relief. Operating out of the [Duchy of Ruby](profundus#duchy-of-ruby), the business 
 
 ---
 
