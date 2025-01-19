@@ -3,7 +3,7 @@ layout: page
 title: Getting Started
 ---
 
-For almost a millennium the world of [Fio](#a-world-obscured) has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](#the-miasma), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing](profundus#caelums-landing) sits atop [Fundus](profundus#fundus) at the heart of a circular [Relief](#the-relief) in the storm. It was here that [Caelum Sol Orbis](#caelum-sol-orbis) sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](exploration#earthmotes), large chunks of land that float above the ground. This event has come to be known as the [Rising](timeline#the-rising). You begin your adventure in the year 999 PO, almost 1,000 years after the founding of Caelum's Landing.
+For almost a millennium the world of [Fio](#a-world-obscured) has been plagued by an unnatural, perpetual storm of its own creation; the [Miasma](#the-miasma), a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, safe harbour endures. The city of [Caelum's Landing](profundus#caelums-landing) sits atop [Fundus](profundus#fundus) at the heart of a circular [Relief](#the-relief) in the storm. It was here that [Caelum Sol Orbis](#caelum-sol-orbis) sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [earthmotes](exploration#earthmotes), large chunks of land that float above the ground. This event has come to be known as the [Rising](timeline#the-rising). You begin your adventure in the year 996 PO, almost 1,000 years after the founding of Caelum's Landing.
 
 ### A World Obscured
 
@@ -32,7 +32,7 @@ With the exception of the Relief, Fio is believed to be completely engulfed by t
 
 ##### **Caelum's Light**
 
-Caelum's Light is a holiday celebrated across the Relief. It marks the beginning of a new fewyear as chromatic rays illuminate the fringes of the solar eclipse at midnight on the first day of Adventus. The light is believed to be a blessing from Caelum, the colours representing the pride or shame he may feel for his people at the fewyear's end. Since the arrival of the earthmote Nox in [192 PO](timeline#192-po), it is believed that a new earthmote appears somewhere on Fio during every Caelum's Light. Scholars believe that this is the result of Fio aligning with a planar portal created by Caelum when he ascended to divinity 1,000 years ago. Arriving earthmotes can vary greatly in size and biome and can be deposited anywhere in Fio. Most earthmotes are uninhabited chunks of land which may house valuable minerals. On the occasion a populated earthmote arrives in the Relief, the [Church of Caelum](church-of-caelum) are the first to extend a hand of welcome and help reorient newcomers.
+Caelum's Light is a holiday celebrated across the Relief. It marks the beginning of a new fewyear as chromatic rays illuminate the fringes of a solar eclipse at midnight on the first day of Adventus. The light is believed to be a blessing from Caelum, the colours representing the pride or shame he may feel for his people at the fewyear's end. Since the arrival of the earthmote Nox in [192 PO](timeline#192-po), it is believed that a new earthmote appears somewhere on Fio during every Caelum's Light. Scholars believe that this is the result of Fio aligning with a planar portal created by Caelum when he ascended to divinity 1,000 years ago. Arriving earthmotes can vary greatly in size and biome and can be deposited anywhere in Fio. Most earthmotes are uninhabited chunks of land which may house valuable minerals. On the occasion a populated earthmote arrives in the Relief, the [Church of Caelum](church-of-caelum) are the first to extend a hand of welcome and help reorient newcomers.
 
 ### The Relief
 
@@ -64,11 +64,11 @@ The *Ascensus in Caelum* chronicles Caelum's struggle against Mundi Eversor and 
 
 ##### **Mundi Eversor**
 
-Mundi Eversor was the name of the colossus created by the fiend [Tenebrae](#tenebrae) to destroy the world. The Ascensus teaches us that one millennium ago, Caelum Sol Orbis did battle with Eversor and in its destruction the Miasma was released from its dark, crystalline heart. The resulting magical shock wave enchanted the deposits of resonite in the earth and the earthmotes began to rise. As a fissure opened up around his home, Caelum stood at the centre of Anfang and raised a mighty golden shield to hold back the Miasma as Fundus rose into the sky. Once the danger had subsided, Caelum's body erupted into a coruscation of light, and he ascended to godhood. The city was renamed Caelum's Landing in recognition of the saviour. This event is known as the Rising. The Church of Lathander would eventually transition into the nascent Church of Caelum. To the erde-south-west, the derelict remains of the ancient colossus can still be seen protruding from the Altum Ocean.
+Mundi Eversor was the name of the colossus created by the fiend [Tenebrae](#tenebrae) to destroy the world. The Ascensus teaches us that one millennium ago, Caelum Sol Orbis did battle with Eversor and in its destruction the Miasma was released from its dark, crystalline heart. The resulting magical shock wave enchanted the deposits of resonite in the earth and the earthmotes began to rise. As a fissure opened up around his home, Caelum stood at the centre of Anfang and raised a mighty golden shield to hold back the Miasma as Fundus rose into the sky. Once the danger had subsided, Caelum's body erupted into a coruscation of light, and he ascended to godhood. The city was renamed Caelum's Landing in recognition of the saviour. This event is known as the Rising. The Church of Lathander would eventually transition into the nascent Church of Caelum. To the erde-south-west, the derelict remains of the ancient colossus can still be seen protruding from the Altum Sea.
 
 ##### **Tenebrae**
 
-Little is known of the fiend Tenebrae. Restricted chronicles held deep within the *Oratory*'s vaults make reference to them only as the shadowy being behind the construction of Mundi Eversor. The *Insequentes Umbra*, a unique painting also held in the vaults, depicts them as a cambion who wields a hellish flaming great-sword as they stand upon the shoulder of Mundi Eversor. The figure is depicted in silhouette with large barbed horns and dragon-like wings.
+Little is known of the fiend Tenebrae. Restricted chronicles held deep within the *Oratory*'s vaults make reference to them only as the shadowy being behind the construction of Mundi Eversor. The *Insequentes Umbra*, a unique painting also held in the vaults, depicts them as a cambion who wields a hellish flaming greatsword as they stand upon the shoulder of Mundi Eversor. The figure is depicted in silhouette with large barbed horns and dragon-like wings.
 
 ### Finding Adventure
 
@@ -98,13 +98,13 @@ The world of Fio holds many opportunities for budding adventurers. Join one of i
 
 - [**The Githzechi Clans**](githzechi-clans) are said to be the descendants of githyanki who fell through a portal to the *Astral Plane* several centuries ago. The clans constantly feud over the barren territories of [Os Terrae](calidus#os-terrae) and have developed their psionic abilities to survive its harsh sands. While some uphold their faith in *Vlaakith*, others seek their fortune in Os Terrae's grand sinkhole that provides precious materials from the *Elemental Plane of Earth*.
 
-- [**The Mining Consortium**](mining-consortium) is an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](profundus#micantrum). They work in competition with the Ministry, who govern the mining rights to the Resonant Mines beneath Fundus.
+- [**The Mining Consortium**](mining-consortium) is an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](profundus#micantrum). They work in direct competition with the Ministry, who govern the mining rights to the Resonant Mines beneath Fundus.
 
 - [**The Bounty Hunters Codex**](bounty-hunters-codex) is a code of honour that binds all hunters, hunter parties and lodges across the Relief to prevent infighting and ensure business remains profitable. However, not all bounty hunters obey this code of honour.
 
 - [**The Merchants Guild**](merchants-guild) is a union of tradespeople operating out of Arx that sponsor and protect independent merchants across the Relief.
 
-- [**The Combe Shipping and Courier Agency**](combe-shipping) is one the largest business empires in the Relief. Operating out of the [Duchy of Ruby](profundus#duchy-of-ruby), the business
+- [**The Combe Shipping and Courier Agency**](combe-shipping) is one the largest business empires in the Relief. Operating out of the [Duchy of Ruby](profundus#duchy-of-ruby), the agency's grand fleet of ships and airships deliver goods with speed and security.
 
 ---
 
