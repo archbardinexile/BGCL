@@ -7,9 +7,9 @@ The Dawnroot Druids make their home in the *Dawnroot Forest* on [Fundus](profund
 
 ### Other Members
 
-- **Hlynur** Stoic, grey-haired male wood elf leader of the clan
-- **Myrthe** Kindly, dark-skinned female centaur deputy leader
-- **Bor** Non-binary half-orc, the clan's muscle
+- **Hlynur** Stoic, silver-haired male wood elf with antlers; leader of the clan
+- **Myrthe** Headstrong, dark-skinned female centaur; deputy leader
+- **Bor** Non-binary half-orc, the clan's carpenter and muscle
 - **Falvalor** Young and trusting moon elf
-- **Lothran** Ambitious wood elf warlock, childhood friend of Falvalor. Made pact with eldritch flower being.
-- **Milo** Young highland Minotaur oath of the ancients paladin adopted by druids
+- **Lothran** Ambitious wood elf warlock from the Sylvan Kingdoms.Childhood friend of Falvalor. Came to Dawnroot after old clan performed the rite of thorns. Made pact with eldritch flower being.
+- **Milo** Young highland Minotaur; oath of the ancients paladin
