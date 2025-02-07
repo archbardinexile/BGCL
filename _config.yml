@@ -16,6 +16,7 @@ minima:
 
 header_pages:
   - getting-started.md
-  - exploration.md
+  - locations.md
+  - characters.md
   - timeline.md
   - players.md
