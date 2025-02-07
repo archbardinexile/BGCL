@@ -29,6 +29,8 @@ Caelum's Landing boasts 20 square miles of developed areas, making it the larges
 
 - **Caelum’s Landing University** is large enough to warrant a district of its own. Isolated to the west of the Oratory, here you can take crash courses to learn new spells, gain new skills and new tool proficiencies. Or, if you wish to carve out a different path for yourself, you may enrol at the university and learn all the essential skills you need to make a fresh start. The university's famous library and observatory are always open to the public. Adventurers looking to travel to other earthmotes may also visit the *Glider Proficiency Centre*, where they must pass an assessment before they are given a glider of their own.
 
+- **The Sundered Peaks** is the mountain range to the north.
+
 ##### **Fundus Park**
 
 Fundus Park is a small town on the south-western shore of Fundus constructed around the first cable car station on the *Calligo Way*. It has several amenities one might need after a lengthy journey. A tavern, several inns, even a tourist information centre. The park itself has rolling green hills and a lush pond with a statuesque fountain in the centre. Beyond the park can be found patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers.
