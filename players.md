@@ -101,7 +101,3 @@ title: Players
 - [x] Convince *Aura* to release *Clara* from her responsibilities as Prefect.
 - [x] Listen for news from the *Kingdom of Diamante*.
   - [ ] Find out more about the protests against the Queen.
-
----
-
-### **Previous: [Timeline](timeline.md)**
