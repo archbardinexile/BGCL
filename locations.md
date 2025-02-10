@@ -17,19 +17,21 @@ Sitting atop Fundus, Caelum's Landing is the capital city of the most prevalent 
 
 Caelum's Landing boasts 20 square miles of developed areas, making it the largest city in the Profundus region. At its centre stands the great spire of the *Oratory*, the seat of the Church of Caelum, where the *Exarch* and head of state, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), resides. To the south-west, vast rolling hills of patchwork farmland are cut in two by the *River Fountainhead*, which diffuses into the air when it reaches the shore, nourishing a perpetual rainbow below. To the east, the industrial, residential and commercial districts of Caelum's Landing are framed by the *Dawnroot Forest* where the [Dawnroot Druids](dawnroot-druids) protect the River Fountainhead's sacred source. And to the north, the *Ministerial Houses* play host to the nation's government, a council of elected ministers representing the many provinces under the Church's jurisdiction. Their Chairman, [Emil Hartmann](ministry#emil-hartmann) serves as head of government.
 
-- **The Oratory** stands at the centre of Caelum's Landing, a great spire serving as the seat of the Church of Caelum. Here, hopeful acolytes train to become clerics in service to Caelum. The Exarch, Aura Sol Orbis, resides here.
+- **Oratory** stands at the centre of Caelum's Landing, a great spire serving as the seat of the Church of Caelum. Here, hopeful acolytes train to become clerics in service to Caelum. The Exarch, Aura Sol Orbis, resides here.
 
-- **The Ministerial Houses** are situated north of the Oratory, in Caelum's Landing's most palatial district. These grand chambers are where the government of ministers reside.
+- **Ministerial Houses** are situated north of the Oratory, in Caelum's Landing's most palatial district. These grand chambers are where the government of ministers reside.
 
-- **The Cloud District** is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [Inland Guard](ministry#inland-guard). Further east, [resonance engines](getting-started#resonance-engines) and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
+- **Cloud District** is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [Inland Guard](ministry#inland-guard). Further east, [resonance engines](getting-started#resonance-engines) and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
 
-- **The Sun District**, east of the Oratory, is the largest of Caelum's Landing's districts, where one can find residences and public services to sate any need. Inns always have beds and taverns always have beer. Street carts can be caught to travel anywhere on Fundus, and powered street lighting will keep your journey illuminated at night.
+- **Sun District**, east of the Oratory, is the largest of Caelum's Landing's districts, where one can find residences and public services to sate any need. Inns always have beds and taverns always have beer. Street carts can be caught to travel anywhere on Fundus, and powered street lighting will keep your journey illuminated at night.
 
-- **The Wind District** is where shoppers and tourists can find the heart of the Relief's commerce. South-east of the Oratory, it is commonplace to find the stalls of travelling merchants, workshops of craftsmen from all over the Relief, and skilled alchemists who can both heal and invigorate the most daring of adventurers.
+- **Wind District** is where shoppers and tourists can find the heart of the Relief's commerce. South-east of the Oratory, it is commonplace to find the stalls of travelling merchants, workshops of craftsmen from all over the Relief, and skilled alchemists who can both heal and invigorate the most daring of adventurers.
 
 - **Caelum’s Landing University** is large enough to warrant a district of its own. Isolated to the west of the Oratory, here you can take crash courses to learn new spells, gain new skills and new tool proficiencies. Or, if you wish to carve out a different path for yourself, you may enrol at the university and learn all the essential skills you need to make a fresh start. The university's famous library and observatory are always open to the public. Adventurers looking to travel to other earthmotes may also visit the *Glider Proficiency Centre*, where they must pass an assessment before they are given a glider of their own.
 
 - **The Sundered Peaks** is the mountain range to the north.
+
+- **Ruins of Caer Wraidd**
 
 ##### **Fundus Park**
 
@@ -96,6 +98,8 @@ This city of sandstone is second only to Caelum's Landing when it comes to its a
 ### Os Terrae
 
 Often besieged by howling sandstorms, a portal to the elemental plane of earth marks the centre of the desolate Os Terrae region. Local Githzechi tribes call this giant sinkhole "shka'keth" meaning ass-hole. Debris litters the landscape, believed to be the remains of a dead god which fell through a portal to the astral plane.
+
+### Bone Cay
 
 ## Contritus
 
