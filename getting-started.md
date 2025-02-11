@@ -17,7 +17,7 @@ Mundi Eversor was the name of the colossus created by the fiend [Tenebrae](#tene
 
 ### Tenebrae
 
-Little is known of the fiend Tenebrae. Restricted chronicles held deep within the [Oratory](locations#Oratory)'s vaults make reference to them only as the shadowy being behind the construction of Mundi Eversor. The *Insequentes Umbra*, a unique painting also held in the vaults, depicts them as a cambion who wields a hellish flaming greatsword as they stand upon the shoulder of Mundi Eversor. The figure is depicted in silhouette with large barbed horns and dragon-like wings.
+Little is known of the fiend Tenebrae. Restricted chronicles held deep within the [Oratory](locations#the-oratory)'s vaults make reference to them only as the shadowy being behind the construction of Mundi Eversor. The *Insequentes Umbra*, a unique painting also held in the vaults, depicts them as a cambion who wields a hellish flaming greatsword as they stand upon the shoulder of Mundi Eversor. The figure is depicted in silhouette with large barbed horns and dragon-like wings.
 
 ## **Fio**
 
@@ -70,7 +70,7 @@ The Relief is a circular expanse in the northern hemisphere of Fio unaffected by
 
 #### **Montanum**
 
-[Montanum](locations#montanum) to the west is characterised by its expansive mountain ranges. Affluent nations sit atop the earthmote [Atada](locations#atada), while the peninsula of [Porta Ignota](locations#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the Miasma.
+[Montanum](locations#montanum), to the west, is characterised by its expansive mountain ranges. Though much of the region is obscured by the Miasma, the peninsula of [Porta Ignota](locations#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the magical purple fog.
 
 #### **Discidium**
 

@@ -135,7 +135,7 @@ Auga Vigil assumed the role of Exarch after some encouragement from their peers,
 
 #### **Little Nox separates from Tenebrae's Refuge**
 
-Erde-south-west of Fundus, the earthmote known as [Tenebrae's Refuge](locations#tenebraes-refuge) is constantly weathered by the [Fountainhead Falls](locations#fountainhead-river). In 617 PO, the eastern side of Tenebrae's Refuge was abandoned when it became clear the erosion would finally cause the earthmote to split in two. The new smaller earthmote remained stable and was named [Little Nox](locations#little-nox).
+Erde-south-west of Fundus, the earthmote known as [Tenebrae's Refuge](locations#tenebraes-refuge) is constantly weathered by the [Fountainhead Falls](locations#river-fountainhead). In 617 PO, the eastern side of Tenebrae's Refuge was abandoned when it became clear the erosion would finally cause the earthmote to split in two. The new smaller earthmote remained stable and was named [Little Nox](locations#little-nox).
 
 ### 748 PO
 
@@ -184,6 +184,12 @@ On the 17th of Perventum 983 PO, a final decisive battle was fought in the skies
 #### **Aura Sol Orbis Becomes Exarch**
 
 Following the natural death of her father, Ardeat Sol Orbis, Aura Sol Orbis was heralded as the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](characters#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](characters#sana-sol-orbis), Prefect of Madanau and her sister [Clara](characters#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations#tenebraes-refuge).
+
+### 990 PO
+
+#### **Abyssus is Discovered**
+
+In 990 PO, an advanced submarine made by Ingenium's top artificers succeeded in capturing image of illuminated, jellyfish-like domed structures at the bottom of the [Vena Trench](locations#vena-trench). The submarine was subsequently attacked on its return journey by merfolk riding giant sharks. Fortunately, the crew was able to escape unharmed. This mysterious underwater city was named Abyssus by explorers that until now had only inferred its existence.
 
 ### 996 PO
 

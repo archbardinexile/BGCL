@@ -3,11 +3,13 @@ layout: page
 title: Timeline Hidden
 ---
 
-The Annals of Tenebrae, held secretly within the *Oratory*'s vaults, hold the words of [Tenebrae](getting-started#tenebrae) as they recount the alleged true events that led up to the [Rising](timeline#the-rising).
+The Annals of Tenebrae, held secretly within the [Oratory](locations#the-oratory)'s vaults, hold the words of [Tenebrae](getting-started#tenebrae) as they recount the alleged true events that led up to the [Rising](timeline#the-rising).
+
+## **Ante Orientem**
 
 ### 10 AO
 
-##### **Tenebrae's journey begins**
+#### **Tenebrae's journey begins**
 
 Once an earth genasi with another name, Tenebrae began their life as an artist. Receiving visions of a blight upon the land, Tenebrae felt compelled to paint a swirling dark purple void surrounding the region of [Profundus](locations). Having dwelt on the meaning of their ominous painting, Tenebrae was sought out by *Chauntea*, the deity of life and agriculture. She encouraged Tenebrae to travel the land and construct stone pillars that might retain the true history of events to come. These pillars would bear the blessing of Chauntea, so that they might purify their surroundings and offer places of refuge and bounty during the coming blight.
 
@@ -15,13 +17,13 @@ Tenebrae travelled the region for six years, beseeching those in power to prepar
 
 ### 4 AO
 
-##### **Tenebrae creates a pact with the League of Archfiends**
+#### **Tenebrae creates a pact with the League of Archfiends**
 
 Having challenged and rediscovered their resolve, Tenebrae travelled to the region of Discidium to seek out the [League of Archfiends](league-of-archfiends). Their number was said to include the powerful rakshasa sorcerer [Abhishek](league-of-archfiends#abishek), the alu-fiend seductress [Malaika](league-of-archfiends#malaika), the cambion warmonger [Arzhang](league-of-archfiends#arzhang), and the durzagon artificer [Zdenek](league-of-archfiends#zdenek). The fiends did not believe Tenebrae's tale until Malaika's agents returned with proof of Caelum's treachery. With the Archfiends' influence, Tenebrae's allies soon multiplied and collection began of the resonite ore required to power the heart of [Mundi Eversor](getting-started); a great colossus that could match the powers of Caelum Sol Orbis, the aasimar who was to bring forth the [Miasma](getting-started#the-miasma) in his bid for ascension.
 
 ### 0 PO
 
-##### **The Rising**
+#### **The Rising**
 
 In a vast cavern deep beneath Discidium, Zdenek was able to refine the resonite into a single resonance sphere almost half a mile in diameter. With the sphere complete, Abhishek began a ritual to grow the skeleton of Mundi Eversor from the very earth surrounding the sphere. The evacuation of Discidium drew the gaze of Caelum Sol Orbis. In his hubris, he called upon the *Saints* to prematurely begin the ritual to cleanse his mortal body of darkness so that he might ascend to divinity. Flying high above the Oratory, Caelum watched in horror as Mundi Eversor erupted from the ground beneath Discidium. Great chunks of earth crumbled away from Eversor's metallic form and rained down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor began its approach to [Anfang](locations#caelums-landing).
 
