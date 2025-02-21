@@ -112,42 +112,23 @@ Orange-crested aarakocra balloonist.
 
 ---
 
-### Nox
-
-Reclusive silver dragon of Nox.
-
-### Aequor
-
-Giant chromatic wandering sea-dragon of Contritus. Seahorse-like features.
-
-### Vulcan
-
-Giant mountain-like dragon asleep under Montanum
+## **Mallia**
 
 ### Vasilissa
 
 Queen of Mallia.
 
-### Neira
+---
 
-### Meizilde
+## **Caelum's Landing University**
 
-### Bhaldrom Anchorheart
+### Roshia Cralee
 
-Seafaring mercenary in service to Umberlee. Guy Brush's Captain.
-
+Sea-elf graviturgist
 
 ---
 
-# College of Retainers
-
-### Agnes Briar-Colton
-
----
-
-# Mining Consortium
-
-## Notable Members
+## **Mining Consortium**
 
 ### Havat Eilistre
 
@@ -155,9 +136,7 @@ Governor of Micantrum.
 
 ---
 
-# Bounty Hunters Codex
-
-## Notable Members
+## **Bounty Hunters Codex**
 
 ### Vigor
 
@@ -167,15 +146,9 @@ Tiefling bard-barian with a heart of gold
 
 Vigor's tiny punk deep gnome wizard friend
 
-### Xander Coppermane
-
-Hardy ginger-bearded human adventurer with a strange inhabited cloak
-
 ---
 
-# Merchants Guild
-
-## Notable Members
+## **Arx Merchants Guild**
 
 ### Shadal "Shadi" ibn Lakhim
 
@@ -187,7 +160,11 @@ Portly elf merchant drunken master travels in airship caravan
 
 ---
 
-# Ingenium Inventors Association
+## **Ingenium Inventors Association**
+
+### Artifex Calligo
+
+Minister of Ingenium, creator of cable cars and flying machines.
 
 ### Zephan Calligo
 
@@ -207,7 +184,7 @@ Artificer with experience building warforged
 
 ---
 
-# House Diamante
+## **House Diamante**
 
 ### Carina Diamante IV
 
@@ -217,81 +194,82 @@ Artificer with experience building warforged
 
 35, Queen's consort, third child of House Florencia, younger brother to Isabela Santiago.
 
-# House Santiago
+---
 
-### Notable Members
+## **Dawnroot Druids**
 
-- **Giovanni Santiago** 75, head of House Santiago, husband to Juliana, father to five including Rodrigo Santiago (Rachael). Adviser to the queen, amateur cartographer.
-- **Juliana Santiago** 73, husband to Giovanni, formerly of house Lucia. Retired knight and historian
-  - **Alessandra Santiago** 26, student of philosophy
-  - **Rodrigo Santiago** 34, assumed dead, current alias Bantonio Anderas
-  - **Francesca Santiago** 42, diplomat
-  - **Alfonso Santiago** 47, cleric and apothecary with a green thumb
-  - **Isabela Santiago** 49, wife to Alfonso, formerly of House Florencia. Professor of Philosophy at CLU. Collects antiques.
-    - **Elisa Santiago** 23, daughter of Alfonso and Isabela, musician
-    - **Cecilia Santiago** 20, squire under the tutelage of a Diamond Guard
-    - **Rodrigo Santiago II** 17, student
+### Hlynur
 
-# House Leonardi
+Stoic, silver-haired male high elf with antlers; leader of the clan
 
-### Notable Members
+### Myrthe
 
-- **Damain Leonardi** 38, husband to Magerite, wizard and head of House Leonardi
-- **Magerite Leonardi** 37, sister to Rodrigo Santiago, poet and astronomer
-  - **Paulo & Frencesco Leonardi** 8, excitable twin brothers, students of acrobatics and martial arts respectively
+Headstrong, dark-skinned female centaur; deputy leader
 
-## Dawnroot Druids
+### Falvalor
 
-- **Hlynur** Stoic, silver-haired male high elf with antlers; leader of the clan
-- **Myrthe** Headstrong, dark-skinned female centaur; deputy leader
-- **Bor** Non-binary half-orc, the clan's carpenter and muscle
-- **Falvalor** Young and trusting moon elf
-- **Lothran** Ambitious wood elf warlock from the Sylvan Kingdoms.Childhood friend of Falvalor. Came to Dawnroot after old clan performed the rite of thorns. Made pact with eldritch flower being.
-- **Milo** Young highland Minotaur; oath of the ancients paladin
+Young and trusting moon elf
 
 ### Lothran
 
-## Inland Guard
+Ambitious wood elf warlock from the Sylvan Kingdoms. Childhood friend of Falvalor. Came to Dawnroot after old clan performed the rite of thorns.
 
-- **Rosalind Armbruster** Human Chief Constable of the Inland Guard.
-- **Michael Denover** Upstart human constable.
+### Milo
 
-## The Ministry
+Young highland Minotaur; oath of the ancients paladin
 
-##### **Emil Hartmann**
+---
+
+## **Inland Guard**
+
+### Rosalind Armbruster
+
+Human Chief Constable of the Inland Guard.
+
+### Michael Denover
+
+Upstart human constable.
+
+---
+
+## **The Ministry**
+
+### Emil Hartmann
 
 Ministry Chairman.
 
-##### **Artifex Calligo**
+### Lethiah Khan
 
-Minister of Ingenium, creator of cable cars and flying machines.
+Tabaxi careers adviser.
 
-### Other Members
+---
 
-- **Lethiah Khan** tabaxi careers adviser.
+## **Order of the Lantern**
 
-### Historical Members
+### Lathraia
 
-- **Anselm Chlodovech** ended the first Sol Orbis dynasty, founded the Fundus Republic in 351 PO.
-- **Ewalt Niemann** successor to Chlodovech, overthrown by Auga Vigil in 416 PO.
-- **Klemens Frey** first Chairman of the Ministry.
+Humanoid yuan-ti. Former Mallian spy, founder of the Order of the Lantern, liaison to the Commission.
 
-### Order of the Lantern
+### Hadley Pinchbrew
 
-- **Lathraia** Humanoid yuan-ti. Former Mallian spy, founder of the Order of the Lantern, liaison to the Commission.
-- **Hadley Pinchbrew** Halfling artificer, alchemist and portent wizard. Commission's quartermaster.
-- **Doom** Punk-ish androgynous tiefling wild magic barbarian. Commission's Beastmaster.
+Halfling artificer, alchemist and portent wizard. Commission's quartermaster.
 
-### Spirit Temple
+### Doom
 
-##### **Baihu**
+Punk-ish androgynous tiefling wild magic barbarian. Commission's Beastmaster.
+
+---
+
+## **Spirit Temple**
+
+### Baihu
 
 Master Monk of the Spirit Temple.
 
-##### **Keijo**
+### Keijo
 
 Scarred half-elf with the spirit of a tiger.
 
-##### **Blue-Belly**
+### Blue-Belly
 
 Chameleon lizardfolk monk.
