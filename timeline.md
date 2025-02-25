@@ -7,6 +7,12 @@ The *Ascensus in Caelum* teaches us that one millennium ago, [Caelum Sol Orbis](
 
 ## **Ante Orientem**
 
+### c. 1000 AO
+
+#### **Anfarwol arrives on Fio**
+
+#### **Caer Wraidd is built**
+
 ### 64 AO
 
 #### **Caelum Sol Orbis is born**
@@ -59,7 +65,7 @@ The Church begins putting pressure on the crown to anoint Prima Vita a new theoc
 
 ### 27 PO
 
-#### **The Church of Caelum Expands**
+#### **The Church of Caelum expands**
 
 The Church begins sending missionaries to nearby earthmotes.
 
@@ -181,13 +187,13 @@ On the 17th of Perventum 983 PO, a final decisive battle was fought in the skies
 
 ### 986 PO
 
-#### **Aura Sol Orbis Becomes Exarch**
+#### **Aura Sol Orbis becomes Exarch**
 
 Following the natural death of her father, Ardeat Sol Orbis, Aura Sol Orbis was heralded as the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](characters#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](characters#sana-sol-orbis), Prefect of Madanau and her sister [Clara](characters#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations#tenebraes-refuge).
 
 ### 990 PO
 
-#### **Abyssus is Discovered**
+#### **Abyssus is discovered**
 
 In 990 PO, an advanced submarine made by Ingenium's top artificers succeeded in capturing image of illuminated, jellyfish-like domed structures at the bottom of the [Vena Trench](locations#vena-trench). The submarine was subsequently attacked on its return journey by merfolk riding giant sharks. Fortunately, the crew was able to escape unharmed. This mysterious underwater city was named Abyssus by explorers that until now had only inferred its existence.
 

@@ -45,19 +45,19 @@ Caelum’s Landing University, or CLU, is large enough to warrant a district of 
 
 Crowswood Place is the stately manor home of the [Commission](factions#the-commission) for the Research of Offshore Worlds, or Crows for short. Situated west of the Oratory, members of this organisation are are tasked with surveying the earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [Order of the Lantern](factions#order-of-the-lantern). These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the Miasma.
 
-#### **The Sundered Peaks**
+#### **Sundered Peaks**
 
 These three peaks on Fundus' northern shore are what remains of a mountain range that crumbled away during the [Rising](timeline#the-rising).
 
 ##### Ruins of Caer Wraidd
 
-The ancient residence of *Anfarwol*, the immortal elf-king of Anfang, was built into the very foundations of the Sundered Peaks. It is now a site of great archaeological interest.
+This ancient citadel was carved into the stone of the Sundered Peaks perhaps more than two millennia ago. It was the residence of *Anfarwol*, the immortal elf-king of Anfang. It is now a site of great archaeological interest.
 
 #### **Fundus Park**
 
 Fundus Park is a small town on the south-western shore of Fundus constructed around the first cable car station on the *Calligo Way*. It has several amenities one might need after a lengthy journey. A tavern, several inns, even a tourist information centre. The park itself has rolling green hills and a lush pond with a statuesque fountain in the centre. Beyond the park can be found patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers.
 
-#### **The Spirit Temple**
+#### **Spirit Temple**
 
 The [Spirit Temple](factions#spirit-temple) is the isolated home of a clique of monks on the north-western shore. The monks there seek a deep connection to [Fio](getting-started#fio) through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands, making them fertile and bountiful. Though not followers of Caelum, the monks remain in the employ of the Church when rogue earthmotes threaten to collide with Fundus. The monks' combined strength allows them to arrest dangerous earthmotes and send them back into the Miasma.
 
