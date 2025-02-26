@@ -92,7 +92,7 @@ Secretive, masked wood elf. Arcane archer with a wide-brimmed hat. Expert monste
 
 Elderly sphinx tabaxi housekeeper.
 
-### Tupak
+### Tuperk
 
 Orange-crested aarakocra balloonist.
 
