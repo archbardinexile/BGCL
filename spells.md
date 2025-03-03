@@ -1,7 +1,54 @@
 ---
-layout: post
+layout: page
 title: Spells
 ---
+
+## **Cantrips**
+
+### Joy's Mailed Mockery
+
+*Enchantment cantrip*
+
+- **Casting Time:** 1 action
+- **Range:** Unlimited
+- **Components:** S, M (a sheet of parchment, which the spell consumes)
+- **Duration:** Instantaneous
+
+You scribble a string of insults laced with subtle enchantments onto a sheet of parchment. The parchment folds itself into a paper plane and flies toward the target. If the target opens the parchment, it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn. This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether or not the spell reaches its target.
+
+---
+
+## **1st Level**
+
+### Double or Nothing
+
+*1st-level divination*
+
+- **Casting Time:** 1 reaction, which you take after making an attack roll
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+Whenever you make an attack roll, you can use your reaction to roll an additional d20. You can cast this spell after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll. If the attack hits, it becomes a critical hit. If the attack misses, you have disadvantage on your next attack roll. You cannot cast this spell in reaction to an attack roll that already has advantage or disadvantage.
+
+---
+
+## **3rd Level**
+
+### Bandorul’s Surface Shift
+
+*3rd-level evocation*
+
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (A drop of lemon oil)
+- **Duration:** Concentration, up to 1 minute
+
+Choose a medium size or lower creature that you can see within range. For the duration, you change the direction of gravity for that creature and it is pulled toward a vertical surface or ceiling within 60 feet of it. A willing creature may move up, down, across or upside down along that surface normally. An unwilling creature must make a Constitution saving throw. On a failed save, the creature takes 2d6 force damage and falls toward the surface. At the end of the fall, the creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 6d6. It also lands prone, unless it somehow avoided taking damage from the fall. On a successful save, the creature takes half as much damage and doesn't fall.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ### Bandorul's Unlocked Potential
 
@@ -26,42 +73,9 @@ Choose a creature that you can see within range. For the duration, when that cre
 | ?d10              | ?d12       | ?d12 + ?d4 | ?d12 + ?d6 |
 | ?d12              | ?d12 + ?d4 | ?d12 + ?d6 | ?d12 + ?d8 |
 
-### Bandorul’s Surface Shift
+---
 
-*3rd-level evocation*
-
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Components:** V, S, M (A drop of lemon oil)
-- **Duration:** Concentration, up to 1 minute
-
-Choose a medium size or lower creature that you can see within range. For the duration, you change the direction of gravity for that creature and it is pulled toward a vertical surface or ceiling within 60 feet of it. A willing creature may move up, down, across or upside down along that surface normally. An unwilling creature must make a Constitution saving throw. On a failed save, the creature takes 2d6 force damage and falls toward the surface. At the end of the fall, the creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 6d6. It also lands prone, unless it somehow avoided taking damage from the fall. On a successful save, the creature takes half as much damage and doesn't fall.
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
-
-### Double or Nothing
-
-*1st-level divination*
-
-- **Casting Time:** 1 reaction, which you take after making an attack roll
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Instantaneous
-
-Whenever you make an attack roll, you can use your reaction to roll an additional d20. You can cast this spell after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll. If the attack hits, it becomes a critical hit. If the attack misses, you have disadvantage on your next attack roll. You cannot cast this spell in reaction to an attack roll that already has advantage or disadvantage.
-
-### Joy's Mailed Mockery
-
-*Enchantment cantrip*
-
-- **Casting Time:** 1 action
-- **Range:** Unlimited
-- **Components:** S, M (a sheet of parchment, which the spell consumes)
-- **Duration:** Instantaneous
-
-You scribble a string of insults laced with subtle enchantments onto a sheet of parchment. The parchment folds itself into a paper plane and flies toward the target. If the target opens the parchment, it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn. This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
-
-There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether or not the spell reaches its target.
+## **4th Level**
 
 ### Imprison Creature
 
