@@ -14,11 +14,11 @@ minima:
 
 # Content
 
-header_pages:
-  - getting-started.md
-  - locations.md
-  - characters.md
-  - timeline.md
-  - players.md
-  - items.md
-  - spells.md
+  nav_pages:
+    - getting-started.md
+    - locations.md
+    - characters.md
+    - timeline.md
+    - players.md
+    - items.md
+    - spells.md
