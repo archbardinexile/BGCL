@@ -14,6 +14,7 @@ title: Players
 - [x] (Optional) Support **Arti** and deliver the blood magic proposal to *Aura*.
   - [ ] Wait for Aura's decision.
 - [ ] Investigate the death of the anonymous miner.
+  - [ ] Find and speak with *Snicker Nickelfoot*
 
 ### Items
 
@@ -31,8 +32,7 @@ title: Players
 
 - [x] Find a job at the Guilds Exhibition.
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to *Arx*.
-- [ ] (Optional) Pay the debt collectors at *The Hearty Tankard* on Roscidas 19th.
-- [ ] (Optional) Confront the disgruntled farmer about the 200 gold fine.
+- [x] Pay off the debt collectors at *The Hearty Tankard* on Roscidas 19th.
 
 ### Items
 
@@ -112,7 +112,7 @@ title: Players
 
 ### Quests
 
-- [x] Listen for news about the protests in the *Kingdom of Diamante*.
+- [ ] Listen for news about the protests in the *Kingdom of Diamante*.
 
 ### Items
 
