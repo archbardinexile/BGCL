@@ -119,15 +119,15 @@ A 82-year period of feudalism would follow the death of Prospero until the heirs
 
 ### 196 PO
 
-#### **The War of Ascension begins**
+#### **The War of Accession begins**
 
 The heirs of Pluvia and Nebula, Cor and Rex Sol Orbis, arrive in Caelum's Landing to lay claim to the Exarchy.
 
 ### 203 PO
 
-#### **The War of Ascension ends**
+#### **The War of Accession ends**
 
-Cor defeats Rex at the *Battle of the Sundered Peaks* but chooses to spare Rex's life. Unbeknownst to him, during the battle, Rex had struck him with the *Dooming Blade*.
+Cor defeats Rex at the *Battle of Fountainhead* but chooses to spare Rex's life.
 
 #### **Cor Sol Orbis becomes Exarch**
 
