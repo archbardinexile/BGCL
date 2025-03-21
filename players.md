@@ -57,7 +57,8 @@ title: Players
   - [x] Deliver the blood magic proposal to *Aura*.
     - [ ] Wait for Aura's decision.
   - [x] Recruit the Spirit Temple monks.
-  - [ ] Enlist the help of the Ingenium Inventors Association.
+  - [x] Enlist the help of the Ingenium Inventors Association.
+    - [ ] Procure Arxian glass from *Roshia Cralee*.
 
 ### Items
 
