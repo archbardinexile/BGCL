@@ -35,13 +35,25 @@ You can use this weapon to climb up to 10 feet or swing up to 15 feet by grappli
 
 **Special.** You can attempt to grapple a creature as part of your attack with this weapon (you do not need a free hand).
 
-### Lantern Flail
+### Arti's Lantern Flail
 
 *Martial weapon, melee weapon, very rare (requires attunement).* 2 lb.
 
 **1d8 bludgeoning. Reach, special.**
 
-You gain a ***+1 bonus*** to attack and damage rolls made with this magic weapon. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog in a 20-foot radius. The fog reforms behind you as you move through it.
+This magic weapon grants a ***+1 bonus*** to attack and damage rolls made with it. On a hit, the target takes an extra ***1d4 radiant damage***. This weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. It also disperses fog in a 20-foot radius. The fog reforms behind the wielder as they move through it.
+
+**Special.** You can attempt to grapple a creature as part of your attack with this weapon (you do not need a free hand).
+
+### Crow's Lantern Flail
+
+*Martial weapon, melee weapon, very rare (requires attunement).* 2 lb.
+
+**1d8 bludgeoning. Reach, special.**
+
+This magic weapon grants a ***+1 bonus*** to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action. It also disperses fog in a 30-foot radius. The fog reforms behind the wielder as they move through it.
+
+The weapon has 4 charges. The wielder can expend 1 charge deal an extra ***1d8 radiant damage***. The weapon regains 1d4 expended charges daily at dawn.
 
 **Special.** You can attempt to grapple a creature as part of your attack with this weapon (you do not need a free hand).
 
@@ -110,6 +122,12 @@ You drop a handful of ball bearings into your zip-wheel while it spins at high s
 ---
 
 ## **Items**
+
+### Crow's Lantern
+
+*Wondrous item, very rare.*
+
+This lantern casts bright light in a 120-foot radius and dim light for an additional 120 feet. It also disperses fog in a 120-foot radius.
 
 ### Elvish Glass Shoulder Cape
 
