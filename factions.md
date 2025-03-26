@@ -81,7 +81,7 @@ The Inland Guard is the public police service headquartered at Caelum's Landing.
 
 The League of Archfiends is said to be a secret cabal of fiends who operate from within the [Miasma](getting-started#the-miasma), subsidising illegal practices across the [Relief](getting-started#the-relief) that will bring them luxury in their empire beyond the barrier. It is rumoured they even conspired with [Tenebrae](getting-started#tenebrae) to create [Mundi Eversor](getting-started#mundi-eversor) 1,000 years ago, but it has never been proven the organisation exists or ever existed.
 
-## Mining Consortium
+## Micantrum Mining Consortium
 
 The Mining Consortium is an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](locations#micantrum). They work in direct competition with the Ministry, who govern the mining rights to the Resonant Mines beneath Fundus.
 

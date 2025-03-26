@@ -17,7 +17,7 @@ A document showing Gomruss' purchase of 5000 Dice Monarchs sets from *Resin Curi
 >
 > The Investor, Gomruss Yardos Bandorul, has agreed to pay the sum of 500 gp (see: 1a.) to Resin Curios Inc. in disbursements from their share of profits gained in the sale of "Dice Monarchs" sets (see: 2.) over a period of three months, ending 996, Roscidas 19th.
 >
-> In the event the disbursements amount to a total less than 	500 gp, the Investor shall pay the difference within three months of the purchase date, ending 996, Roscidas 19th.
+> In the event the disbursements amount to a total less than 500 gp, the Investor shall pay the difference within three months of the purchase date, ending 996, Roscidas 19th.
 >
 > 2. Income
 >
