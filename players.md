@@ -33,6 +33,7 @@ title: Players
 - [x] Find a job at the Guilds Exhibition.
   - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to *Arx*.
 - [x] Pay off the debt collectors at *The Hearty Tankard* on Roscidas 19th.
+- [ ] Confront River Chapman.
 
 ### Items
 
@@ -62,7 +63,7 @@ title: Players
 
 ### Items
 
-- [Lantern Flail](items#lantern-flail)
+- [Arti's Lantern Flail](items#artis-lantern-flail)
 
 ---
 
@@ -77,6 +78,7 @@ title: Players
 - [ ] Find *Naal Berevan*.
   - [x] Find and speak with *Camren*.
     - [ ] (Optional) Report Camren's involvement with the *Crosscut Circle*.
+    - [ ] Investigate the submarine.
 
 ### Items
 
