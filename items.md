@@ -11,7 +11,7 @@ title: Items
 
 **1d8 piercing. Ammunition (150/600 ft.), heavy, two‑handed.**
 
-This weapon's levering system doesn't impose disadvantage on ranged weapon attack rolls when attacking at long range with this weapon.
+This weapon's levering system doesn't impose disadvantage on ranged weapon attack rolls when attacking at long range.
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
@@ -20,6 +20,20 @@ This weapon's levering system doesn't impose disadvantage on ranged weapon attac
 **Range.** A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
 **Two-handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+
+### Gomruss' Staff
+
+*Simple weapon, melee weapon, spellcasting focus (requires attunement).*
+
+**1d6 bludgeoning. Versatile (1d8).**
+
+An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+
+While holding this item, a creature gains a ***+1 bonus*** to spell attack rolls. In addition, the creature ignores half cover when making a spell attack. The bonus increases to ***+2*** when you reach 10th level in this class.
+
+While holding this item, you can use it to cast the ***Bandorul’s Surface Shift*** spell as an action. This property of the staff can't be used again until the next dawn.
+
+**Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
 ### Grappling Whip
 
@@ -63,7 +77,7 @@ The weapon has 4 charges. The wielder can expend 1 charge deal an extra ***1d8 r
 
 **1d4 piercing + 1d10 poison. Finesse, light, thrown (20/60 ft.).**
 
-This weapon teleports back to your hand after it is used for a ranged attack.
+This weapon returns to the wielder's hand immediately after it is used to make a ranged attack.
 
 **Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
@@ -133,7 +147,13 @@ This lantern casts bright light in a 120-foot radius and dim light for an additi
 
 *Wondrous item, rare.*
 
-While wearing this cape, you can use it to cast the ***Mirror Image*** spell as an action. This property of the cape can't be used again until the next dawn.
+While wearing this item, you can use it to cast the ***Mirror Image*** spell as an action. This property of the item can't be used again until the next dawn.
+
+### Resonite Pendant
+
+*Wondrous item, rare.*
+
+While wearing this item, you can use it to cast the ***Absorb Elements*** spell as a reaction. This property of the item can't be used again until the next dawn.
 
 ### Thunderflash Powder
 
@@ -145,13 +165,13 @@ As an action, you create a flash of dazzling light filling a 10-foot cube within
 
 *Wondrous item, rare.*
 
-While wearing these boots, as an action, you can kick a creature within 5 feet. That creature must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
+While wearing this item, as an action, you can kick a creature within 5 feet. That creature must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
 
 ### Tymora's Coin
 
 *Wondrous item, artifact (requires attunement).*
 
-While holding this coin, you can use it to cast the [***Double or Nothing***](spells#double-or-nothing) spell as an action. This property of the coin can't be used again until the next dawn.
+While holding this item, you can use it to cast the [***Double or Nothing***](spells#double-or-nothing) spell as an action. This property of the item can't be used again until the next dawn.
 
 ---
 

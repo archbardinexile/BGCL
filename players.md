@@ -14,7 +14,7 @@ title: Players
 - [x] (Optional) Support **Arti** and deliver the blood magic proposal to *Aura*.
   - [ ] Wait for Aura's decision.
 - [ ] Investigate the death of the anonymous miner.
-  - [ ] Find and speak with *Snicker Nickelfoot*
+  - [ ] Speak with *Snicker Nickelfoot* at the *Job Centre* on Ingenium.
 
 ### Items
 
@@ -37,8 +37,8 @@ title: Players
 
 ### Items
 
-- [Tymora's coin](items#tymoras-coin)
-- Resonite shard
+- [Tymora's Coin](items#tymoras-coin)
+- [Gomruss' Staff](items#gomruss-staff)
 
 ---
 
@@ -51,7 +51,7 @@ title: Players
 ### Quests
 
 - [ ] Reconstruct your missing memories.
-  - [x] Find out where you're from.
+  - [x] Find out who you are.
   - [x] Find out what happened to the expedition.
   - [ ] Discover the identity of the dream visitor.
 - [ ] Find *Glimback* in the Miasma.
@@ -104,6 +104,7 @@ title: Players
 ### Items
 
 - [Kurt's Hand Cannon](items#hand-cannon)
+- [Gemlock Pistol](items#gemlock-pistol)
 
 ---
 
@@ -121,3 +122,4 @@ title: Players
 
 - [Arrows](items#arrows-and-bolts)
 - [Grappling Whip](items#grappling-whip)
+- [Resonite Pendant](items#resonite-pendant)
