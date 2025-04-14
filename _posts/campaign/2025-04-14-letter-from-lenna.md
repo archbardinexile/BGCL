@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Letter from Lenna Madizos
-published: false
 ---
 
 A letter from Lenna Madizos to Firien.

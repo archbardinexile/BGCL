@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Letter from Aura
-published: false
 ---
 
 A letter to Art from Exarch Aura Sol Orbis.
