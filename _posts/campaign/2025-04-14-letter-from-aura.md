@@ -3,7 +3,7 @@ layout: post
 title: Letter from Aura
 ---
 
-A letter to Art from Exarch Aura Sol Orbis.
+A letter to Arti from Exarch Aura Sol Orbis.
 
 > The Oratory, Caelum's Landing. 996, Roscidas 20th.
 >
