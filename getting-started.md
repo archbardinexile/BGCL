@@ -271,7 +271,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 #### **Intoxication**
 
-Drinking excessive alcohol may require Constitution saving throws of an increasing DC to ward off the effects of intoxication. For example, a creature that consumes 1 mug of ale must succeed on a DC 5 Constitution saving throw or be intoxicated for 1 hour. The DC increases by 5 for each additional mug consumed. An intoxicated creature has advantage on Charisma checks and disadvantage on Wisdom checks. After 1 hour, the creature has disadvantage on Intelligence checks until its next short rest.
+Drinking excessive alcohol may require Constitution saving throws of an increasing DC to ward off the effects of intoxication. For example, a creature that consumes 1 mug of ale must succeed on a DC 5 Constitution saving throw or be intoxicated for 1 hour. The DC increases by 5 for each additional mug consumed. An intoxicated creature has advantage on Charisma checks and disadvantage on Wisdom checks for 1 hour. The creature then has disadvantage on Intelligence checks until its next short rest.
 
 ### Tavern Games
 
