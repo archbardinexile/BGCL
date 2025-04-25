@@ -12,9 +12,8 @@ title: Players
 ### Quests
 
 - [x] (Optional) Support **Arti** and deliver the blood magic proposal to *Aura*.
-  - [ ] Wait for Aura's decision.
+  - [ ] Attend the hearing alongside Arti.
 - [ ] Investigate the death of the anonymous miner.
-  - [ ] Speak with *Snicker Nickelfoot* at the *Job Centre* on Ingenium.
 
 ### Items
 
@@ -30,10 +29,8 @@ title: Players
 
 ### Quests
 
-- [x] Find a job at the Guilds Exhibition.
-  - [ ] Wait for Doctor *Gurdeep Darshan* to prepare the expedition to *Arx*.
-- [x] Pay off the debt collectors at *The Hearty Tankard* on Roscidas 19th.
 - [ ] Confront River Chapman.
+  - [ ] Find a key to the Plane of Mirrors.
 
 ### Items
 
@@ -50,20 +47,14 @@ title: Players
 
 ### Quests
 
-- [ ] Reconstruct your missing memories.
-  - [x] Find out who you are.
-  - [x] Find out what happened to the expedition.
-  - [ ] Discover the identity of the dream visitor.
 - [ ] Find *Glimback* in the Miasma.
   - [x] Deliver the blood magic proposal to *Aura*.
-    - [ ] Wait for Aura's decision.
-  - [x] Recruit the Spirit Temple monks.
-  - [x] Enlist the help of the Ingenium Inventors Association.
-    - [ ] Procure Arxian glass from *Roshia Cralee*.
+    - [ ] Attend the hearing.
+- [ ] (Optional) Find the dream visitor in the Miasma.
 
 ### Items
 
-- [Arti's Lantern Flail](items#artis-lantern-flail)
+- [Arti's Lantern Flail](items#crows-lantern-flail)
 
 ---
 
@@ -96,15 +87,14 @@ title: Players
 
 ### Quests
 
-- [ ] Procure the triple-barrelled gemlock rifle for Captain *Bhaldrom Anchorheart*.
-  - [x] Find a way into the warehouse on Ingenium.
-    - [ ] Purchase the rifle.
-    - [ ] (Optional) Steal the rifle.
+- [x] Steal the triple-barrelled gemlock rifle.
+  - [ ] (Optional) Give the rifle to Captain *Bhaldrom Anchorheart*.
 
 ### Items
 
 - [Kurt's Hand Cannon](items#hand-cannon)
 - [Gemlock Pistol](items#gemlock-pistol)
+- [Triple-barrelled gemlock rifle](items#triple-barrelled-gemlock-rifle)
 
 ---
 
@@ -116,7 +106,7 @@ title: Players
 
 ### Quests
 
-- [ ] Listen for news about the protests in the *Kingdom of Diamante*.
+- [ ] Listen for news from the *Kingdom of Diamante*.
 
 ### Items
 
