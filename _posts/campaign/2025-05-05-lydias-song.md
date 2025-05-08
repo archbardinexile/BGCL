@@ -3,7 +3,7 @@ layout: post
 title: Saint Lydia's Song
 ---
 
-An extract from a songbook purchased by Bantonio at Firerocks Tower. Though entitled *Saint Lydia's Song*, the writer remains unknown.
+An extract from a songbook purchased by Bantonio at Brimstones Bookshop. Though entitled *Saint Lydia's Song*, the writer remains unknown.
 
 > There's a fire burning  
 > And I'm learning to be  
@@ -107,4 +107,4 @@ An extract from a songbook purchased by Bantonio at Firerocks Tower. Though enti
 > And I'll take my fucking time  
 > Cos I know, I know, I know
 >
-> Unknown
+> *Unknown*
