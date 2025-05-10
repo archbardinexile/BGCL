@@ -110,6 +110,10 @@ Orange-crested aarakocra balloonist.
 
 ### Cylaros
 
+### Lothran
+
+Ambitious wood elf warlock from the Sylvan Kingdoms.
+
 ---
 
 ## **Mallia**
@@ -209,10 +213,6 @@ Headstrong, dark-skinned female centaur; deputy leader
 ### Falvalor
 
 Young and trusting moon elf
-
-### Lothran
-
-Ambitious wood elf warlock from the Sylvan Kingdoms. Childhood friend of Falvalor. Came to Dawnroot after old clan performed the rite of thorns.
 
 ### Milo
 
