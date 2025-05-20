@@ -83,7 +83,7 @@ An extract from a songbook purchased by Bantonio at Brimstones Bookshop. Though 
 > Sometimes I fall to pieces  
 > Just to see what bits of me don't fit  
 >  
-> Cos I when I stand oh those folks will run  
+> Cos when I stand oh those folks will run  
 > And tell the tales of what I've become  
 > They'll speak of me in whispered tones  
 > And say my name like it shakes their bones  
@@ -107,4 +107,4 @@ An extract from a songbook purchased by Bantonio at Brimstones Bookshop. Though 
 > And I'll take my fucking time  
 > Cos I know, I know, I know
 >
-> *Unknown*
+> *Ten*
