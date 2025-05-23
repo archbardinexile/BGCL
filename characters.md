@@ -42,18 +42,6 @@ Grand Inquisitor.
 
 Grand Herald.
 
-### Naal Berevan
-
-Shy drow herald.
-
-### Mercy
-
-Kindly pink tiefling herald.
-
-### Grevik
-
-Nervous half-orc acolyte.
-
 ---
 
 ## **The Commission**
@@ -98,6 +86,14 @@ Orange-crested aarakocra balloonist.
 
 ---
 
+## **Crosscut Circle**
+
+### Camren de Villeneuve
+
+### Vetra Bery
+
+---
+
 ## **Feywild Ones**
 
 ### Cade Beckonhand
@@ -121,14 +117,6 @@ Ambitious wood elf warlock from the Sylvan Kingdoms.
 ### Vasilissa
 
 Queen of Mallia.
-
----
-
-## **Caelum's Landing University**
-
-### Roshia Cralee
-
-Sea-elf graviturgist
 
 ---
 
@@ -178,14 +166,6 @@ Air genasi grandson of Artifex, lantern heart designer
 
 Human lantern heart designer and warforged builder
 
-### Brogar Stonehelm
-
-Dwarf weapons designer
-
-### Dobbin Tinkertop
-
-Artificer with experience building warforged
-
 ---
 
 ## **House Diamante**
@@ -214,10 +194,6 @@ Headstrong, dark-skinned female centaur; deputy leader
 
 Young and trusting moon elf
 
-### Milo
-
-Young highland Minotaur; oath of the ancients paladin
-
 ---
 
 ## **Inland Guard**
@@ -237,10 +213,6 @@ Upstart human constable.
 ### Emil Hartmann
 
 Ministry Chairman.
-
-### Lethiah Khan
-
-Tabaxi careers adviser.
 
 ---
 
@@ -273,3 +245,7 @@ Scarred half-elf with the spirit of a tiger.
 ### Blue-Belly
 
 Chameleon lizardfolk monk.
+
+### Jaytrix
+
+### Brazen

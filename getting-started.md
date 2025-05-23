@@ -275,17 +275,26 @@ Drinking excessive alcohol may require Constitution saving throws of an increasi
 
 ### Tavern Games
 
-Of all the games one might frequent in a local tavern, *River*, sometimes called *Dice Monarchs* or simply *Wizard Poker*, serves as a common way to earn free drinks or lose a small fortune. It is played in much the same way as *Poker* only with dice instead of cards.
+Of all the games one might frequent in a local tavern, *Dice Monarchs*, sometimes called *Wizard Poker*, serves as a common way to earn free drinks or lose a small fortune. It is played in much the same way as *Poker* only with dice instead of cards.
 
-#### **River**
+#### **Dice Monarchs**
 
-1. A round begins with each player purchasing five dice from the *banker*: 1d4, 1d6, 1d8, 1d10 and 1d12. These become the players' *hole dice*. The banker declares the *price of the dice*. This serves as the *ante* or *blind*. The gold is added to the *pot*.
-2. Each player rolls their hole dice and keeps them hidden.
-3. The banker rolls 1d4, 1d6, 1d8, 1d10 and 1d12 and reveals them in succession for *auction*.
-4. Players may bid for the auctioned dice. The player who places the highest bid for an individual die may add it to their *hand*. A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, if 1d4 is won at auction, it cannot be used together with that player's hole d4. All gold spent at auction is added to the pot.
-5. Once the auction is complete, the players reveal their hands. The player with the highest value hand wins the round and takes the pot. If two or more players have a hand with the same value, the hand with the highest hole number wins. Even hands are considered higher value than odd hands.
+1. **Roll your hole dice.** Each player rolls their *hole dice* (1d4, 1d6, 1d8, 1d10 and 1d12) and keeps them hidden.
+2. **Place your bets.** The player immediately clockwise of the *banker* must place a *bet*. Going clockwise, each player must *call* or *raise* the bet to stay in play. To leave play, a player can *bin* their dice. All bets go to the *pot*.
+3. **The flop.** Once betting is resolved, the banker rolls and reveals the first three of five *community dice* (1d4, 1d6 and 1d8), known as the *flop*.
+4. **Round one.** The highest better from the previous round may place another bet or *check* the next community die. Going clockwise, each player can:
+   - **Bin.** Leave play and forfeit the pot.
+   - **Check.** Pass to the next player without betting (if there is no current bet).
+   - **Bet.** If there is no current bet.
+   - **Call.** Match the current bet and stay in play.
+   - **Raise.** Increase the current bet and become the highest better.
+5. **The turn.** Once betting is resolved, the banker rolls and reveals the next community die (1d10), known as the *turn*.
+6. **Round two.** The highest better from the previous round begins another round of betting.
+7. **The river.** Once betting is resolved, the banker rolls and reveals the final community die (1d12), known as the *river*.
+8. **Final round.** The highest better from the previous round begins the final round of betting.
+9. **Showdown.** Once betting is resolved, the remaining players reveal their hole dice. The player who can create the highest value *hand* using 1d4, 1d6, 1d8, 1d10 and 1d12 wins the pot. If only one player remains after the final round, they win the pot.
 
-> "Here's the rub: a player may choose to bid at auction in order to make another player spend more gold, or to prevent them from adding a die to their hand."
+> "Master the art of bluffing. Trick your opponent into binning and you could steal the pot! But don't bluff too early, let the players fill the pot first."
 >
 > *Barty.*
 
@@ -333,3 +342,5 @@ Of all the games one might frequent in a local tavern, *River*, sometimes called
 | Flop 3/4               | 1, 2, 3 or 2, 3, 4                | 38.11% |
 | High 5/6               | 5 or 6                            | 47.50% |
 | Double 1s/2s/3s/4s     | 1, 1 to 4, 4                      | 52.56% |
+
+A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a player's hole d4 cannot be used together with the community d4. If two or more players have a hand with the same value, the player with the highest hole number wins. Even hands are considered higher value than odd hands.

@@ -3,6 +3,40 @@ layout: page
 title: Characters Hidden
 ---
 
+## **Church of Caelum**
+
+### Naal Berevan
+
+Shy drow herald.
+
+### Mercy
+
+Kindly pink tiefling herald.
+
+### Grevik
+
+Nervous half-orc acolyte.
+
+## **The Commission**
+
+### Kalyptos
+
+Black dragonborn monster slayer ranger, Caelum worshipper. Wayfarer who encouraged Glimback to leave Arti behind.
+
+### Owain
+
+Harengon wild magic sorcerer.
+
+### Tiamo Trouve
+
+Human watcher paladin. Exiled diamond guard and tactician.
+
+## **Caelum's Landing University**
+
+### Roshia Cralee
+
+Sea-elf graviturgist
+
 ## **League of Archfiends**
 
 ### Abhishek
