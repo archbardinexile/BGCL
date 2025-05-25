@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Order of the Lantern
+title: Blood Hunter—Order of the Lantern
 ---
 
 ## [**Blood Hunter Class Features**](https://2014.5e.tools/classes.html#blood%20hunter_bh2022)

@@ -35,7 +35,7 @@ Human watcher paladin. Exiled diamond guard and tactician.
 
 ### Roshia Cralee
 
-Sea-elf graviturgist
+Sea-elf graviturge
 
 ## **League of Archfiends**
 
