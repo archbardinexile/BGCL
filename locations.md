@@ -131,7 +131,7 @@ Stabilised skew-east of Madanau, Creed's Hollow emerged from the Miasma in a rin
 
 ### Altum Sea
 
-The Altum Sea stretches far into the uncharted regions of the Miasma. As a result, most denizens of the Relief tend to have at least a rudimentary understanding of seafaring or aviation. The destruction of Mundi Eversor wrought great storms that filled the cavities left behind after the rising, leading many aquatic races to take refuge in its depths. To this day, the many shanty towns that lie beneath the ocean remain mysteriously isolated.
+The Altum Sea stretches far into the uncharted regions of the Miasma. As a result, most denizens of the Relief tend to have at least a rudimentary understanding of seafaring or aviation. The destruction of Mundi Eversor wrought great storms that filled the cavities left behind after the rising, leading many aquatic races to take refuge in its depths. To this day, the many shantytowns that lie beneath the ocean remain mysteriously isolated.
 
 ### Sylvan Kingdoms
 
