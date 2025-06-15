@@ -66,4 +66,4 @@ If a psychotic creature suffers another effect that causes psychosis, its curren
 
 An effect that removes psychosis reduces its level as specified in the effect's description, with all psychosis effects ending if a creature's psychosis level is reduced below 1. If a psychotic creature is targeted by an effect that neutralises poison, that effect has a duration of 1 hour. The creature is then poisoned again unless its psychosis level is reduced below 1.
 
-Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A *lesser restoration* spell reduces a creature's psychosis level by 1. A *greater restoration* spell reduces a creature's psychosis level by 1d4+1.
+Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A *greater restoration* spell can reduce a creature's psychosis level by 1.
