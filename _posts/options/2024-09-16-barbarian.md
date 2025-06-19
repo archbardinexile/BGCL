@@ -11,6 +11,6 @@ You gain class features in the ***Player's Handbook*** when you reach certain le
 
 #### **Primal Healing (Optional)**
 
-Starting at 7th level, you can unleash your rage in a wave of healing energy. Up to six creatures of your choice within 30 feet each regain hit points equal to 2d8 + your Strength modifier. Also, you can reduce each target's exhaustion level by 1, or end 1 condition afflicting each target. The condition can be blinded, deafened, paralysed, or poisoned.
+Starting at 7th level, you can unleash your rage in a wave of healing energy. Up to six creatures of your choice within 30 feet each regain hit points equal to 2d8 + your Strength modifier. Also, you can reduce each target's psychosis level by 1, or end 1 condition afflicting each target. The condition can be blinded, deafened, paralysed, or poisoned.
 
 Your rage ends early if you use this feature while raging. Once you have used this feature, you must finish a long rest before you can rage again. The healing increases by 1d8 when you reach 11th level (3d8), 15th level (4d8), and 19th level (5d8).
