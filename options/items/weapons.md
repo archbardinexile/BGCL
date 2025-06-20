@@ -83,7 +83,7 @@ This magic weapon returns to your hand immediately after it is used to make a ra
 
 While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack. The bonus increases to +2 when you reach 10th level in this class.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: magnify gravity (1 charge), immovable object (2 charges), or gravity sinkhole (4 charges). The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a non-magical quarterstaff.
+The staff has ***6 charges***. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: ***Magnify Gravity*** (1 charge), ***Immovable Object*** (2 charges), or [***Bandorul’s Surface Shift***](../spells/3rd-level#bandoruls-surface-shift) (3 charges). The staff regains 1d6 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a non-magical quarterstaff.
 
 **Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
