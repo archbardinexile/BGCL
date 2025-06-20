@@ -249,3 +249,59 @@ Chameleon lizardfolk monk.
 ### Jaytrix
 
 ### Brazen
+
+---
+
+## **Firien Madizos**
+
+### Bixi Madizos
+
+Mother to Firien, genius wizard and former adventurer
+
+### Lorento Madizos
+
+Father to Firien, former adventurer
+
+### Lenna Madizos
+
+Firien's older sister, cleric of Caelum
+
+### Zaen Madizos
+
+16-year-old archaeology apprentice
+
+### Kudi Madizos
+
+10-year-old studying mathematician and wizard
+
+---
+
+## **Gomruss Yardos Bandorul**
+
+### Jaagins Maxal Bandorul
+
+Father to Gomruss
+
+### Roolu Fommis Bandorul
+
+Mother to Gomruss
+
+### Roshia Cralee
+
+Sea-elf graviturge, Gomruss' old mentor
+
+---
+
+## **Guy Brush**
+
+### Agnes Briar-Colton
+
+College of Retainers bard, Guy's former nanny.
+
+### Elyse Trelawney
+
+Anti-pirate captain. Guy Brush's ex-wife.
+
+### Bhaldrom Anchorheart
+
+Seafaring mercenary in service to Umberlee. Guy Brush's Captain.

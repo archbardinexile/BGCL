@@ -135,6 +135,8 @@ The Altum Sea stretches far into the uncharted regions of the Miasma. As a resul
 
 ### Sylvan Kingdoms
 
+---
+
 ## **Calidus**
 
 Calidus, the southernmost region, is blanketed by harsh sands, yet many varied cultures thrive here. The sandstone city of [Arx](#arx) offers refuge to travellers while powerful fiends are said to watch with envious eyes from the darkened landscape beyond the Miasma.
@@ -148,6 +150,8 @@ This city of sandstone is second only to Caelum's Landing when it comes to its a
 Often besieged by howling sandstorms, a portal to the elemental plane of earth marks the centre of the desolate Os Terrae region. Local Githzechi tribes call this giant sinkhole "shka'keth" meaning asshole. Debris litters the landscape, believed to be the remains of a dead god which fell through a portal to the astral plane.
 
 ### Bone Cay
+
+---
 
 ## **Contritus**
 
@@ -167,6 +171,8 @@ The largest of the Manyshells, Raptor Island, hosts the shanty city of [Anchora]
 
 Erupting from the sea erde-south-east of Fundus in the year [976 PO](timeline#976-po), Mallia is the largest earthmote in the Relief. This impenetrable jungle peninsula floats just above sea level, with thick vines cascading over its shores like medusan hair. The landmass continues into the Miasma, but none on the earthmote dare venture past the border. It is the home of the Mallian culture, a unification of reptilian races ruled by the greater medusan queen, [Vasilissa](characters#vasilissa). The queen is known to bless only the most powerful and loyal of her subjects with the very curse she bears in order to create the infamous medusan warriors that command her armies. Mallia currently stands fractured between those loyal to the queen and those who have found sanctuary in the Church of Caelum. The rainforest serves as the border between these two factions.
 
+---
+
 ## **Montanum**
 
 Montanum, to the west, is characterised by its expansive mountain ranges. Though much of the region is obscured by the Miasma, the peninsula of [Porta Ignota](#porta-ignota) serves as an invaluable trade hub for intrepid explorers of the magical purple fog.
@@ -181,6 +187,8 @@ The largest congregation of sea-folk in the Relief resides at the bottom of the 
 
 Expeditions to this underwater city have been met with adversity, trying to combat the pressure of the trench's depths and indeed its protective citizens. In [990 PO](timeline#990-po), an advanced submarine made by Ingenium's top artificers succeeded in capturing an image of the city from above, revealing curious illuminated domed structures like the tops of jellyfish. The submarine was subsequently attacked on its return journey by merfolk riding giant sharks. Fortunately, the crew was able to escape unharmed.
 
+---
+
 ## **Glacialis**
 
 Glacialis, the frozen region to the north, suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of [Nox](#nox) look upon the [Relief](getting-started#the-relief) through rings of aurora, while further east, the dinosaur-riding clans of [Primal Antiqua](#primal-antiqua) thrive on more verdant land.
@@ -194,6 +202,8 @@ Only a small proportion of the earthmote is populated. Wooden longhouses strengt
 ### Primal Antiqua
 
 ### Frozen Antiqua
+
+---
 
 ## **Discidium**
 

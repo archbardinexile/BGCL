@@ -9,14 +9,6 @@ title: Characters Hidden
 
 Shy drow herald.
 
-### Mercy
-
-Kindly pink tiefling herald.
-
-### Grevik
-
-Nervous half-orc acolyte.
-
 ## **The Commission**
 
 ### Kalyptos
@@ -31,11 +23,7 @@ Harengon wild magic sorcerer.
 
 Human watcher paladin. Exiled diamond guard and tactician.
 
-## **Caelum's Landing University**
-
-### Roshia Cralee
-
-Sea-elf graviturge
+---
 
 ## **League of Archfiends**
 
@@ -54,16 +42,6 @@ Cambion warmonger
 ### Zdenek
 
 Durzagon artificer
-
----
-
-### Jaagins Maxal Bandorul
-
-Father to Gomruss
-
-### Roolu Fommis Bandorul
-
-Mother to Gomruss
 
 ---
 
@@ -112,28 +90,6 @@ Giant mountain-like dragon asleep under Montanum
 
 ---
 
-## **The Manyshells**
+### Charis Madizos
 
-### Bhaldrom Anchorheart
-
-Seafaring mercenary in service to Umberlee. Guy Brush's Captain.
-
-### Elyse Trelawney
-
-Anti-pirate captain. Guy Brush's ex-wife.
-
----
-
-## **College of Retainers**
-
-### Agnes Briar-Colton
-
----
-
-Children of Bixi and Lorento Madizos, two Brass dragonborn in their 50s/60s:
-
-- Lenna Madizos, 28, Female, Caelum Cleric
-- Charis Madizos, 21, genderfluid, abandoned Firien to find adventure
-- Firien Madizos, 20, non-binary, Cleric of Bahamut
-- Zaen Madizos, 16, young man just come of age and taken his adult name
-- Kudi Madizos (child name), 10 year old boy
+21, genderfluid, abandoned Firien to find adventure
