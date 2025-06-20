@@ -5,28 +5,28 @@ title: Character Options
 
 ## **Races**
 
-- [Githzechi](githzechi)
-- [Tiefling (Rakshasa)](tiefling)
+- [Githzechi](races/githzechi)
+- [Tiefling (Rakshasa)](races/tiefling)
 
 ## **Classes**
 
-- [Barbarian](barbarian)
-- [Bard](bard)
-- [Blood Hunter](blood-hunter)
-- [Monk](monk)
-- [Wizard](wizard)
+- [Barbarian](classes/barbarian)
+- [Bard](classes/bard)
+- [Blood Hunter](classes/blood-hunter)
+- [Monk](classes/monk)
+- [Wizard](classes/wizard)
 
 ## **Spells**
 
-- [Cantrips](cantrips)
-- [1st Level](1st-level)
-- [2nd Level](2nd-level)
-- [3rd Level](3rd-level)
-- [4th Level](4th-level)
+- [Cantrips](spells/cantrips)
+- [1st Level](spells/1st-level)
+- [2nd Level](spells/2nd-level)
+- [3rd Level](spells/3rd-level)
+- [4th Level](spells/4th-level)
 
 ## **Items**
 
-- [Ammunition](ammunition)
-- [Firearms](firearms)
-- [Items](items)
-- [Weapons](weapons)
+- [Ammunition](items/ammunition)
+- [Firearms](items/firearms)
+- [Items](items/items)
+- [Weapons](items/weapons)
