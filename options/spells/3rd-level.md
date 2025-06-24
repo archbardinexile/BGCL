@@ -34,7 +34,7 @@ Choose a creature that you can see within range. For the duration, when that cre
 ##### **Lucky Dice**
 
 | Normal damage die | Lucky die  | 5th level  | 7th level  |
-| ----------------- | ---------- | ---------- | ---------- |
+|-------------------|------------|------------|------------|
 | ?d4               | ?d6        | ?d8        | ?d10       |
 | ?d6               | ?d8        | ?d10       | ?d12       |
 | ?d8               | ?d10       | ?d12       | ?d12 + ?d4 |

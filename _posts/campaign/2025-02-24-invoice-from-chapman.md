@@ -6,7 +6,7 @@ title: Invoice from R. Chapman
 A document showing Gomruss' purchase of 5000 Dice Monarchs sets from *Resin Curios Inc.* in association with the *Combe Shipping and Courier Agency*.
 
 | Item                            | Quantity | Unit Price   | Total         |
-| ------------------------------- | -------- | ------------ | ------------- |
+|---------------------------------|----------|--------------|---------------|
 | Resin Dice Sets (multicoloured) | 5000     | 0.10 gp      | 500.00 gp     |
 | Shipping                        |          | 0.00 gp      | 0.00 gp       |
 |                                 |          | **Subtotal** | 500.00 gp     |

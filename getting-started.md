@@ -26,7 +26,7 @@ Fio is the name of a planet in the *Material plane*. Estimated by scholars to be
 ##### New Sol Orbis Calendar
 
 | Month         | Season | Holidays                                    |
-| ------------- | ------ | ------------------------------------------- |
+|---------------|--------|---------------------------------------------|
 | Adventus      | Summer | Summer Solstice, Caelum's Light (1st)       |
 | Viridis       | Summer | Aura's Birthday (14th)                      |
 | Vale          | Summer | Guilds Exhibition                           |
@@ -111,7 +111,7 @@ The Biomes table also shows which encounter tables from *Xanathar's Guide to Eve
 ##### Size
 
 | d6  | Size                            |
-| --- | ------------------------------- |
+|-----|---------------------------------|
 | 1   | Tiny (≤ 1,759 sq. ft.)          |
 | 2   | Small (1,760 to 2,639 sq. ft.)  |
 | 3   | Medium (2,640 to 3,519 sq. ft.) |
@@ -122,7 +122,7 @@ The Biomes table also shows which encounter tables from *Xanathar's Guide to Eve
 ##### Biomes
 
 | 2d12   | Biome                                         | Encounters            |
-| ------ | --------------------------------------------- | --------------------- |
+|--------|-----------------------------------------------|-----------------------|
 | 1, 1   | Permafrost                                    | Arctic                |
 | 1, 2   | Ice shelf                                     | Arctic, Coastal       |
 | 1, 3   | Ice sheet                                     | Arctic, Desert        |
@@ -194,7 +194,7 @@ Venturing into the Miasma for long periods without protection or being maimed by
 ##### Psychosis Table
 
 | Level | Effect                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | The creature inhales Miasma exuded from the environment or an attack and is ***poisoned***                                                        |
 | 2     | The creature becomes dizzy and its speed is halved                                                                                                |
 | 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |
@@ -236,7 +236,7 @@ Of all the games one might frequent in a local tavern, *Dice Monarchs*, sometime
 ##### Hands (Highest to Lowest)
 
 | Hand                   | Description                       | Chance |
-| ---------------------- | --------------------------------- | ------ |
+|------------------------|-----------------------------------|--------|
 | Perfect Odd/Even River | 3, 5, 7, 9, 11 or 4, 6, 8, 10, 12 | 0.16%  |
 | Perfect Odd/Even Turn  | 5, 7, 9, 11 or 6, 8, 10, 12       | 0.22%  |
 | Perfect Odd/Even Flop  | 7, 9, 11 or 8, 10, 12             | 0.47%  |

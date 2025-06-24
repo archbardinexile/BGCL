@@ -54,7 +54,7 @@ As a bonus action on your turn, you can move the fog up to 20 feet. Any creature
 ##### Psychosis Table
 
 | Level | Effect                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | The creature inhales Miasma exuded from the environment or an attack and is ***poisoned***                                                        |
 | 2     | The creature becomes dizzy and its speed is halved                                                                                                |
 | 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |

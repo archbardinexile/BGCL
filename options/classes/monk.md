@@ -28,7 +28,7 @@ Some spirit guardians allow you to cast spells. Casting a spell requires you to 
 ##### Monk Level
 
 | Monk Level | Spirit Guardians | Max Ki for a spell |
-| ---------- | ---------------- | ------------------ |
+|------------|------------------|--------------------|
 | 3          | 1                | 2                  |
 | 4          | 1                | 2                  |
 | 5          | 1                | 3                  |

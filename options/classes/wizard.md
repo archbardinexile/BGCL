@@ -22,7 +22,7 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 ##### Gemstones
 
 | Gemstone           | Damage Type       | Components |
-| ------------------ | ----------------- | ---------- |
+|--------------------|-------------------|------------|
 | Diamond            | Radiant           |            |
 | Ruby/Sapphire      | Fire/Cold         | Corundum   |
 | Emerald/Aquamarine | Force/Psychic     | Beryl      |
