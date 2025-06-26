@@ -9,15 +9,15 @@ title: Blood Hunter—Order of the Lantern
 
 ### Order of the Lantern
 
-The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](lore#the-miasma). They have strong ties with the [Commission](commission). Given the nature of your tainted blood, your DM may ask for a Constitution saving throw any time you take necrotic damage when invoking a blood curse or crimson rite. On a failed save, your level of ***psychosis*** may increase.
+The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](lore#the-miasma). They have strong ties with the [Commission](factions#the-commission). Given the nature of your tainted blood, your DM may ask for a Constitution saving throw any time you take necrotic damage when invoking a blood curse or crimson rite. On a failed save, your level of [*psychosis*](rules#psychosis) may increase.
 
 #### **Rite of the Dusk**
 
 When you join this order at 3rd level, you learn the Rite of the Dusk as part of your Crimson Rite feature. When you activate the Rite of the Dusk, the extra damage dealt by your rite is poison damage. Additionally, while that rite is active on your weapon, you gain the following benefits:
 
-- Your weapon disperses fog in a 20-foot radius. The fog reforms behind you as you move through it.
-- Creatures hit with your weapon must succeed on a Constitution saving throw or be poisoned for 1 hour.
-- When you hit a poisoned creature with your weapon, roll an additional hemocraft die when determining the extra damage from the rite.
+- Your weapon disperses fog out to a range of 20 feet.
+- You have resistance to poison damage.
+- When you hit a poisoned creature with a weapon for which the Rite of the Dusk is active, you roll an additional hemocraft die when determining the extra damage from the rite.
 
 #### **Aberrant Gaze**
 
@@ -50,23 +50,6 @@ Choose one creature you can see within 120 feet of you that is poisoned. It take
 **Amplify.**
 
 As a bonus action on your turn, you can move the fog up to 20 feet. Any creature that ends its turn in the area must succeed on a Constitution saving throw or its psychosis level increases by 1.
-
-##### Psychosis Table
-
-| Level | Effect                                                                                                                                            |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | The creature inhales Miasma exuded from the environment or an attack and is ***poisoned***                                                        |
-| 2     | The creature becomes dizzy and its speed is halved                                                                                                |
-| 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |
-| 4     | The creature's skin tone becomes pallid, its eyes turn purple and its hit point maximum is halved                                                 |
-| 5     | The creature suffers extreme paranoia and must use its action each round to attack the nearest creature                                           |
-| 6     | The creature becomes an ***aberration***. It can't cast spells, activate magic items, understand language, or communicate in any intelligible way |
-
-If a psychotic creature suffers another effect that causes psychosis, its current level of psychosis increases by the amount specified in the effect's description. A creature suffers the effect of its current level of psychosis as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and is poisoned.
-
-An effect that removes psychosis reduces its level as specified in the effect's description, with all psychosis effects ending if a creature's psychosis level is reduced below 1. If a psychotic creature is targeted by an effect that neutralises poison, that effect has a duration of 1 hour. The creature is then poisoned again unless its psychosis level is reduced below 1.
-
-Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A *greater restoration* spell can reduce a creature's psychosis level by 1.
 
 ---
 

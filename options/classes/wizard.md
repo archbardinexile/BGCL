@@ -30,7 +30,7 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 
 ##### Gem Magic Spells
 
-**Chromatic Ray.** As a bonus action, spend 1 light point and choose a damage type. A beam of coloured light streaks toward a creature within 60 feet. Make a ranged spell attack against the target. On a hit, it takes 1d8 damage of the chosen type. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**Chromatic Ray.** As a bonus action, spend 1 light point and choose a damage type. A beam of coloured light streaks towards a creature within 60 feet. Make a ranged spell attack against the target. On a hit, it takes 1d8 damage of the chosen type. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Refract Light.** As a reaction, which you take when you see a creature within 60 feet casting a spell, spend 2 light points. Make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature is blinded until the end of your next turn. If the spell requires sight, it fails and has no effect.
 

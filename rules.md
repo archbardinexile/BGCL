@@ -7,9 +7,7 @@ title: Rules
 
 Earthmotes are pieces of land that, due to the influence of magic, float above the ground. Despite their appearance, earthmotes are as durable and stable as any island at sea level. Every earthmote is unique in size, shape and altitude. A few move either in programmed routes or erratically, but most are stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, don't have any effect on an earthmote's ability to float.
 
-You can determine the size of an earthmote or region using the [Size](#size) table below. You can then determine that earthmote's biome type by selecting features from [Biomes](#biomes) table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level.
-
-The Biomes table also shows which encounter tables from *Xanathar's Guide to Everything* to use when traversing the biome. You can also use the *Weather* table found in the *Dungeon Master's Guide* to determine the temperature, wind and precipitation.
+You can determine the size of an earthmote or region using the [Size](#size) table below. You can then determine that earthmote's biome type by selecting features from the [Biomes](#biomes) table or by rolling dice to randomise what you find as you travel. When crossing into a new region, you may wish to re-roll one or more dice to determine how the landscape changes. It is more common to finder colder landscapes in polar regions and hotter landscapes in equatorial regions. However, due to the way some earthmotes travel, you may discover a permafrost earthmote on its way south, slowly melting as the temperature rises. It is also possible to find coastal earthmotes drifting with ocean currents or coral reef earthmotes floating below sea level. The Biomes table also shows which encounter tables from *Xanathar's Guide to Everything* to use when traversing the biome.
 
 ##### Size
 
@@ -94,24 +92,24 @@ When you roll a 12 a planar portal may be present. Re-roll that die and add a po
 
 ## **Psychosis**
 
-Venturing into the Miasma for long periods without protection or being maimed by one of the aberrations within can lead to a special condition called *psychosis*. Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
+Venturing into the [Miasma](lore#the-miasma) for prolonged periods without protection or being maimed by one of the aberrations within can lead to a special condition called *psychosis*. Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
 
 ##### Psychosis Table
 
 | Level | Effect                                                                                                                                            |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | The creature inhales Miasma exuded from the environment or an attack and is ***poisoned***                                                        |
+| 1     | The creature is exposed to the Miasma and has disadvantage on attack rolls and ability checks                                                     |
 | 2     | The creature becomes dizzy and its speed is halved                                                                                                |
 | 3     | The creature experiences vivid hallucinations and has disadvantage on saving throws                                                               |
-| 4     | The creature's skin tone becomes pallid, its eyes turn purple and its hit point maximum is halved                                                 |
+| 4     | The creature's skin tone becomes pallid and its hit point maximum is halved                                                                       |
 | 5     | The creature suffers extreme paranoia and must use its action each round to attack the nearest creature                                           |
-| 6     | The creature becomes an ***aberration***. It can't cast spells, activate magic items, understand language, or communicate in any intelligible way |
+| 6     | The creature becomes an ***aberration***: it can't understand language, or communicate in any intelligible way                                    |
 
-If a psychotic creature suffers another effect that causes psychosis, its current level of psychosis increases by the amount specified in the effect's description. A creature suffers the effect of its current level of psychosis as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and is poisoned.
+If an already psychotic creature suffers another effect that causes psychosis, its current level of psychosis increases by the amount specified in the effect's description. A creature suffers the effect of its current level of psychosis as well as all lower levels. For example, a creature suffering level 2 psychosis has its speed halved and has disadvantage on attack rolls and ability checks.
 
-An effect that removes psychosis reduces its level as specified in the effect's description, with all psychosis effects ending if a creature's psychosis level is reduced below 1. If a psychotic creature is targeted by an effect that neutralises poison, that effect has a duration of 1 hour. The creature is then poisoned again unless its psychosis level is reduced below 1.
+An effect that removes psychosis reduces its level as specified in the effect's description, with all psychosis effects ending if a creature's psychosis level is reduced below 1. Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink.
 
-Finishing a long rest reduces a creature's psychosis level by 1, provided that the creature is outside the Miasma and has also ingested some food and drink. Also, being raised from the dead reduces a creature's psychosis level by 1. A *greater restoration* spell can reduce a creature's psychosis level by 1.
+A *greater restoration* spell can reduce a creature's psychosis level by 1. Also, being raised from the dead reduces a creature's psychosis level by 1. Effects that remove psychosis have no effect on creatures suffering level 6 psychosis excepting a *reincarnate* or *true resurrection* spell. Creatures suffering from psychosis are always treated as *poisoned*.
 
 ---
 
@@ -135,6 +133,8 @@ Of all the games one might frequent in a local tavern, *Dice Monarchs*, sometime
 7. **The river.** Once betting is resolved, the banker rolls and reveals the final community die (1d12), known as the *river*.
 8. **Final round.** The highest better from the previous round begins the final round of betting.
 9. **Showdown.** Once betting is resolved, the remaining players reveal their hole dice. The player who can create the highest value *hand* using 1d4, 1d6, 1d8, 1d10 and 1d12 wins the pot. If only one player remains after the final round, they win the pot.
+
+A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a player's hole d4 cannot be used together with the community d4. If two or more players have a hand with the same value, the player with the highest hole number wins. Even hands are considered higher value than odd hands.
 
 > "Master the art of bluffing. Trick your opponent into binning and you could steal the pot! But don't bluff too early, let the players fill the pot first."
 >
@@ -185,4 +185,6 @@ Of all the games one might frequent in a local tavern, *Dice Monarchs*, sometime
 | High 5/6               | 5 or 6                            | 47.50% |
 | Double 1s/2s/3s/4s     | 1, 1 to 4, 4                      | 52.56% |
 
-A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a player's hole d4 cannot be used together with the community d4. If two or more players have a hand with the same value, the player with the highest hole number wins. Even hands are considered higher value than odd hands.
+---
+
+### **[Home](index)**

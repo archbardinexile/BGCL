@@ -27,7 +27,7 @@ This weapon's levering system allows you to keep the bowstring drawn for extende
 
 **1d8 bludgeoning. Reach, special.**
 
-This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a bonus action to cause it to shed bright light and disperse fog in a 30-foot radius and shed dim light for an additional 30 feet. The fog reforms behind you as you move through it. The wielder can extinguish the light as a bonus action.
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a bonus action to cause it to shed bright light and disperse fog in a 30-foot radius and shed dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
 The weapon has 4 charges. When you hit with a melee attack using the flail, you can expend 1 charge to deal an extra ***1d8 radiant*** damage to the target. The weapon regains 1d4 expended charges daily at dawn.
 

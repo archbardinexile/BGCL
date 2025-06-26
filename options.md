@@ -30,3 +30,7 @@ title: Options
 - [Firearms](options/items/firearms)
 - [Items](options/items/items)
 - [Weapons](options/items/weapons)
+
+---
+
+### **[Home](index)**

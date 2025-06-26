@@ -9,7 +9,7 @@ A letter to Arti from Exarch Aura Sol Orbis.
 >
 > Dearest Arti,
 >
-> I first wish to thank you, Adelaide and the Commission for your proposal to find and rescue the expedition team lost in the Miasma. I have found your research to be promising and your proposed safety measures extremely thorough. Though I remain apprehensive of the unforeseen dangers that venturing into the Miasma will undoubtedly present, I believe your work is a strong step toward better understanding the blight that has plagued our world for almost a millennium.
+> I first wish to thank you, Adelaide and the Commission for your proposal to find and rescue the expedition team lost in the Miasma. I have found your research to be promising and your proposed safety measures extremely thorough. Though I remain apprehensive of the unforeseen dangers that venturing into the Miasma will undoubtedly present, I believe your work is a strong step towards better understanding the blight that has plagued our world for almost a millennium.
 >
 > Though I fully support your commitment to rescuing Glimback, with whom I appreciate you have formed a strong bond, the nature of the magic you propose to use in countering the effects of the Miasma warrants further scrutiny. Under normal circumstances, I would be willing to grant the Commission an exemption from blood magic restrictions for the purposes of this expedition. However, as I'm sure you understand, the act of infusing one's blood with Miasma yields significant religious and ethical implications.
 >
