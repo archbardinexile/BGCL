@@ -27,4 +27,4 @@ You know the *friends* cantrip. When you reach 3rd level, you can cast the *disg
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

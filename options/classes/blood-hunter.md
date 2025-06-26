@@ -70,4 +70,4 @@ Finishing a long rest reduces a creature's psychosis level by 1, provided that t
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

@@ -51,4 +51,4 @@ While holding this item, you can use it to cast the [***Double or Nothing***](sp
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

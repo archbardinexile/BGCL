@@ -78,4 +78,4 @@ You can use your action to control the hands. You can use the hands to manipulat
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

@@ -59,4 +59,4 @@ You drop a handful of ball bearings into your zip-wheel while it spins at high s
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

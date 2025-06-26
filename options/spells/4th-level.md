@@ -20,4 +20,4 @@ The flask becomes a magical item with 10 charges: while holding it, you can use 
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

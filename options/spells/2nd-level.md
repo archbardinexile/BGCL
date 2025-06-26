@@ -20,4 +20,4 @@ If the weapon hits a target made of inorganic material such as stone, crystal, o
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

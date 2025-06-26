@@ -58,4 +58,4 @@ The turret has an AC of 18 and a number of hit points equal to five times your w
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

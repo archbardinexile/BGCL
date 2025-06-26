@@ -34,4 +34,4 @@ At 14th level, while your ward is within 60 feet of you, it automatically gains 
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

@@ -43,4 +43,4 @@ Choose a creature that you can see within range. For the duration, when that cre
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

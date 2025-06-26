@@ -89,4 +89,4 @@ The staff has ***6 charges***. While holding it, you can use an action to expend
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

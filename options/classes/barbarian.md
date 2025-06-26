@@ -17,4 +17,4 @@ Your rage ends early if you use this feature while raging. Once you have used th
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

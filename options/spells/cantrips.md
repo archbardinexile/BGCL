@@ -18,4 +18,4 @@ There is a chance the parchment will be damaged when travelling distances over 1
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

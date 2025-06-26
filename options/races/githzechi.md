@@ -34,4 +34,4 @@ You know the *gust* cantrip. When you reach 3rd level, you can cast the *earth t
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

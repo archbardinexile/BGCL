@@ -25,4 +25,4 @@ title: Ammunition
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**

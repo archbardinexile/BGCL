@@ -16,4 +16,4 @@ Whenever you make an attack roll, you can use your reaction to roll an additiona
 
 ---
 
-### **[Options](../../../options)**
+### **[Options](../../options)**
