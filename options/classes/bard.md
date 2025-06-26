@@ -31,3 +31,7 @@ At 6th level, if you are surprised at the start of an encounter, your ward gains
 #### **Legal Guardian**
 
 At 14th level, while your ward is within 60 feet of you, it automatically gains a Bardic Inspiration die at the start of its turn if it does not already have one. You do not expend a use of Bardic Inspiration.
+
+---
+
+### **[Options](../../../options)**

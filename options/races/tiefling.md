@@ -24,3 +24,7 @@ Some of your ancestor's impervious nature has suffused itself in you. Select one
 ### Legacy of Noblesse
 
 You know the *friends* cantrip. When you reach 3rd level, you can cast the *disguise self* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *suggestion* spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race), they don't require components.
+
+---
+
+### **[Options](../../../options)**

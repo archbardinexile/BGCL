@@ -13,9 +13,9 @@ The Bounty Hunters Codex is a code of honour that binds all hunters, hunter part
 
 ## **Church of Caelum**
 
-The Church of Caelum is the most prevalent nation and religion in the [Relief](getting-started#the-relief). Ruled by the *Exarch*, [Aura Sol Orbis](church-of-caelum#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the [Miasma](getting-started#the-miasma). The nation's capital, [Caelum's Landing](locations#caelums-landing), is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets.
+The Church of Caelum is the most prevalent nation and religion in the [Relief](lore#the-relief). Ruled by the *Exarch*, [Aura Sol Orbis](characters#aura-sol-orbis), the territories of this *constitutional theocracy* reach as far as the [Miasma](lore#the-miasma). The nation's capital, [Caelum's Landing](locations#caelums-landing), is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets.
 
-Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the [Ministry](ministry) must present new laws to the Exarch for sanction. The Church has remained the most influential and widespread religion in [Fio](getting-started#a-world-obscured) for 1,000 years. It seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
+Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the [Ministry](#the-ministry) must present new laws to the Exarch for sanction. The Church has remained the most influential and widespread religion in [Fio](lore#fio) for 1,000 years. It seeks to establish order by expanding its influence and assisting in the development of newfound earthmotes. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
 
 ### Roles
 
@@ -41,7 +41,7 @@ The Combe Shipping and Courier Agency is one the largest business empires in the
 
 ## **The Commission**
 
-The Commission for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber](characters#glimback-toestubber) in [899 PO](timeline#899-po). Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the [Relief](getting-started#the-relief), research new magic, and prospect new [earthmotes](getting-started#earthmotes) for colonisation. They operate out of [Crowswood Place](locations#crowswood-place) on Fundus.
+The Commission for the Research of Offshore Worlds, affectionately called Crows, was founded by [Glimback Toestubber](characters#glimback-toestubber) in [899 PO](timeline#899-po). Originally known as the *Explorer's Guild*, Crows has since secured government funding and its members now work to catalogue the many beasts of the [Relief](lore#the-relief), research new magic, and prospect new [earthmotes](lore#earthmotes) for colonisation. They operate out of [Crowswood Place](locations#crowswood-place) on Fundus.
 
 ## **Confederacy of Privateers**
 
@@ -49,17 +49,17 @@ The Confederacy of Privateers is a loose alliance of pirates, privateers and mer
 
 ## **Crosscut Circle**
 
-The Crosscut Circle work in the shadows to expose the hypocrisy of the [Church of Caelum](church-of-caelum). They claim the [Miasma](getting-started#the-miasma) was released 1,000 years ago as a result of [Caelum](getting-started#caelum-sol-orbis)'s ritual to expel the darkness within him so that he might to ascend to divinity. They also claim [Mundi Eversor](getting-started#mundi-eversor) was created by [Tenebrae](getting-started#tenebrae) and his followers in order to stop Caelum.
+The Crosscut Circle work in the shadows to expose the hypocrisy of the [Church of Caelum](church-of-caelum). They claim the [Miasma](lore#the-miasma) was released 1,000 years ago as a result of [Caelum](lore#caelum-sol-orbis)'s ritual to expel the darkness within him so that he might to ascend to divinity. They also claim [Mundi Eversor](lore#mundi-eversor) was created by [Tenebrae](lore#tenebrae) and his followers in order to stop Caelum.
 
 ## **Dawnroot Druids**
 
-The Dawnroot Druids make their home in the [Dawnroot Forest](locations#dawnroot-forest) on [Fundus](locations#fundus), secluded from the trappings of lifestyle in the capital. They revere and protect a portal to the elemental plane of water, the source of the [River Fountainhead](locations#river-fountainhead), which they believe to be a blessing from *Silvanus*, the deity of wild nature. Though they disapprove of the [Church](church-of-caelum)'s expansionist practices, they seem to prefer not to intervene.
+The Dawnroot Druids make their home in the [Dawnroot Forest](locations#dawnroot-forest) on [Fundus](locations#fundus), secluded from the trappings of lifestyle in the capital. They revere and protect a portal to the elemental plane of water, the source of the [River Fountainhead](locations#river-fountainhead), which they believe to be a blessing from *Silvanus*, the deity of wild nature. Though they disapprove of the [Church](#church-of-caelum)'s expansionist practices, they seem to prefer not to intervene.
 
 ## **Diamond Guard**
 
-The Kingdom of Diamante is the largest of several feudal nations that sit atop the earthmote [Atada](locations#atada) on the north-western border between [Profundus](locations#profundus) and [Montanum](locations#montanum). Currently ruled by Queen [Carina Diamante IV](#carina-diamante-iv) and her consort, [Rafael de Florencia](#rafael-de-florencia), the nation boasts great wealth and pride in their flamboyant culture.
+The Kingdom of Diamante is the largest of several feudal nations that sit atop the earthmote [Atada](locations#atada) on the north-western border between [Profundus](locations#profundus) and [Montanum](locations#montanum). Currently ruled by Queen [Carina Diamante IV](characters#carina-diamante-iv) and her consort, [Rafael de Florencia](characters#rafael-de-florencia), the nation boasts great wealth and pride in their flamboyant culture.
 
-The Diamond Guard is the moniker given to Queen [Carina](characters#carina-diamante-iv)'s royal guard. Paragons of courage and altruism, knights of the Diamond Guard command great prestige as few amongst the many warriors that apply for the role are accepted.
+The Diamond Guard is the moniker given to Queen Carina's royal guard. Paragons of courage and altruism, knights of the Diamond Guard command great prestige as few amongst the many warriors that apply for the role are accepted.
 
 ## **Githzechi Clans**
 
@@ -79,7 +79,7 @@ The Inland Guard is the public police service headquartered at Caelum's Landing.
 
 ## **League of Archfiends**
 
-The League of Archfiends is said to be a secret cabal of fiends who operate from within the [Miasma](getting-started#the-miasma), subsidising illegal practices across the [Relief](getting-started#the-relief) that will bring them luxury in their empire beyond the barrier. It is rumoured they even conspired with [Tenebrae](getting-started#tenebrae) to create [Mundi Eversor](getting-started#mundi-eversor) 1,000 years ago, but it has never been proven the organisation exists or ever existed.
+The League of Archfiends is said to be a secret cabal of fiends who operate from within the [Miasma](lore#the-miasma), subsidising illegal practices across the [Relief](lore#the-relief) that will bring them luxury in their empire beyond the barrier. It is rumoured they even conspired with [Tenebrae](lore#tenebrae) to create [Mundi Eversor](lore#mundi-eversor) 1,000 years ago, but it has never been proven the organisation exists or ever existed.
 
 ## **Micantrum Mining Consortium**
 
@@ -87,9 +87,9 @@ The Mining Consortium is an organisation that regulates the trade of resonite an
 
 ## **The Ministry**
 
-The Ministry serves as government for [Caelum's Landing](locations#caelums-landing) and the [Church](church-of-caelum)'s many territories. Elected representatives from each territory meet in the *Ministerial Houses* to establish the demands of the people and how they will be met by law.
+The Ministry serves as government for Caelum's Landing and the Church's many territories. Elected representatives from each territory meet in the *Ministerial Houses* to establish the demands of the people and how they will be met by law.
 
-Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the Ministry must present new laws to the Exarch for sanction. There is some speculation as to how much power the Church has over proceedings in the Ministerial Houses, but the current Chairman [Emil Hartmann](#emil-hartmann) maintains that the Ministry works solely for the betterment of the people.
+Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), the Chairman of the Ministry must present new laws to the Exarch for sanction. There is some speculation as to how much power the Church has over proceedings in the Ministerial Houses, but the current Chairman [Emil Hartmann](characters#emil-hartmann) maintains that the Ministry works solely for the betterment of the people.
 
 ### Roles
 
@@ -99,8 +99,8 @@ Since the creation of the *Fundus Constitution* in [416 PO](timeline#416-po), th
 
 ## **Order of the Lantern**
 
-The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](getting-started#the-miasma). They have strong ties with the [Commission](commission).
+The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](lore#the-miasma). They have strong ties with the [Commission](#the-commission).
 
 ## **Spirit Temple**
 
-The Spirit Temple monks seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue [earthmotes](getting-started#earthmotes) and send them back into the [Miasma](getting-started#the-miasma). They have an agreement with the [Church](church-of-caelum) that enables them to serve alongside expeditions and help prevent natural disasters.
+The Spirit Temple monks seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue [earthmotes](rules#earthmotes) and send them back into the Miasma. They have an agreement with the Church that enables them to serve alongside expeditions and help prevent natural disasters.

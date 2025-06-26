@@ -50,3 +50,5 @@ While wearing this item, as an action, you can kick a creature within 5 feet. Th
 While holding this item, you can use it to cast the [***Double or Nothing***](spells#double-or-nothing) spell as an action. This property of the item can't be used again until the next dawn.
 
 ---
+
+### **[Options](../../../options)**

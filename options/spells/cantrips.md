@@ -17,3 +17,5 @@ You scribble a string of insults laced with subtle enchantments onto a sheet of 
 There is a chance the parchment will be damaged when travelling distances over 120 feet. The DM may ask for an ability check to determine whether or not the spell reaches its target.
 
 ---
+
+### **[Options](../../../options)**

@@ -24,3 +24,5 @@ title: Ammunition
 - **Thunderflash.** +1d4 thunder damage (15 ft. cube). Target blinded until end of your next turn on failed DC 10 Constitution save. 4 sp, 8 gp (20).
 
 ---
+
+### **[Options](../../../options)**

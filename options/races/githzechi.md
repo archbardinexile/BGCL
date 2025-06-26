@@ -31,3 +31,7 @@ You are particularly familiar with desert environments and are adept at travelli
 ### Githzechi Psionics
 
 You know the *gust* cantrip. When you reach 3rd level, you can cast the *earth tremor* spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *blur* spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race), they don't require components.
+
+---
+
+### **[Options](../../../options)**

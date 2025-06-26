@@ -17,3 +17,7 @@ Make a ranged spell attack against a creature that you can see within range. On 
 The flask becomes a magical item with 10 charges: while holding it, you can use an action to call forth the creature you imprisoned. It manifests in an unoccupied space that you can see within range. The creature disappears back into the flask when it drops to 0 hit points or when you use an action to end the spell. The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you expend the flask's last charge, or the flask is destroyed, the creature is released and flees. The creature can attempt to break free of the flask at the end of every day provided that it has an Intelligence score higher than 2. It must succeed on a DC 20 Strength check or remain imprisoned.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by 1d12 and the DC increases by 2 for each slot level above 4th.
+
+---
+
+### **[Options](../../../options)**

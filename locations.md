@@ -5,15 +5,15 @@ title: Locations
 
 ## **Profundus**
 
-Profundus is the largest region at the centre of the [Relief](getting-started#the-relief). It plays host to one of the largest and most populous cities in the Relief, [Caelum's Landing](#caelums-landing), the capital city of [Fundus](#fundus). Adventurers and tourists can take advantage of sprawling markets and travel the [Innermotes](#the-innermotes) on powered cable cars.
+Profundus is the largest region at the centre of the [Relief](lore#the-relief). It plays host to one of the largest and most populous cities in the Relief, [Caelum's Landing](#caelums-landing), the capital city of [Fundus](#fundus). Adventurers and tourists can take advantage of sprawling markets and travel the [Innermotes](#the-innermotes) on powered cable cars.
 
 ### Fundus
 
-Sat at the centre of the Relief, the [earthmote](getting-started#earthmotes) Fundus appears to those sailing the [Altum Sea](locations#altum-sea) below as a mighty inverted mountain in the clouds. Nearly 170 miles wide, the earthmote's underbelly glimmers with the enchanted [resonite](getting-started#resonance-engines) ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen.
+Sat at the centre of the Relief, the [earthmote](lore#earthmotes) Fundus appears to those sailing the [Altum Sea](locations#altum-sea) below as a mighty inverted mountain in the clouds. Nearly 170 miles wide, the earthmote's underbelly glimmers with the enchanted [resonite](lore#resonance-engines) ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen.
 
 #### **Caelum’s Landing**
 
-Sitting atop Fundus, Caelum's Landing is the capital city of the most prevalent nation and religion in the Relief, the [Church of Caelum](factions#church-of-caelum), which rose to power when [Caelum Sol Orbis](getting-started#caelum-sol-orbis) ascended to shield Fundus from the growing [Miasma](getting-started#the-miasma) almost 1,000 years ago. Once known as *Anfang*, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in the Profundus region.
+Sitting atop Fundus, Caelum's Landing is the capital city of the most prevalent nation and religion in the Relief, the [Church of Caelum](factions#church-of-caelum), which rose to power when [Caelum Sol Orbis](lore#caelum-sol-orbis) ascended to shield Fundus from the growing [Miasma](lore#the-miasma) almost 1,000 years ago. Once known as *Anfang*, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in the Profundus region.
 
 To the south-west, vast rolling hills of patchwork farmland are cut in two by the [River Fountainhead](#river-fountainhead), which diffuses into the air when it reaches the shore, nourishing a perpetual rainbow below. To the east, the industrial, residential and commercial districts of Caelum's Landing are framed by the [Dawnroot Forest](#dawnroot-forest) where the [Dawnroot Druids](factions#dawnroot-druids) protect the River's sacred source.
 
@@ -27,7 +27,7 @@ North of Caelum's Landing, the Ministerial Houses play host to the nation's gove
 
 ##### Cloud District
 
-The Cloud District is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [Inland Guard](factions#inland-guard). Further east, [resonance engines](getting-started#resonance-engines) and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
+The Cloud District is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [Inland Guard](factions#inland-guard). Further east, [resonance engines](lore#resonance-engines) and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
 
 ##### Sun District
 
@@ -59,7 +59,7 @@ Fundus Park is a small town on the south-western shore of Fundus constructed aro
 
 #### **Spirit Temple**
 
-The [Spirit Temple](factions#spirit-temple) is the isolated home of a clique of monks on the north-western shore. The monks there seek a deep connection to [Fio](getting-started#fio) through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands, making them fertile and bountiful. Though not followers of Caelum, the monks remain in the employ of the Church when rogue earthmotes threaten to collide with Fundus. The monks' combined strength allows them to arrest dangerous earthmotes and send them back into the Miasma.
+The [Spirit Temple](factions#spirit-temple) is the isolated home of a clique of monks on the north-western shore. The monks there seek a deep connection to [Fio](lore#fio) through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands, making them fertile and bountiful. Though not followers of Caelum, the monks remain in the employ of the Church when rogue earthmotes threaten to collide with Fundus. The monks' combined strength allows them to arrest dangerous earthmotes and send them back into the Miasma.
 
 #### **River Fountainhead**
 
@@ -83,7 +83,7 @@ The Innermotes are Caelum's Landing's nearest neighbours, connected to Fundus by
 
 #### **Tenebrae’s Refuge**
 
-Tenebrae’s Refuge is said to be the place to which [Tenebrae](getting-started#tenebrae) fled when their colossal war machine was defeated almost 1,000 years ago. At only a third its size, this earthmote sits to the erde-south-west of Fundus, in its shadow. As such, its terrain is rocky with little in the way of vegetation. Its primary industry has always been the mining of resonite. [Clara Sol Orbis](characters#clara-sol-orbis) is the current Prefect of Tenebrae's Refuge. As with all of the Church's territories, followers of Caelum constitute a fair proportion of the population on Tenebrae's Refuge, though followers of other religions are welcomed and accepted. Where on Caelum's Landing you would find an abundance of races who make their homes under the sun, on Tenebrae's Refuge you would more commonly find races more comfortable in the darkness.
+Tenebrae’s Refuge is said to be the place to which [Tenebrae](lore#tenebrae) fled when their colossal war machine was defeated almost 1,000 years ago. At only a third its size, this earthmote sits to the erde-south-west of Fundus, in its shadow. As such, its terrain is rocky with little in the way of vegetation. Its primary industry has always been the mining of resonite. [Clara Sol Orbis](characters#clara-sol-orbis) is the current Prefect of Tenebrae's Refuge. As with all of the Church's territories, followers of Caelum constitute a fair proportion of the population on Tenebrae's Refuge, though followers of other religions are welcomed and accepted. Where on Caelum's Landing you would find an abundance of races who make their homes under the sun, on Tenebrae's Refuge you would more commonly find races more comfortable in the darkness.
 
 #### **Little Nox**
 
@@ -92,6 +92,24 @@ Little Nox separated from Tenebrae's Refuge around the year [617 PO](timeline#61
 #### **Ingenium**
 
 Ingenium appeared in the skies north-east of Fundus in the year [748 PO](timeline#748-po), bringing with it a sprawling brass metropolis and a displaced but technologically advanced culture. Facing an energy crisis, they sought the assistance of the Church while they acclimated to the new world in which they found themselves. An agreement with Caelum's Landing was reached in [756 PO](timeline#756-po), and with the help of the monks of the Spirit Temple, the earthmote Ingenium was moved to Fundus' north-eastern shore. [Spiro Sol Orbis](church-of-caelum#spiro-sol-orbis) is Ingenium's current Prefect.
+
+### The Outermotes
+
+The Outermotes are the territories of the Church that can only be reached by airship or glider. Though the Church has established a presence in these regions, their distance from Caelum's Landing and lack of Church involvement can sometimes invite apostasy.
+
+#### **Micantrum**
+
+Micantrum is the smallest of the Church's territories at only 50 miles in diameter. The earthmote can be described as a floating geode north-east of Fundus. It is spherical in shape, with several tunnel entrances that lead inside to the 1,000 storied rings that form a disreputable mining metropolis. Inside, crystals are illuminated by an artificial moon hanging at the earthmote's centre, created by Micantrum's current governor, the philandering tiefling wizard, [Havat Eilistre](characters#havat-eilistre). Under his administration, Micantrum has become a lawless place of debauchery, gambling and fornication. Denizens can even be found battling for riches in Micantrum's infamous gladiatorial arena.
+
+The Church maintains a trade presence through Micantrum's Prefect, [Luna Vigil](characters#luna-vigil). However, much to the Church's disdain, they were recently revealed to have become Eilistre's mistress. Many believe it is this affair that has caused Micantrum's reputation to fall into its current state. Thanks to its seclusion, many races who prefer to live in darkness make their home in Micantrum.
+
+#### **Madanau**
+
+Madanau has been revealed by scholars to be one of the first earthmotes to arrive in Fio during [Caelum's Light](lore#caelums-light). Estimated to be nearly 800 years old, this desert earthmote lies far erde-west of Caelum's Landing, treacherously close to the Miasma. Madanau has made its name as a valued hub of trade, able to grow and export exotic fruits and spices that cannot be found anywhere else in the Relief. The grand, circular oasis at Madanau's centre hosts a portal to the elemental plane of water, providing an abundance of fresh water and delicious fish. However, in [996 PO](timeline#996-po) the portal was damaged by a falling shard from a rogue earthmote. Under the administration of [Sana Sol Orbis](characters#sana-sol-orbis) the citizens of the ancient desert earthmote were able to stabilise the portal.
+
+#### **Creed's Hollow**
+
+Stabilised skew-east of Madanau, Creed's Hollow emerged from the Miasma in a ring of hellfire in 996 PO. The earthmote flew over Madanau and rained imps from the *Nine Hells* down upon its citizens. Though Madanau was able to repel the attack, the oasis at its centre was damaged by a shard of hellish black rock that fell from the rogue earthmote. With the imps defeated, monks of the Spirit Temple were able to arrest the earthmote and greet its denizens. The Church's ambassadors were met by a village of tiefling farmers who, until recently, had been living in seclusion in Avernus, free of *Zariel*'s rule. Creed's Hollow enjoys healthy relations with the Church, and trades in agricultural produce native to the Nine Hells.
 
 ### Atada
 
@@ -110,24 +128,6 @@ Ingenium appeared in the skies north-east of Fundus in the year [748 PO](timelin
 #### **Duchy of Ruby**
 
 Separated from the earthmote [Atada](#atada), the Duchy of Ruby sits atop the earthmote Atado.
-
-### The Outermotes
-
-The Outermotes are the territories of the Church that can only be reached by airship or glider. Though the Church has established a presence in these regions, their distance from Caelum's Landing and lack of Church involvement can sometimes invite apostasy.
-
-#### **Micantrum**
-
-Micantrum is the smallest of the Church's territories at only 50 miles in diameter. The earthmote can be described as a floating geode north-east of Fundus. It is spherical in shape, with several tunnel entrances that lead inside to the 1,000 storied rings that form a disreputable mining metropolis. Inside, crystals are illuminated by an artificial moon hanging at the earthmote's centre, created by Micantrum's current governor, the philandering tiefling wizard, [Havat Eilistre](characters#havat-eilistre). Under his administration, Micantrum has become a lawless place of debauchery, gambling and fornication. Denizens can even be found battling for riches in Micantrum's infamous gladiatorial arena.
-
-The Church maintains a trade presence through Micantrum's Prefect, [Luna Vigil](characters#luna-vigil). However, much to the Church's disdain, they were recently revealed to have become Eilistre's mistress. Many believe it is this affair that has caused Micantrum's reputation to fall into its current state. Thanks to its seclusion, many races who prefer to live in darkness make their home in Micantrum.
-
-#### **Madanau**
-
-Madanau has been revealed by scholars to be one of the first earthmotes to arrive in Fio during [Caelum's Light](getting-started#caelums-light). Estimated to be nearly 800 years old, this desert earthmote lies far erde-west of Caelum's Landing, treacherously close to the Miasma. Madanau has made its name as a valued hub of trade, able to grow and export exotic fruits and spices that cannot be found anywhere else in the Relief. The grand, circular oasis at Madanau's centre hosts a portal to the elemental plane of water, providing an abundance of fresh water and delicious fish. However, in [996 PO](timeline#996-po) the portal was damaged by a falling shard from a rogue earthmote. Under the administration of [Sana Sol Orbis](characters#sana-sol-orbis) the citizens of the ancient desert earthmote were able to stabilise the portal.
-
-#### **Creed's Hollow**
-
-Stabilised skew-east of Madanau, Creed's Hollow emerged from the Miasma in a ring of hellfire in 996 PO. The earthmote flew over Madanau and rained imps from the *Nine Hells* down upon its citizens. Though Madanau was able to repel the attack, the oasis at its centre was damaged by a shard of hellish black rock that fell from the rogue earthmote. With the imps defeated, monks of the Spirit Temple were able to arrest the earthmote and greet its denizens. The Church's ambassadors were met by a village of tiefling farmers who, until recently, had been living in seclusion in Avernus, free of *Zariel*'s rule. Creed's Hollow enjoys healthy relations with the Church, and trades in agricultural produce native to the Nine Hells.
 
 ### Altum Sea
 
@@ -191,7 +191,7 @@ Expeditions to this underwater city have been met with adversity, trying to comb
 
 ## **Glacialis**
 
-Glacialis, the frozen region to the north, suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of [Nox](#nox) look upon the [Relief](getting-started#the-relief) through rings of aurora, while further east, the dinosaur-riding clans of [Primal Antiqua](#primal-antiqua) thrive on more verdant land.
+Glacialis, the frozen region to the north, suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of [Nox](#nox) look upon the [Relief](lore#the-relief) through rings of aurora, while further east, the dinosaur-riding clans of [Primal Antiqua](#primal-antiqua) thrive on more verdant land.
 
 ### Nox
 
@@ -207,7 +207,7 @@ Only a small proportion of the earthmote is populated. Wooden longhouses strengt
 
 ## **Discidium**
 
-Discidium, though completely engulfed by the [Miasma](getting-started#the-miasma), can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which Mundi Eversor emerged 1,000 years ago.
+Discidium, though completely engulfed by the [Miasma](lore#the-miasma), can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which Mundi Eversor emerged 1,000 years ago.
 
 ### Mundi Eversor
 

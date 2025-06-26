@@ -58,3 +58,5 @@ This weapon has an additional trigger that fires all 3 barrels at once. On a hit
 You drop a handful of ball bearings into your zip-wheel while it spins at high speed. Each creature in the 15-foot cone must make a Dexterity saving throw. On a successful save, a creature takes half as much damage.
 
 ---
+
+### **[Options](../../../options)**

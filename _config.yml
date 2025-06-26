@@ -15,9 +15,10 @@ minima:
 # Content
 
   nav_pages:
-    - getting-started.md
+    - lore.md
+    - rules.md
+    - timeline.md
     - locations.md
     - characters.md
     - factions.md
-    - timeline.md
     - options.md

@@ -17,7 +17,7 @@ Starting at 3rd level, when a creature makes an attack roll against you, you can
 
 ### Way of the Spirit Temple
 
-The Spirit Temple monks seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue [earthmotes](getting-started#earthmotes) and send them back into the [Miasma](getting-started#the-miasma). They have an agreement with the [Church](church-of-caelum) that enables them to serve alongside expeditions and help prevent natural disasters.
+The Spirit Temple monks seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue [earthmotes](lore#earthmotes) and send them back into the [Miasma](lore#the-miasma). They have an agreement with the [Church](church-of-caelum) that enables them to serve alongside expeditions and help prevent natural disasters.
 
 #### **Spirit Guardian**
 
@@ -75,3 +75,7 @@ You can use your action to control the hands. You can use the hands to manipulat
 **Turtle.** You can spend 2 ki points to cast ***shield***.
 
 **Wolf (17th Level Required).** You can spend 5 ki points to choose up to six creature within 30 feet of you. For 1 minute, whenever a target makes an attack roll or a saving throw, the target can roll 1d4 for each target within 30 feet of it and add the total to the attack roll or saving throw.
+
+---
+
+### **[Options](../../../options)**

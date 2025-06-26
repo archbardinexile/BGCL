@@ -88,3 +88,5 @@ The staff has ***6 charges***. While holding it, you can use an action to expend
 **Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
 ---
+
+### **[Options](../../../options)**

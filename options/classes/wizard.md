@@ -55,3 +55,7 @@ Starting at 14th level, you can create a levitating, magical turret at a point y
 Any spell targeting a creature or object within 10 feet of the turret must instead target the turret. If the spell has an area of effect, it is reduced to a 5-foot-diameter sphere surrounding the turret. If the turret takes damage as a result of the spell, reduce the damage by 1d12 times the number of light points you have remaining. If you reduce the damage to 0, choose a damage type. The creature that cast the spell becomes vulnerable to damage of the chosen type.
 
 The turret has an AC of 18 and a number of hit points equal to five times your wizard level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or if you dismiss it early as an action. At which point, your gemstones return to you.
+
+---
+
+### **[Options](../../../options)**
