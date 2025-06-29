@@ -23,9 +23,9 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 
 | Gemstone           | Damage Type       | Components |
 |--------------------|-------------------|------------|
-| Diamond            | Radiant           |            |
+| Diamond/Resonite   | Radiant/Force     | Graphite   |
 | Ruby/Sapphire      | Fire/Cold         | Corundum   |
-| Emerald/Aquamarine | Force/Psychic     | Beryl      |
+| Emerald/Aquamarine | Necrotic/Psychic  | Beryl      |
 | Citrine/Amethyst   | Lightning/Thunder | Quartz     |
 
 ##### Gem Magic Spells
@@ -35,6 +35,8 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 **Refract Light.** As a reaction, which you take when you see a creature within 60 feet casting a spell, spend 2 light points. Make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature is blinded until the end of your next turn. If the spell requires sight, it fails and has no effect.
 
 **Luminous Weapon (6th level required).** As an action, spend 4 light points and choose a damage type. A non-magical weapon within 5 feet becomes a magic weapon. For 1 hour, the wielder can use their spellcasting ability for the attack and damage rolls of attacks using that weapon and the weapon deals an extra 1d4 damage of the chosen type when it hits. The extra damage increases by 1d4 when you reach 9th level (2d4) and 13th level (3d4).
+
+**Healing Beacon.** As an action, spend 1 or more light points. A creature of your choice within 60 feet regains hit points equal to 1d4 times the number of light points spent. This spell has no effect on undead or constructs. The spell's healing increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 #### **Dancing Gems**
 
@@ -46,7 +48,7 @@ Starting at 6th level, you can adorn your clothing with luminous armour plating.
 
 #### **Stonecutter**
 
-Starting at 10th level, you learn how to transmute gemstones into their mineral counterparts, unlocking their damage types. You can transmute up to three gemstones when you finish a long rest, provided you have the material components. Diamond does not have a mineral counterpart and therefore can't be transmuted.
+Starting at 10th level, you learn how to transmute gemstones into their mineral counterparts, unlocking their damage types. You can transmute up to four gemstones when you finish a long rest, provided you have the material components.
 
 #### **Gemstone Turret**
 
