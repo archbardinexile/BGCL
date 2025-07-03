@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Stat Blocks
-published: false
+layout: page
+title: NPCs Hidden
 ---
 
 ## **Reference Tables**

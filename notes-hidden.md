@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Dungeon Master's Notes
-published: false
+layout: page
+title: Notes Hidden
 ---
 
 ## **Session 35 (996, Inceptum 1st-2nd)**
