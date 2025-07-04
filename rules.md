@@ -132,7 +132,7 @@ Of all the games one might frequent in a local tavern, *Dice Monarchs*, sometime
 6. **Round two.** The highest better from the previous round begins another round of betting.
 7. **The river.** Once betting is resolved, the banker rolls and reveals the final community die (1d12), known as the *river*.
 8. **Final round.** The highest better from the previous round begins the final round of betting.
-9. **Showdown.** Once betting is resolved, the remaining players reveal their hole dice. The player who can create the highest value *hand* using 1d4, 1d6, 1d8, 1d10 and 1d12 wins the pot. If only one player remains after the final round, they win the pot.
+9. **Showdown.** Once betting is resolved, the remaining players reveal their hole dice. The player who can create the highest value *hand* using 1d4, 1d6, 1d8, 1d10 and 1d12 wins the pot. If only one player remains in play before the showdown, they win the pot.
 
 A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a player's hole d4 cannot be used together with the community d4. If two or more players have a hand with the same value, the player with the highest hole number wins. Even hands are considered higher value than odd hands.
 
