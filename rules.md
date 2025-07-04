@@ -142,48 +142,180 @@ A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a
 
 ##### Hands (Highest to Lowest)
 
-| Hand                   | Description                       | Chance |
-|------------------------|-----------------------------------|--------|
-| Perfect Odd/Even River | 3, 5, 7, 9, 11 or 4, 6, 8, 10, 12 | 0.16%  |
-| Perfect Odd/Even Turn  | 5, 7, 9, 11 or 6, 8, 10, 12       | 0.22%  |
-| Perfect Odd/Even Flop  | 7, 9, 11 or 8, 10, 12             | 0.47%  |
-| Perfect Turn           | 6, 7, 8, 9                        | 0.83%  |
-| Perfect Flop           | 8, 9, 10                          | 1.04%  |
-| High Odd/Even River    | 1, 3, 5, 7, 9 or 2, 4, 6, 8, 10   | 1.41%  |
-| Perfect River          | 4, 5, 6, 7, 8                     | 1.56%  |
-| High Flop              | 7, 8, 9                           | 1.74%  |
-| High Odd/Even Turn     | 3, 5, 7, 9 or 4, 6, 8, 10         | 1.95%  |
-| High Turn              | 5, 6, 7, 8                        | 2.15%  |
-| High Odd/Even Flop     | 5, 7, 9 or 6, 8, 10               | 2.69%  |
-| Triple 7s/8s           | 7, 7, 7 or 8, 8, 8                | 2.93%  |
-| Double 9s/10s          | 9, 9 or 10, 10                    | 3.36%  |
-| High River             | 3, 4, 5, 6, 7                     | 3.66%  |
-| Ordinary Flop          | 6, 7, 8                           | 4.52%  |
-| Ordinary Turn          | 4, 5, 6, 7                        | 5.04%  |
-| Quadruple 5s/6s        | 5, 5, 5, 5 or 6, 6, 6, 6          | 5.09%  |
-| Low Flop               | 5, 6, 7                           | 6.96%  |
-| Odd/Even Turn          | 1, 3, 5, 7 or 2, 4, 6, 8          | 7.70%  |
-| High 11/12             | 11 or 12                          | 8.33%  |
-| River                  | 2, 3, 4, 5, 6                     | 8.60%  |
-| Double 7s/8s           | 7, 7 or 8, 8                      | 9.51%  |
-| Odd/Even Flop          | 3, 5, 7 or 4, 6, 8                | 10.62% |
-| Triple 5s/6s           | 5, 5, 5 or 6, 6, 6                | 10.72% |
-| Low Turn               | 3, 4, 5, 6                        | 11.86% |
-| Low River              | 1, 2, 3, 4, 5                     | 13.12% |
-| Flop 6                 | 4, 5, 6                           | 16.36% |
-| Turn 5                 | 2, 3, 4, 5                        | 18.10% |
-| High 9/10              | 9 or 10                           | 18.33% |
-| Quintuple 1s/2s/3s/4s  | 1, 1, 1, 1, 1 to 4, 4, 4, 4, 4    | 20.03% |
-| Double 5s/6s           | 5, 5 or 6, 6                      | 22.56% |
-| Low Odd/Even Flop      | 1, 3, 5 or 2, 4, 6                | 24.97% |
-| Flop 5                 | 3, 4, 5                           | 24.97% |
-| Quadruple 1s/2s/3s/4s  | 1, 1, 1, 1 to 4, 4, 4, 4          | 27.63% |
-| Turn 4                 | 1, 2, 3, 4                        | 27.63% |
-| High 7/8               | 7 or 8                            | 30.83% |
-| Triple 1s/2s/3s/4s     | 1, 1, 1 to 4, 4, 4                | 38.11% |
-| Flop 3/4               | 1, 2, 3 or 2, 3, 4                | 38.11% |
-| High 5/6               | 5 or 6                            | 47.50% |
-| Double 1s/2s/3s/4s     | 1, 1 to 4, 4                      | 52.56% |
+**Probability: 0.004% (1 in 23,040)**
+
+| Hand               | Pattern     |
+|--------------------|-------------|
+| Perfect Even River | 4,6,8,10,12 |
+| Perfect Odd River  | 3,5,7,9,11  |
+| 5 of a Kind        | 4,4,4,4,4   |
+|                    | 3,3,3,3,3   |
+|                    | 2,2,2,2,2   |
+|                    | 1,1,1,1,1   |
+
+**Probability: 0.02% (4 in 23,040)**
+
+| Hand              | Pattern   |
+|-------------------|-----------|
+| Perfect Even Turn | 6,8,10,12 |
+| Perfect Odd Turn  | 5,7,9,11  |
+| 4 of a Kind       | 6,6,6,6   |
+|                   | 5,5,5,5   |
+
+**Probability: 0.05% (12 in 23,040)**
+
+| Hand          | Pattern   |
+|---------------|-----------|
+| Perfect River | 4,5,6,7,8 |
+
+**Probability: 0.07% (16 in 23,040)**
+
+| Hand            | Pattern    |
+|-----------------|------------|
+| High Even River | 2,4,6,8,10 |
+| High Odd River  | 1,3,5,7,9  |
+| Perfect Turn    | 6,7,8,9    |
+
+**Probability: 0.10% (24 in 23,040)**
+
+| Hand              | Pattern |
+|-------------------|---------|
+| Perfect Even Flop | 8,10,12 |
+| Perfect Odd Flop  | 7,9,11  |
+| 3 of a Kind       | 8,8,8   |
+|                   | 7,7,7   |
+
+**Probability: 0.16% (36 in 23,040)**
+
+| Hand       | Pattern   |
+|------------|-----------|
+| High River | 3,4,5,6,7 |
+| 4 Dead     | 4,4,4,4   |
+|            | 3,3,3,3   |
+|            | 2,2,2,2   |
+|            | 1,1,1,1   |
+
+**Probability: 0.21% (48 in 23,040)**
+
+| Hand         | Pattern |
+|--------------|---------|
+| High Turn    | 5,6,7,8 |
+| Perfect Flop | 8,9,10  |
+
+**Probability: 0.31% (72 in 23,040)**
+
+| Hand  | Pattern   |
+|-------|-----------|
+| River | 2,3,4,5,6 |
+
+**Probability: 0.34% (79 in 23,040)**
+
+| Hand           | Pattern  |
+|----------------|----------|
+| High Even Turn | 4,6,8,10 |
+| High Odd Turn  | 3,5,7,9  |
+
+**Probability: 0.42% (96 in 23,040)**
+
+| Hand      | Pattern   |
+|-----------|-----------|
+| Low River | 1,2,3,4,5 |
+| High Flop | 7,8,9     |
+
+**Probability: 0.57% (132 in 23,040)**
+
+| Hand   | Pattern |
+|--------|---------|
+| 3 Dead | 6,6,6   |
+|        | 5,5,5   |
+
+**Probability: 0.81% (186 in 23,040)**
+
+| Hand | Pattern |
+|------|---------|
+| Turn | 4,5,6,7 |
+
+**Probability: 0.95% (220 in 23,040)**
+
+| Hand           | Pattern |
+|----------------|---------|
+| High Even Flop | 6,8,10  |
+| High Odd Flop  | 5,7,9   |
+
+**Probability: 1.30% (300 in 23,040)**
+
+| Hand      | Pattern |
+|-----------|---------|
+| Even Turn | 2,4,6,8 |
+| Odd Turn  | 1,3,5,7 |
+
+**Probability: 1.46% (336 in 23,040)**
+
+| Hand | Pattern |
+|------|---------|
+| Flop | 6,7,8   |
+
+**Probability: 1.77% (408 in 23,040)**
+
+| Hand     | Pattern |
+|----------|---------|
+| Low Turn | 3,4,5,6 |
+
+**Probability: 2.20% (506 in 23,040)**
+
+| Hand     | Pattern |
+|----------|---------|
+| 3 Buried | 4,4,4   |
+|          | 3,3,3   |
+|          | 2,2,2   |
+|          | 1,1,1   |
+
+**Probability: 2.29% (528 in 23,040)**
+
+| Hand     | Pattern |
+|----------|---------|
+| Low Flop | 5,6,7   |
+
+**Probability: 2.45% (564 in 23,040)**
+
+| Hand   | Pattern |
+|--------|---------|
+| Turn 5 | 2,3,4,5 |
+
+**Probability: 3.13% (720 in 23,040)**
+
+| Hand   | Pattern |
+|--------|---------|
+| Turn 4 | 1,2,3,4 |
+
+**Probability: 4.05% (933 in 23,040)**
+
+| Hand      | Pattern |
+|-----------|---------|
+| Even Flop | 4,6,8   |
+| Odd Flop  | 3,5,7   |
+
+
+**Probability: 5.60% (1290 in 23,040)**
+
+| Hand   | Pattern |
+|--------|---------|
+| 6 Flop | 4,5,6   |
+
+**Probability: 8.07% (1860 in 23,040)**
+
+| Hand          | Pattern |
+|---------------|---------|
+| Low Even Flop | 2,4,6   |
+| Low Odd Flop  | 1,3,5   |
+| 5 Flop        | 3,4,5   |
+
+**Probability: 10.55% (2430 in 23,040)**
+
+| Hand   | Pattern |
+|--------|---------|
+| 4 Flop | 2,3,4   |
+| 3 Flop | 1,2,3   |
 
 ---
 
