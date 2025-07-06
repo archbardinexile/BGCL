@@ -3,20 +3,17 @@ layout: page
 title: Notes Hidden
 ---
 
-## **Session 35 (996, Inceptum 1st-2nd)**
+## **Session 36 (996, Inceptum 2nd)**
 
 ### Into Darkness
 
-- *Caelum* asked **Bantonio** to destroy the pillar.
-- *Clara* told everyone about the expedition so the Inquisition can't hide it.
-
 #### **Encounters**
 
-- The Verity must evade an earthmote storm. 1d4 waves of ***1d6 Earthmotes*** deal 1d6 damage × size (1d6). Verity has ***6d100 hit points***. Monks can block some damage.
-- Thri-kreen hive built into canyon, 6-8 ***thri-kreen***. Explorer's diary mentions how their expedition was attacked in a forest magically protected from the Miasma.
+- The Verity must evade an earthmote storm. Earthmotes deal 1d6 damage × size (1d6). Verity has ***6d100 hit points***. Monks can block damage using deflect missiles.
 - The Verity must raise the canopies before acid rain begins. Some crew may be affected by psychosis.
+- Gomruss finds a source of resonite in an abandoned mine. If the resonite is destroyed using Caelum's Halo, Miasma will leak out. The resonite will turn into diamond.
 - 8-10 ***harpies*** and 2 ***harpy matriarchs*** attempt to lure the crew of the Verity. Matriarchs may fight for dominance.
-- Enchanted ***forest***. Protective sigils scratched into trees. A wounded unicorn has had its horn cut off. Psychotic ***unicorns*** may attack.
+- Shield forest. Protective sigils scratched into trees. A wounded unicorn has had its horn cut off. Psychotic ***unicorns*** may attack.
 - Settlement warding off the effects of psychosis with unicorn horns. ***Bandits*** may turn psychotic and attack.
   - *Agrippina* is in jail for objecting to the use of unicorn horns. She must retrieve *Hans von Buch*.
 - A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the Six of Steel to slay the morkoth so they can be free.
