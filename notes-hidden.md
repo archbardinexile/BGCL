@@ -3,20 +3,17 @@ layout: page
 title: Notes Hidden
 ---
 
-## **Session 36 (996, Inceptum 2nd)**
+## **Session 37 (996, Inceptum 2nd-3rd)**
 
 ### Into Darkness
 
 #### **Encounters**
 
-- The Verity must evade an earthmote storm. Earthmotes deal 1d6 damage × size (1d6). Verity has ***6d100 hit points***. Monks can block damage using deflect missiles.
 - The Verity must raise the canopies before acid rain begins. Some crew may be affected by psychosis.
-- Gomruss finds a source of resonite in an abandoned mine. If the resonite is destroyed using Caelum's Halo, Miasma will leak out. The resonite will turn into diamond.
-- 8-10 ***harpies*** and 2 ***harpy matriarchs*** attempt to lure the crew of the Verity. Matriarchs may fight for dominance.
-- Shield forest. Protective sigils scratched into trees. A wounded unicorn has had its horn cut off. Psychotic ***unicorns*** may attack.
-- Settlement warding off the effects of psychosis with unicorn horns. ***Bandits*** may turn psychotic and attack.
-  - *Agrippina* is in jail for objecting to the use of unicorn horns. She must retrieve *Hans von Buch*.
-- A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the Six of Steel to slay the morkoth so they can be free.
+- The Shielded Forest. Protective sigils scratched into trees. A wounded unicorn has had its horn cut off. Psychotic ***unicorns*** may attack unless the wounded unicorn can be saved.
+  - Nearby settlement warding off the effects of psychosis with unicorn horns. If placated, unicorns will ask the 6oS to destroy the settlement's gliders so they cannot return.
+  - *Agrippina* is in jail for objecting to the use of unicorn horns. She must retrieve *Hans von Buch*. ***Bandits*** may turn psychotic and attack.
+- A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the 6oS to slay the morkoth so they can be free.
 
 #### **Find Glimback**
 
@@ -26,29 +23,43 @@ The expedition can be found in an abandoned inn. The inn is regularly attacked b
 - *Kalyptos*. Black dragonborn monster slayer ranger, Inquisitor.
 - *Owain*. Harengon wild magic sorcerer, stuck in scared rabbit form.
 - *Tiamo Trouve*. Human lapidurgy wizard. Exiled diamond guard and tactician.
+
 - *Agrippina*. Gnome scribes wizard. Separated from expedition.
 
 #### **Find the Pillar**
 
-If the pillar is found, *Kalyptos* will attempt to dissuade the crew from touching it. If unsuccessful, he will reveal his Inquisition badge and summon:
-
-- **Chimera**. **Scorpion tail.** Reach 5 ft. (10 ft. behind). DC 15 CON save. Paralysed on a failed save.
-
-*Ten* can heal and/or restore players remotely through Arti. When coupled with Arti's heart, the magical fibres in Arti's chest will grow into muscles, granting him power. Arti may choose his appearance.
-
-Whoever activates the pillar is granted a vision of a younger Ten painting a picture of the Miasma. Bahamut, Chauntea and Lathander watch over them.
+- If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it. If unsuccessful, he will reveal his Inquisition badge and summon:
+  - **Chimera**. **Scorpion tail.** Reach 5 ft. (10 ft. behind). DC 15 CON save. Paralysed on a failed save.
+  - Kalyptos will call on Bantonio and Spiro to assist him in destroying the pillar.
+- When coupled with Arti's heart, the magical fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti may choose his appearance.
+- Whoever activates the pillar is granted a vision of a younger Ten painting a picture of the Miasma. Bahamut, Chauntea and Lathander watch over them.
 
 ### Homecoming
 
-The Inquisition will arrest the crew if they do not return immediately to the Oratory to debrief. Tristis may try to alter their memories in separate interviews.
+The Inquisition will arrest the crew if they do not return immediately to the Oratory to debrief.
 
-*Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*. The Inquisition ceased construction of *Loronath*'s submarine, leading *Vetra Bery* to steal the submarine plans and flee to the Manyshells. The Inquisition may try to retrieve the letter from the *Dawnroot Druids*.
+**What Tristis knows** (as written in Ten's diary):
+- The ten pillars were constructed by Ten, Lathander, Chauntea and Bahamut to protect the Relief from the Miasma. Caelum did not shield the Relief.
+- Each pillar holds a memory of Ten.
+- Mundi Eversor's heart was a diamond holding half of Ten's soul.
+- The Miasma is Caelum's evil released during his failed ritual.
 
-*Subira* tracked the basilisk venom to an island in the Manyshells.
+**What Tristis doesn't know**:
+- Ten, as Eversor, tried to absorb Caelum's evil but the diamond heart was struck.
+- Half of Ten's soul now resides in the Miasma.
+- If all ten pillars can be activated, Ten can disperse the Miasma entirely.
 
-The petrified dinosaur rider from Primal Antiqua, *Miyoko*, has joined the Commission. She is from the year 744 PO. She helped settle the earthmote when it drifted towards her home. It provided a source of water until the basilisk came through, destroying the water portal.
+**If the 6oS feign ignorance, he will attempt to alter their memories in individual interviews.**
 
-*Aura* announced her intentions to make monopolies on essential goods illegal. The Garnetgrinder Clan sold their Resonant Mine shares to other guilds including Micantrum. *Cade* used his father's money as a deposit to buy the mine on *Tenebrae's Refuge*.
+**If the 6oS accuse Tristis, he will attempt a coup.**
+
+**While the 6oS were in the Miasma**:
+- *Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*.
+- The Inquisition made a stealth attack on the *Dawnroot Druids* to retrieve the letter, then altered their memories.
+- The Inquisition ceased construction of *Loronath*'s submarine, leading *Vetra Bery* to steal the submarine plans and flee to the Manyshells.
+- *Subira* tracked the basilisk venom to a CSCA-occupied island in the Manyshells.
+- The petrified dinosaur rider from Primal Antiqua, *Miyoko*, joined the Commission. She is from the year 744 PO. She helped settle the earthmote when it drifted towards her home. It provided a source of water until the basilisk came through, destroying the water portal.
+- *Aura* announced her intentions to make monopolies on essential goods illegal. The *Garnetgrinder Clan* sold their Resonant Mine shares to other guilds including Micantrum. *Cade* used his father's money as a deposit to buy the mine on *Tenebrae's Refuge*.
 
 ---
 
