@@ -79,13 +79,15 @@ This magic weapon returns to your hand immediately after it is used to make a ra
 
 *Simple weapon, melee weapon, spellcasting focus (requires attunement).*
 
-**1d6 force. Versatile (1d8).**
+**1d6 force. Versatile (1d8). Artificer Infusion.**
 
-While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack. The bonus increases to +2 when you reach 10th level in this class.
+A knot in the wood of this staff provides adequate space for you to scribe a mystical cipher as if ***scribing a spell scroll***. To do so, you must have proficiency in the Arcana skill and be attuned to the staff. The spell must be among your known ***Graviturgy*** spells and you must provide any material components required for the casting of that spell. Scribing a cipher takes an amount of time related to the level of the spell you want to scribe, but never less than 8 hours.
 
-The staff has ***6 charges***. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: ***Magnify Gravity*** (1 charge), ***Immovable Object*** (2 charges), or [***Bandorul’s Surface Shift***](../spells/3rd-level#bandoruls-surface-shift) (3 charges). The staff regains 1d6 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a non-magical quarterstaff.
+You can read the cipher and cast its spell without providing any material components. Casting the spell in this way requires the spell's normal casting time. Once the spell is cast, the cipher fades, allowing another to be scribed. If the casting is interrupted, the cipher is not lost.
 
 **Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+
+**Artificer Infusion: Enhanced Arcane Focus.** While holding this item, you gain a +1 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack. The bonus increases to +2 when you reach 10th level in this class.
 
 ---
 

@@ -27,6 +27,14 @@ While wearing this item, you can use it to cast the ***Absorb Elements*** spell 
 
 ---
 
+## **Spellbook Holster**
+
+*Wondrous item, uncommon.*
+
+While wearing this item, whenever you change your list of prepared spells, you can choose 1 cantrip from your spellbook. The first time you cast that cantrip, its casting time is 1 bonus action.
+
+---
+
 ## **Thunderflash Powder**
 
 *Wondrous item, uncommon.*
