@@ -55,9 +55,9 @@ You can use this weapon to climb up to 10 feet or swing up to 15 feet by grappli
 
 *Martial weapon, melee weapon, artefact (requires attunement).* 6 lb.
 
-**3d6 slashing + 3d8 radiant. Thrown (30/120 ft.), heavy, two‑handed.**
+**1d6 slashing + 1d8 radiant. Thrown (30/120 ft.), heavy, two‑handed.**
 
-As an action, you can make up to 3 ranged attacks with this magic chakram. Target up to 3 creatures within range. You can target the same creature more than once. The chakram bounces between each of the targets, dealing ***1d6 slashing damage + 1d8 radiant damage*** on a hit. The chakram returns to your hand immediately after it is used to make a ranged attack.
+You can attack three times, instead of twice, whenever you make an ***Extra Attack*** using this weapon. The chakram returns to your hand immediately after it is used to make a ranged attack.
 
 **Thrown.** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
