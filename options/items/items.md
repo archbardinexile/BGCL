@@ -11,6 +11,14 @@ This lantern casts bright light in a 120-foot radius and dim light for an additi
 
 ---
 
+## **Cylaros' Bracer**
+
+*Adventuring gear.*
+
+While wearing this bracer, if you suffer a critical hit, reduce the damage from that hit to 0. The bracer then crumbles to dust.
+
+---
+
 ## **Elvish Glass Shoulder Cape**
 
 *Wondrous item, rare.*
@@ -43,7 +51,7 @@ As an action, you create a flash of dazzling light filling a 10-foot cube within
 
 ---
 
-## **Thunderkickers**
+## **Silas' Thunderkickers**
 
 *Wondrous item, rare.*
 
