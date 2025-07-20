@@ -23,10 +23,14 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 
 | Gemstone           | Damage Type       | Components |
 |--------------------|-------------------|------------|
-| Diamond/Resonite   | Radiant/Force     | Graphite   |
-| Ruby/Sapphire      | Fire/Cold         | Corundum   |
-| Emerald/Aquamarine | Necrotic/Psychic  | Beryl      |
-| Citrine/Amethyst   | Lightning/Thunder | Quartz     |
+| Diamond            | Radiant           | Graphite   |
+| Resonite           | Force             | Graphite   |
+| Ruby               | Fire              | Corundum   |
+| Sapphire           | Cold              | Corundum   |
+| Emerald            | Necrotic          | Beryl      |
+| Aquamarine         | Psychic           | Beryl      |
+| Citrine            | Lightning         | Quartz     |
+| Amethyst           | Thunder           | Quartz     |
 
 ##### Gem Magic Spells
 
@@ -36,7 +40,9 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 
 **Luminous Weapon (6th level required).** As an action, spend 4 light points and choose a damage type. A non-magical weapon within 5 feet becomes a magic weapon. For 1 hour, the wielder can use their spellcasting ability for the attack and damage rolls of attacks using that weapon and the weapon deals an extra 1d4 damage of the chosen type when it hits. The extra damage increases by 1d4 when you reach 9th level (2d4) and 13th level (3d4).
 
-**Healing Beacon.** As an action, spend 1 or more light points. A creature of your choice within 60 feet regains hit points equal to 1d4 times the number of light points spent. This spell has no effect on undead or constructs. The spell's healing increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+**Healing Beacon.** As a bonus action, spend 1 or more light points. Restore a total number of hit points equal to your wizard level × the number of light points spent among up to six creatures of your choice that you can see within 60 feet. This spell has no effect on undead or constructs.
+
+**Crystalline Wings.** As an action, spend 2 light points. A willing creature within 5 feet gains a flying speed of 60 feet until the start of your next turn. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 
 #### **Dancing Gems**
 
@@ -54,9 +60,9 @@ Starting at 10th level, you learn how to transmute gemstones into their mineral 
 
 Starting at 14th level, you can create a levitating, magical turret at a point you choose within 5 feet. Your gemstones orbit the turret. For 1 hour, you can cast Gem Magic as though you were in the turret's space, but you must use your own senses. Also, you gain 1 light point at the start of each of your turns.
 
-Any spell targeting a creature or object within 10 feet of the turret must instead target the turret. If the spell has an area of effect, it is reduced to a 5-foot-diameter sphere surrounding the turret. If the turret takes damage as a result of the spell, reduce the damage by 1d12 times the number of light points you have remaining. If you reduce the damage to 0, choose a damage type. The creature that cast the spell becomes vulnerable to damage of the chosen type.
+Any spell targeting a creature or object within 10 feet of the turret must instead target the turret. If the spell has an area of effect, it is reduced to a 5-foot-diameter sphere surrounding the turret. If the turret takes damage as a result of the spell, reduce the damage by 1d12 × the number of light points you have remaining. If you reduce the damage to 0, choose a damage type. The creature that cast the spell becomes vulnerable to damage of the chosen type.
 
-The turret has an AC of 18 and a number of hit points equal to five times your wizard level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or if you dismiss it early as an action. At which point, your gemstones return to you.
+The turret has an AC of 18 and a number of hit points equal to five × your wizard level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or if you dismiss it early as an action. At which point, your gemstones return to you.
 
 ---
 

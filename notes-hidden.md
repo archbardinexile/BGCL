@@ -9,10 +9,12 @@ title: Notes Hidden
 
 #### **Encounters**
 
-- The Verity must raise the canopies before acid rain begins. Some crew may be affected by psychosis.
-- The Shielded Forest. Protective sigils scratched into trees. A wounded unicorn has had its horn cut off. Psychotic ***unicorns*** may attack unless the wounded unicorn can be saved.
-  - Nearby settlement warding off the effects of psychosis with unicorn horns. If placated, unicorns will ask the 6oS to destroy the settlement's gliders so they cannot return.
-  - *Agrippina* is in jail for objecting to the use of unicorn horns. She must retrieve *Hans von Buch*. ***Bandits*** may turn psychotic and attack.
+- The crew must make a DC 15 wisdom saving throws to avoid stress and the effects of psychosis. Bantonio, Firien and Gomruss roll with disadvantage. Brazen and Terrence fail.
+- Roshia tries to contact Gomruss to inform him of the Inquisition's movements.
+- The Verity must avoid a pod of manta rays. The adults seem unaffected by the Miasma. A nature check reveals they are pregnant and likely searching for safe nesting grounds.
+- A nearby settlement can be found by following a trail of crashed gliders. The settlement wards off the Miasma with unicorn horns.
+  - *Agrippina* is in jail for objecting to the use of unicorn horns. She dumped the gliders. She must retrieve *Hans von Buch*. ***Bandits*** may turn psychotic and attack.
+  - Agrippina was the expedition's scribe. She has detailed notes on the chimera attack and can help track down Glimback.
 - A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the 6oS to slay the morkoth so they can be free.
 
 #### **Find Glimback**
@@ -52,6 +54,7 @@ The Inquisition will arrest the crew if they do not return immediately to the Or
 **If the 6oS feign ignorance, he will attempt to alter their memories in individual interviews.**
 
 **If the 6oS accuse Tristis, he will attempt a coup.**
+- Clerics were reassigned to the Manyshells in preparation for war, but also to minimise resistance against the coup.
 
 **While the 6oS were in the Miasma**:
 - *Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*.

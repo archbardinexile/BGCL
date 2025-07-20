@@ -111,6 +111,8 @@ An effect that removes psychosis reduces its level as specified in the effect's 
 
 A *greater restoration* spell can reduce a creature's psychosis level by 1. Also, being raised from the dead reduces a creature's psychosis level by 1. Effects that remove psychosis have no effect on creatures suffering level 6 psychosis excepting a *reincarnate* or *true resurrection* spell. Creatures suffering from psychosis are always treated as *poisoned*.
 
+Additionally, a creature's *stress score* can cause its level of psychosis to increase while it's inside the Miasma. While a creature has 2 or more stress points, its psychosis level increases by 1 every 24 hours. While a creature has 4 or more stress points, its psychosis level increases by 2 every 24 hours.
+
 ---
 
 ## **Dice Monarchs**
