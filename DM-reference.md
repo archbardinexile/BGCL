@@ -1,11 +1,9 @@
 ---
 layout: page
-title: NPCs Hidden
+title: Reference Tables
 ---
 
-## **Reference Tables**
-
-### Levels
+## **Levels**
 
 | LV | PB | HP (d6–d12, CON 14) | ATK (STR 18) | DC (INT 18) |
 |----|----|---------------------|--------------|-------------|
@@ -30,7 +28,7 @@ title: NPCs Hidden
 | 19 | +6 | 116–176             | +10          | 18          |
 | 20 | +6 | 122–185             | +10          | 18          |
 
-### Speed
+## **Speed**
 
 | Base Speed | Races/Subraces                                   |
 |------------|--------------------------------------------------|
@@ -39,7 +37,7 @@ title: NPCs Hidden
 | 35 ft      | Wood Elf, Air Genasi, Leonin, Satyr, Dhampir     |
 | 40 ft      | Centaur                                          |
 
-### Armour Class
+## **Armour Class**
 
 | Armour (Type)           | AC (DEX 18) | Shield |
 |-------------------------|-------------|--------|
@@ -55,6 +53,65 @@ title: NPCs Hidden
 | Padded (Light)          | 15          | 17     |
 | Hide (Medium)           | 14          | 16     |
 | Ring Mail (Heavy)       | 14          | 16     |
+
+## **Mundane Weapons Table**
+
+**Simple Melee Weapons**
+
+| Weapon       | Damage          | Features/Properties                |
+|--------------|-----------------|------------------------------------|
+| Club         | 1d4 bludgeoning | Light                              |
+| Dagger       | 1d4 piercing    | Finesse, light, thrown (20/60 ft)  |
+| Greatclub    | 1d8 bludgeoning | Two-handed                         |
+| Handaxe      | 1d6 slashing    | Light, thrown (20/60 ft)           |
+| Javelin      | 1d6 piercing    | Thrown (30/120 ft)                 |
+| Light hammer | 1d4 bludgeoning | Light, thrown (20/60 ft)           |
+| Mace         | 1d6 bludgeoning |                                    |
+| Quarterstaff | 1d6 bludgeoning | Versatile (1d8)                    |
+| Sickle       | 1d4 slashing    | Light                              |
+| Spear        | 1d6 piercing    | Thrown (20/60 ft), versatile (1d8) |
+
+**Simple Ranged Weapons**
+
+| Weapon         | Damage          | Features/Properties                         |
+|----------------|-----------------|---------------------------------------------|
+| Light crossbow | 1d8 piercing    | Ammunition (80/320 ft), loading, two-handed |
+| Dart           | 1d4 piercing    | Finesse, thrown (20/60 ft)                  |
+| Shortbow       | 1d6 piercing    | Ammunition (80/320 ft), two-handed          |
+| Sling          | 1d4 bludgeoning | Ammunition (30/120 ft)                      |
+
+**Martial Melee Weapons**
+
+| Weapon      | Damage          | Features/Properties                                 |
+|-------------|-----------------|-----------------------------------------------------|
+| Battleaxe   | 1d8 slashing    | Versatile (1d10)                                    |
+| Flail       | 1d8 bludgeoning |                                                     |
+| Glaive      | 1d10 slashing   | Heavy, reach, two-handed                            |
+| Greataxe    | 1d12 slashing   | Heavy, two-handed                                   |
+| Greatsword  | 2d6 slashing    | Heavy, two-handed                                   |
+| Halberd     | 1d10 slashing   | Heavy, reach, two-handed                            |
+| Lance       | 1d12 piercing   | Reach, special (disadvantage if target within 5 ft) |
+| Longsword   | 1d8 slashing    | Versatile (1d10)                                    |
+| Maul        | 2d6 bludgeoning | Heavy, two-handed                                   |
+| Morningstar | 1d8 piercing    |                                                     |
+| Pike        | 1d10 piercing   | Heavy, reach, two-handed                            |
+| Rapier      | 1d8 piercing    | Finesse                                             |
+| Scimitar    | 1d6 slashing    | Finesse, light                                      |
+| Shortsword  | 1d6 piercing    | Finesse, light                                      |
+| Trident     | 1d6 piercing    | Thrown (20/60 ft), versatile (1d8)                  |
+| War pick    | 1d8 piercing    |                                                     |
+| Warhammer   | 1d8 bludgeoning | Versatile (1d10)                                    |
+| Whip        | 1d4 slashing    | Finesse, reach                                      |
+
+**Martial Ranged Weapons**
+
+| Weapon         | Damage        | Features/Properties                                 |
+|----------------|---------------|-----------------------------------------------------|
+| Blowgun        | 1 piercing    | Ammunition (25/100 ft), loading                     |
+| Hand crossbow  | 1d6 piercing  | Ammunition (30/120 ft), light, loading              |
+| Heavy crossbow | 1d10 piercing | Ammunition (100/400 ft), heavy, loading, two-handed |
+| Longbow        | 1d8 piercing  | Ammunition (150/600 ft), heavy, two-handed          |
+| Net            |               | Special (restrained on hit), thrown (5/15 ft)       |
 
 ---
 

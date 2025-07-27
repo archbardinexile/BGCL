@@ -1,25 +1,25 @@
 ---
 layout: page
-title: Notes Hidden
+title: Dungeon Master's Notes
 ---
 
-## **Session 37 (996, Inceptum 2nd-3rd)**
+## **Session 39 (996, Inceptum 6th)**
 
 ### Into Darkness
 
 #### **Encounters**
 
-- The crew must make a DC 15 wisdom saving throws to avoid stress and the effects of psychosis. Bantonio, Firien and Gomruss roll with disadvantage. Brazen and Terrence fail.
-- Roshia tries to contact Gomruss to inform him of the Inquisition's movements.
-- The Verity must avoid a pod of manta rays. The adults seem unaffected by the Miasma. A nature check reveals they are pregnant and likely searching for safe nesting grounds.
-- A nearby settlement can be found by following a trail of crashed gliders. The settlement wards off the Miasma with unicorn horns.
-  - *Agrippina* is in jail for objecting to the use of unicorn horns. She dumped the gliders. She must retrieve *Hans von Buch*. ***Bandits*** may turn psychotic and attack.
+- A nearby settlement can be found by following a trail of crashed gliders. The settlement wards off the Miasma with unicorn horns. Without a cleric they rely on the concoctions of a ***corvum necromancer***. Consuming powdered unicorn horn is agonising but it slows psychosis.
+  - Psychotic settlers have escaped jail. They turn into aberrations and attack.
+  - *Agrippina* is in jail for objecting to the use of unicorn horns. She dumped the gliders. She must retrieve *Hans von Buch*.
   - Agrippina was the expedition's scribe. She has detailed notes on the chimera attack and can help track down Glimback.
+- The Verity must navigate a field of magnetised earthmotes that renders the compass inoperable.
+- The Verity must avoid a pod of manta rays. The adults seem unaffected by the Miasma. A nature check reveals they are pregnant and likely searching for safe nesting grounds.
 - A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the 6oS to slay the morkoth so they can be free.
 
 #### **Find Glimback**
 
-The expedition can be found in an abandoned inn. The inn is regularly attacked by ***aberrations***. Arti's heart protects them. Tiamo's gemstone turret alerts against intruders.
+The expedition can be found in an abandoned inn besieged by a swarm of toads—the young of a psychotic ***giant toad*** that bring it food. Arti's heart protects the expedition. Tiamo's gemstone turret alerts against intruders.
 
 - *Glimback Toestubber*. Gnome artificer, head of the Commission.
 - *Kalyptos*. Black dragonborn monster slayer ranger, Inquisitor.
