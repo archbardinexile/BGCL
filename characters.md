@@ -42,6 +42,10 @@ Grand Inquisitor.
 
 Grand Herald.
 
+### Naal Berevan
+
+Shy drow herald.
+
 ---
 
 ## **The Commission**
@@ -84,6 +88,18 @@ Elderly sphinx tabaxi housekeeper.
 
 Orange-crested aarakocra balloonist.
 
+### Kalyptos
+
+Black dragonborn monster slayer ranger who encouraged Glimback to leave Arti behind.
+
+### Owain
+
+Harengon wild magic sorcerer.
+
+### Tiamo Trouve
+
+Human watcher paladin. Exiled diamond guard and tactician.
+
 ---
 
 ## **Crosscut Circle**
@@ -91,6 +107,22 @@ Orange-crested aarakocra balloonist.
 ### Camren de Villeneuve
 
 ### Vetra Bery
+
+---
+
+## **Dragons**
+
+### Nox
+
+Reclusive silver dragon of Nox.
+
+### Aequor
+
+Giant chromatic wandering sea-dragon of Contritus. Seahorse-like features.
+
+### Vulcan
+
+Giant mountain-like dragon asleep under Montanum.
 
 ---
 
@@ -249,6 +281,14 @@ Chameleon lizardfolk monk.
 ### Jaytrix
 
 ### Brazen
+
+---
+
+## **Xor**
+
+### Meizilde
+
+Duergar paladin rebel who rescued Cylaros.
 
 ---
 

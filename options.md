@@ -8,6 +8,8 @@ title: Options
 - [Githzechi](options/races/githzechi)
 - [Tiefling (Rakshasa)](options/races/tiefling)
 
+---
+
 ## **Classes**
 
 - [Barbarian](options/classes/barbarian)
@@ -16,6 +18,8 @@ title: Options
 - [Monk](options/classes/monk)
 - [Wizard](options/classes/wizard)
 
+---
+
 ## **Spells**
 
 - [Cantrips](options/spells/cantrips)
@@ -23,6 +27,8 @@ title: Options
 - [2nd Level](options/spells/2nd-level)
 - [3rd Level](options/spells/3rd-level)
 - [4th Level](options/spells/4th-level)
+
+---
 
 ## **Items**
 

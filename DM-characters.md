@@ -3,28 +3,6 @@ layout: page
 title: Characters Hidden
 ---
 
-## **Church of Caelum**
-
-### Naal Berevan
-
-Shy drow herald.
-
-## **The Commission**
-
-### Kalyptos
-
-Black dragonborn monster slayer ranger, Caelum worshipper. Wayfarer who encouraged Glimback to leave Arti behind.
-
-### Owain
-
-Harengon wild magic sorcerer.
-
-### Tiamo Trouve
-
-Human watcher paladin. Exiled diamond guard and tactician.
-
----
-
 ## **League of Archfiends**
 
 ### Abhishek
@@ -67,26 +45,6 @@ Durzagon artificer
 - **Damain Leonardi** 38, husband to Magerite, wizard and head of House Leonardi
 - **Magerite Leonardi** 37, sister to Rodrigo Santiago, poet and astronomer
   - **Paulo & Frencesco Leonardi** 8, excitable twin brothers, students of acrobatics and martial arts respectively
-
----
-
-### Nox
-
-Reclusive silver dragon of Nox.
-
-### Aequor
-
-Giant chromatic wandering sea-dragon of Contritus. Seahorse-like features.
-
-### Vulcan
-
-Giant mountain-like dragon asleep under Montanum
-
----
-
-## **Xor**
-
-### Meizilde
 
 ---
 

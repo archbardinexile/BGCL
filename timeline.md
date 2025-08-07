@@ -5,6 +5,8 @@ title: Timeline
 
 The *Ascensus in Caelum* teaches us that one millennium ago, [Caelum Sol Orbis](lore#caelum-sol-orbis) did battle with [Mundi Eversor](lore#mundi-eversor), a great colossus created by the fiend [Tenebrae](lore#tenebrae) to destroy the world. The years before Caelum's battle with Mundi Eversor are suffixed with *AO*, meaning *Ante Orientem* or *Before the Rising*, while the years after are suffixed with *PO*, meaning *Post Orientem* or *After the Rising*.
 
+---
+
 ## **Ante Orientem**
 
 ### c. 1000 AO
@@ -44,6 +46,8 @@ In a bid for power, the fiend Tenebrae conducts a ritual to grow the skeleton of
 Returning to the site where his statue now stands, mortally wounded, Caelum gives his last breath to inspire his people. His people's faith renews his body and, engulfed in a radiant inferno, Caelum ascends to deliver a final blow to Eversor. The [resonance engine](lore#resonance-engines) within Eversor explodes, releasing the [Miasma](lore#the-miasma) from its corpse. The resulting magical shock wave enchants the deposits of [resonite](lore#resonance-engines) in the earth and the [earthmotes](lore#earthmotes) begin to rise. As a fissure opens up around Caelum's city, he stands at its centre and raises his wings. A mighty golden shield grows around the city, holding back the Miasma as [Fundus](locations#fundus) rises into the sky.
 
 Once the turmoil subsides, Caelum releases the shield and falls to his knees, having expended the last of his energy. Caelum's body erupts into a coruscation of light, and he ascends to divinity. The city is renamed [Caelum's Landing](locations#caelums-landing) in recognition of their saviour. This event is known as the *Rising*. It should be noted, however, that this is only what is written in the chronicles of the Church of Caelum. As more and more adventurers brave the Miasma in search of new lands to settle, strange stone pillars are being discovered which seem to hold chapters of another story.
+
+---
 
 ## **Post Orientem**
 

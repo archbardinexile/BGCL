@@ -5,6 +5,8 @@ title: Timeline Hidden
 
 The Annals of Tenebrae, held secretly within the [Oratory](locations#the-oratory)'s vaults, hold the words of [Tenebrae](lore#tenebrae) as they recount the alleged true events that led up to the [Rising](timeline#the-rising).
 
+---
+
 ## **Ante Orientem**
 
 ### 10 AO
