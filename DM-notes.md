@@ -3,35 +3,21 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 39 (996, Inceptum 6th)**
+## **Session 41 (996, Inceptum 10th)**
 
 ### Into Darkness
 
 #### **Encounters**
 
-- A field of magnetised earthmotes renders the ship's compass inoperable. Arti rolls with disadvantage on survival checks while in the field.
-  - The field is too dense for the Verity to go through. Shooting the earthmotes will cause a chain reaction and form larger unstable earthmotes.
-- A pod of migrating manta rays. The adults seem unaffected by the Miasma. A nature check reveals they are pregnant and likely searching for safe nesting grounds.
 - A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the 6oS to slay the morkoth so they can be free.
-
-#### **Find Glimback**
-
-The expedition can be found in an abandoned town besieged by a swarm of toads—the young of a psychotic ***giant toad*** that bring it food. Arti's heart protects the expedition. Tiamo's gemstone turret alerts against intruders.
-
-- *Glimback Toestubber*. Gnome artificer, head of the Commission.
-- *Kalyptos*. Black dragonborn monster slayer ranger, Inquisitor.
-- *Owain*. Harengon wild magic sorcerer, stuck in scared rabbit form.
-- *Tiamo Trouve*. Human lapidurgy wizard. Exiled diamond guard and tactician.
-- *Agrippina*. Gnome scribes wizard. Separated from expedition.
-
-Glimback remains in a state of shock until Arti arrives. He claims to hear the voice of *Tenebrae* coming from the Miasma. He is hesitant to replace Arti's heart due to the magical fibres in Arti's chest.
-- When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti may choose his appearance.
 
 #### **Find the Pillar**
 
 If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it. If unsuccessful, he will reveal his Inquisition badge and summon:
 - **Chimera**. **Scorpion tail.** Reach 5 ft. (10 ft. behind). DC 15 CON save. Paralysed on a failed save.
 - Kalyptos will call on Bantonio or Spiro to assist him in destroying the pillar.
+
+When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti may choose his appearance.
 
 Whoever activates the pillar is granted a vision of a younger Ten painting a picture of the Miasma. Bahamut, Chauntea and Lathander watch over them. Ten appears to join them in activating the pillar.
 
