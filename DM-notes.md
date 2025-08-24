@@ -3,19 +3,28 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 41 (996, Inceptum 10th)**
+## **Session 42 (996, Inceptum 11th)**
 
 ### Into Darkness
 
-#### **Encounters**
+A githyanki spelljammer crashed onto a ***morkoth***'s island. The morkoth is willing to exchange the location of all ten pillars for something of equal value:
 
-- A galleon crashed onto a ***morkoth***'s island. The crew agreed to serve the morkoth in exchange for their survival. The morkoth knows the location of the pillar. The ghost crew asks the 6oS to slay the morkoth so they can be free.
+- Information on Ten, Mundi Eversor and resonite
+- Arti's heart
+- Gomruss' watch
+
+The githyanki ghost crew agreed to serve the morkoth in exchange for their survival. The crew ask the 6oS to slay the morkoth so they can be free. If killed, the 6oS may loot the morkoth's lair.
 
 #### **Find the Pillar**
 
-If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it. If unsuccessful, he will reveal his Inquisition badge and summon:
-- **Chimera**. **Scorpion tail.** Reach 5 ft. (10 ft. behind). DC 15 CON save. Paralysed on a failed save.
-- Kalyptos will call on Bantonio or Spiro to assist him in destroying the pillar.
+If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it and call on Bantonio or Spiro to assist him in destroying the pillar. If unsuccessful, he will reveal his Inquisition badge and summon the five-headed Chimera. The heads are a lion, dragon, goat and a twin-headed snake tail.
+
+***Chimera (Polukranos)***
+
+- **Tail.** *Melee Weapon Attack*: **+13** to hit, reach 15 ft., one target. Hit: **2d10 + 7** bludgeoning damage. If the target is a creature, it must succeed on a **DC 18** Constitution saving throw or be paralysed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- **Miasmatic Blood.** When the Chimera takes piercing or slashing damage, each creature within 5 feet of it must succeed on a DC 18 Constitution saving throw or increase its psychosis level by 1.
+- **Fire Breath.** The dragon head exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking **13d6** fire damage on a failed save, or half as much damage on a successful one.
+- **Multiple Heads.** Whenever the Chimera takes 40 or more damage in a single turn, one of its heads dies. If all its heads die, the Chimera dies. Heads do not regrow.
 
 When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti may choose his appearance.
 
