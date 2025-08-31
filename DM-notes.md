@@ -3,17 +3,47 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 42 (996, Inceptum 11th)**
+## **Session 43 (996, Inceptum 13th)**
 
-### Into Darkness
+### Battleships
 
-A githyanki spelljammer crashed onto a ***morkoth***'s island. The morkoth is willing to exchange the location of all ten pillars for something of equal value:
+#### **Verity (Living Ship)**
 
-- Information on Ten, Mundi Eversor and resonite
-- Arti's heart
-- Gomruss' watch
+AC: 15 (wood)
+HP: 228 + 1d100 w/advantage
+DT: 15
+SP: 40 ft.
+CR: 25
+Keel/Beam: 180/60 ft.
 
-The githyanki ghost crew agreed to serve the morkoth in exchange for their survival. The crew ask the 6oS to slay the morkoth so they can be free. If killed, the 6oS may loot the morkoth's lair.
+**2 Ballista (Crew ×3)**
+AC: 15
+HP: 50
+**Bolt.** *+6* to hit. Range 120/480 ft. *3d10* piercing.
+
+**2 Cannon (Crew ×3)**
+AC: 19
+HP: 75
+**Cannon ball.** *+6* to hit. Range 600/2,400 ft. *8d10* bludgeoning.
+
+#### **Morkoth (Bombard)**
+
+AC: 15 (wood)
+HP: 300
+DT: 20
+SP: 35 ft.
+CR: 25
+Keel/Beam: 240/80 ft.
+
+**2 Ballista (Crew ×3)**
+AC: 15
+HP: 50
+**Bolt.** *+6* to hit. Range 120/480 ft. *3d10* piercing.
+
+**Giant Cannon (Crew ×4)**
+AC: 19
+HP: 250
+**Cannon ball.** *+6* to hit. Range 600/2,400 ft. *16d10* bludgeoning.
 
 #### **Find the Pillar**
 
