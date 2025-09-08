@@ -3,49 +3,13 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 43 (996, Inceptum 13th)**
+## **Session 44 (996, Inceptum 13th-14th)**
 
-### Battleships
+The crew must repair the Verity. The stern has been damaged along with a ballista and several lanterns. Several crewmembers in the sick bay may have been exposed to the Miasma. Arti's vegetables may have purple staining.
 
-#### **Verity (Living Ship)**
+Arti's senses lead the 6oS to a perpetual thunderstorm. To enter, the crew must construct a grounded lightning rod or proceed via *Tuperk*'s wooden balloon.
 
-AC: 15 (wood)
-HP: 228 + 1d100 w/advantage
-DT: 15
-SP: 40 ft.
-CR: 25
-Keel/Beam: 180/60 ft.
-
-**2 Ballista (Crew ×3)**
-AC: 15
-HP: 50
-**Bolt.** *+6* to hit. Range 120/480 ft. *3d10* piercing.
-
-**2 Cannon (Crew ×3)**
-AC: 19
-HP: 75
-**Cannon ball.** *+6* to hit. Range 600/2,400 ft. *8d10* bludgeoning.
-
-#### **Morkoth (Bombard)**
-
-AC: 15 (wood)
-HP: 300
-DT: 20
-SP: 35 ft.
-CR: 25
-Keel/Beam: 240/80 ft.
-
-**2 Ballista (Crew ×3)**
-AC: 15
-HP: 50
-**Bolt.** *+6* to hit. Range 120/480 ft. *3d10* piercing.
-
-**Giant Cannon (Crew ×4)**
-AC: 19
-HP: 250
-**Cannon ball.** *+6* to hit. Range 600/2,400 ft. *16d10* bludgeoning.
-
-#### **Find the Pillar**
+### Find the Pillar
 
 If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it and call on Bantonio or Spiro to assist him in destroying the pillar. If unsuccessful, he will reveal his Inquisition badge and summon the five-headed Chimera. The heads are a lion, dragon, goat and a twin-headed snake tail.
 
@@ -56,7 +20,7 @@ If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touchin
 - **Fire Breath.** The dragon head exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking **13d6** fire damage on a failed save, or half as much damage on a successful one.
 - **Multiple Heads.** Whenever the Chimera takes 40 or more damage in a single turn, one of its heads dies. If all its heads die, the Chimera dies. Heads do not regrow.
 
-When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti may choose his appearance.
+When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti's mask falls away and he begins to glow. Arti may choose his appearance.
 
 Whoever activates the pillar is granted a vision of a younger Ten painting a picture of the Miasma. Bahamut, Chauntea and Lathander watch over them. Ten appears to join them in activating the pillar.
 
@@ -96,7 +60,7 @@ Naal was picked by the Grand Inquisitor to join the *Crosscut Circle* undercover
 
 - *Vetra Bery* may kidnap Blythe and try to recruit her for the submarine crew. They intend to mutiny and use the submarine to search for and recover the body of Tenebrae (Arzhang).
   - If Blythe refuses, Naal will cast modify memory on Blythe. Leaving a message about his progress which must be delivered to the Grand Inquisitor.
-- Vetra tells of the expedition from Tamlo in 972 PO that returned with an artefact. The Chruch intervened, murdering the expedition and sealing the artefact in the vault.
+- Vetra tells of the expedition from Tamlo in 972 PO that returned with an artefact. The Church intervened, murdering the expedition and sealing the artefact in the vault.
 - Vetra knows about the expedition. She foretells of Blythe joining the Crosscut Circle once she discovers the truth in the Miasma.
 
 ### Investigate the Mining Dispute
