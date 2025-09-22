@@ -3,26 +3,41 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 44 (996, Inceptum 13th-14th)**
+## **Session 45 (996, Inceptum 15th)**
 
-The crew must repair the Verity. The stern has been damaged along with a ballista and several lanterns. Several crewmembers in the sick bay may have been exposed to the Miasma. Arti's vegetables may have purple staining.
+### The Earth of Me
 
-Arti's senses lead the 6oS to a perpetual thunderstorm. To enter, the crew must construct a grounded lightning rod or proceed via *Tuperk*'s wooden balloon.
+**Arti**'s senses have led the 6oS to a perpetual thunderstorm. To enter, the crew must construct a grounded lightning rod or proceed via *Tuperk*'s wooden balloon. The pillar is on a large earthmote at 3000 feet. The *Verity* must remain grounded while the crew ascend on Tuperk's balloon.
 
-### Find the Pillar
+*Kalyptos* and *Glimback* will insist on joining the crew. Glimback will give Arti his heart if he cannot join. When coupled with Arti's heart, the telomere seeds in Arti's chest will grow into muscles, granting him healing abilities. Arti's mask falls away and he begins to glow. Arti may choose his appearance. The party **level up**.
 
-If the pillar is found, *Kalyptos* will attempt to dissuade the 6oS from touching it and call on Bantonio or Spiro to assist him in destroying the pillar. If unsuccessful, he will reveal his Inquisition badge and summon the five-headed Chimera. The heads are a lion, dragon, goat and a twin-headed snake tail.
+*Kalyptos* will attempt to dissuade the 6oS from touching the pillar and call on Bantonio to assist him in destroying the pillar. If unsuccessful, he will reveal his Inquisition badge and summon the five-headed Chimera. The heads are a lion, dragon, goat and a twin-headed snake tail.
 
 ***Chimera (Polukranos)***
 
-- **Tail.** *Melee Weapon Attack*: **+13** to hit, reach 15 ft., one target. Hit: **2d10 + 7** bludgeoning damage. If the target is a creature, it must succeed on a **DC 18** Constitution saving throw or be paralysed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Miasmatic Blood.** When the Chimera takes piercing or slashing damage, each creature within 5 feet of it must succeed on a DC 18 Constitution saving throw or increase its psychosis level by 1.
-- **Fire Breath.** The dragon head exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking **13d6** fire damage on a failed save, or half as much damage on a successful one.
-- **Multiple Heads.** Whenever the Chimera takes 40 or more damage in a single turn, one of its heads dies. If all its heads die, the Chimera dies. Heads do not regrow.
 
-When coupled with Arti's heart, the fibres in Arti's chest will grow into muscles, granting him healing abilities. Arti's mask falls away and he begins to glow. Arti may choose his appearance.
+**Actions**
 
-Whoever activates the pillar is granted a vision of a younger Ten painting a picture of the Miasma. Bahamut, Chauntea and Lathander watch over them. Ten appears to join them in activating the pillar.
+- **Tail.** *Melee Weapon Attack*: **+13** to hit, reach 15 ft., one target. Hit: **2d10 + 7** bludgeoning damage. If the target is a creature, it must succeed on a **DC 18** Constitution saving throw or be paralysed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**Legendary Actions**
+
+- **Fire Breath. (Costs 2 actions)** The dragon head exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking **13d6** fire damage on a failed save, or half as much damage on a successful one.
+
+### The Pillar
+
+Whoever activates the pillar is granted a vision (1d10). Each pillar holds one of Ten's memories:
+1. Ten paints a picture of the Miasma. Bahamut, Chauntea and Lathander beseech them to make the pillars.
+2. Ten and their followers are attacked by vandals who want to destroy the pillars.
+3. Ten is sought out by *Lao Tan*, a Lathander cleric who warns of *Caelum*'s treachery.
+4. Ten and Lao Tan seek the *League of Archfiends* to help construct *Mundi Eversor*.
+5. *Malaika* returns with proof of Caelum's treachery.
+6. Ten examines the skeleton of Eversor and laments that Lao Tan had to stay in Anfang.
+7. Ten grants half his soul to Eversor's diamond heart, activating the colossus.
+8. Caelum's ritual is interrupted when Mundi Eversor erupts from beneath Discidium.
+9. Ten tries to absorb the Miasma pouring from Caelum when he strikes the heart, releasing the Miasma.
+10. Caelum ascends to divinity, leaving Ten to activate the pillars and shield the relief.
 
 ### Homecoming
 
