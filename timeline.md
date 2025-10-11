@@ -265,7 +265,7 @@ The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations#
 
 #### **The Mallian Revolution begins**
 
-Church Missionaries are sent to Mallia to improve relations with the Mallian traders. A chapel is constructed on the outskirts of the queen's jungle. Within four years, the Church is able to incite civil war on Mallia. The war lasts a further three years until the divine warriors of Caelum discover a source of basilisk oil, used to return those petrified by the medusae to their normal state.
+Church Missionaries are sent to Mallia to improve relations with the Mallian traders. A chapel is constructed on the outskirts of the queen's jungle. Within four years, the Church is able to incite civil war on Mallia. The war lasts a further three years until the divine warriors of Caelum discover a source of basilisk venom, used to return those petrified by the medusae to their normal state.
 
 ### 983 PO
 

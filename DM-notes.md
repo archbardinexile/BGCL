@@ -3,105 +3,75 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Session 45 (996, Inceptum 15th)**
-
-### The Earth of Me
-
-**Arti**'s senses have led the 6oS to a perpetual thunderstorm. To enter, the crew must construct a grounded lightning rod or proceed via *Tuperk*'s wooden balloon. The pillar is on a large earthmote at 3000 feet. The *Verity* must remain grounded while the crew ascend on Tuperk's balloon.
-
-*Kalyptos* and *Glimback* will insist on joining the crew. Glimback will give Arti his heart if he cannot join. When coupled with Arti's heart, the telomere seeds in Arti's chest will grow into muscles, granting him healing abilities. Arti's mask falls away and he begins to glow. Arti may choose his appearance. The party **level up**.
-
-*Kalyptos* will attempt to dissuade the 6oS from touching the pillar and call on Bantonio to assist him in destroying the pillar. If unsuccessful, he will reveal his Inquisition badge and summon the five-headed Chimera. The heads are a lion, dragon, goat and a twin-headed snake tail.
-
-***Chimera (Polukranos)***
-
-- **Miasmatic Blood.** When the Chimera takes piercing or slashing damage, each creature within 5 feet of it must succeed on a DC 18 Constitution saving throw or increase its psychosis level by 1.
-
-**Actions**
-
-- **Tail.** *Melee Weapon Attack*: **+13** to hit, reach 15 ft., one target. Hit: **2d10 + 7** bludgeoning damage. If the target is a creature, it must succeed on a **DC 18** Constitution saving throw or be paralysed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-**Legendary Actions**
-
-- **Fire Breath. (Costs 2 actions)** The dragon head exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking **13d6** fire damage on a failed save, or half as much damage on a successful one.
-
-### The Pillar
-
-Whoever activates the pillar is granted a vision (1d10). Each pillar holds one of Ten's memories:
-1. Ten paints a picture of the Miasma. Bahamut, Chauntea and Lathander beseech them to make the pillars.
-2. Ten and their followers are attacked by vandals who want to destroy the pillars.
-3. Ten is sought out by *Lao Tan*, a Lathander cleric who warns of *Caelum*'s treachery.
-4. Ten and Lao Tan seek the *League of Archfiends* to help construct *Mundi Eversor*.
-5. *Malaika* returns with proof of Caelum's treachery.
-6. Ten examines the skeleton of Eversor and laments that Lao Tan had to stay in Anfang.
-7. Ten grants half his soul to Eversor's diamond heart, activating the colossus.
-8. Caelum's ritual is interrupted when Mundi Eversor erupts from beneath Discidium.
-9. Ten tries to absorb the Miasma pouring from Caelum when he strikes the heart, releasing the Miasma.
-10. Caelum ascends to divinity, leaving Ten to activate the pillars and shield the relief.
+## **Caelum's Landing**
 
 ### Homecoming
 
-The Inquisition will arrest the crew if they do not return immediately to the Oratory to debrief.
+While the 6oS were in the Miasma...
 
-**What Tristis knows** (as written in Ten's diary):
-- The ten pillars were constructed by Ten, Lathander, Chauntea and Bahamut to protect the Relief from the Miasma. Caelum did not shield the Relief.
-- Each pillar holds a memory of Ten.
-- Mundi Eversor's heart was a diamond holding half of Ten's soul.
-- The Miasma is Caelum's evil released during his failed ritual.
-
-**What Tristis doesn't know**:
-- Ten, as Eversor, tried to absorb Caelum's evil but the diamond heart was struck.
-- Half of Ten's soul now resides in the Miasma.
-- If all ten pillars can be activated, Ten can disperse the Miasma entirely.
-
-**If the 6oS feign ignorance, he will attempt to alter their memories in individual interviews.**
-
-**If the 6oS accuse Tristis, he will attempt a coup.**
-- Clerics were reassigned to the Manyshells in preparation for war, but also to minimise resistance against the coup.
-
-**While the 6oS were in the Miasma**:
 - *Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*.
-- The Inquisition made a stealth attack on the *Dawnroot Druids* to retrieve the letter, then altered their memories.
-- The Inquisition ceased construction of *Loronath*'s submarine, leading *Vetra Bery* to steal the submarine plans and flee to the Manyshells.
-- *Subira* tracked the basilisk venom to a CSCA-occupied island in the Manyshells.
-- The petrified dinosaur rider from Primal Antiqua, *Miyoko*, joined the Commission. She is from the year 744 PO. She helped settle the earthmote when it drifted towards her home. It provided a source of water until the basilisk came through, destroying the water portal.
-- *Aura* announced her intentions to make monopolies on essential goods illegal. The *Garnetgrinder Clan* sold their Resonant Mine shares to other guilds including Micantrum. *Cade* used his father's money as a deposit to buy the mine on *Tenebrae's Refuge*.
+- The Inquisition attacked the *Dawnroot Druids* to retrieve the letter, then altered their memories.
+- The Inquisition ceased construction of *Loronath*'s submarine
+  - *Vetra Bery* stole the submarine and fled to the Manyshells.
+- *Subira* tracked the basilisk venom to a CSCA-occupied island close to Mallia.
+  - The Crows have not heard from her in 7 days.
+- The petrified dinosaur rider from *Primal Antiqua*, 744 PO, *Miyoko*, joined the *Commission*.
+- *Aura* declared monopolies on essential goods (including resonite) illegal.
+  - The *Garnetgrinder Clan* sold their Resonant Mine shares to other guilds including Micantrum.
+  - *Cade* used his father's money to buy the mine on *Tenebrae's Refuge*.
+- *Roshia* evaded the Inquisition and returned to *Arx* having heard of an expedition gone missing.
+
+*Aura* will organise a celebration at *Crowswood Place* to prevent the Inquisition lynching the 6oS on the journey home. However, she warns that Inquisitors (including *Naal Berevan*) will be present to escort them. During the night, Naal and the *Crosscut Circle* will kidnap *Kalyptos* and **Blythe**.
+
+### The Inquisition
+
+The Inquisitors will escort the 6oS to the *Oratory* for debriefing. If accused, *Tristis* will reveal how an expedition from *Tamlo* in 972 PO returned from the Miasma with Tenebrae's diary. Tristis' order intervened, murdering the psychotic expedition and sealing the blasphemous artefact in the vault beneath the Oratory. *Ardeat Sol Orbis* then named Tristis *Grand Inquisitor*, founding the Inquisition.
+
+The diary reveals that ten pillars were constructed by *Ten*, *Lathander*, *Chauntea* and *Bahamut* to protect the Relief from the Miasma. Each pillar holds a memory of Ten. Mundi Eversor was created to prevent Caelum completing a ritual to exorcise his evil and ascend to godhood. According to the diary, the Miasma is Caelum's evil expelled during his failed ritual.
+
+Tristis doesn't know that Ten, as Eversor, tried to absorb Caelum's evil but the diamond heart was struck. Half of Ten's soul now resides in the Miasma. If all ten pillars can be activated, Ten can disperse the Miasma entirely.
+
+If the 6oS convince Aura to reveal the truth, Tristis will attempt a coup. Clerics were reassigned to the Manyshells in preparation for war, but also to minimise resistance against the coup.
 
 ---
 
-### Find Naal Berevan
-
-Naal was picked by the Grand Inquisitor to join the *Crosscut Circle* undercover due to his closeness with *Camren de Villeneuve*. The Grand Herald was told to announce Naal's dismissal but refused. Constable *Denover*'s proposal to send in his own undercover agent was refused so he couldn't interfere.
-
-- *Vetra Bery* may kidnap Blythe and try to recruit her for the submarine crew. They intend to mutiny and use the submarine to search for and recover the body of Tenebrae (Arzhang).
-  - If Blythe refuses, Naal will cast modify memory on Blythe. Leaving a message about his progress which must be delivered to the Grand Inquisitor.
-- Vetra tells of the expedition from Tamlo in 972 PO that returned with an artefact. The Church intervened, murdering the expedition and sealing the artefact in the vault.
-- Vetra knows about the expedition. She foretells of Blythe joining the Crosscut Circle once she discovers the truth in the Miasma.
-
-### Investigate the Mining Dispute
-
-*Snicker Nickelfoot* saw a miner fall to his death in the Resonant Mines, triggering the unionisation of the miners. The Ministry cannot confirm the existence of the fallen miner as there is no paperwork. Therefore, the implementation of better health and safety in the mines is on hold. The union holds regular strikes led by *Harbek Goldmask*.
-
-Spiro intends to encourage his sister to intervene and give the miners the safety they need. Aura will instruct the *Garnetgrinder Clan* to sell shares of the Resonant Mines and outlaw monopolies on essential goods.
-
-The *Think Tank*, in league with the *Mining Consortium*, modified Snicker's memory in order to persuade the Church to purchase resonite from *Micantrum* instead of the *Garnetgrinder Clan*. If proof is discovered the Church will demand they too sell their shares.
-
-The *Think Tank* wish to know more about the expedition and have recruited **Blythe** via means of a puzzle. A business card leads Blythe to the drug dens of *Micantrum*.
+## **Manyshells**
 
 ### Anchorheart's Folly
 
-*Lenna Madizos* was recently recalled from her work providing aid in the Manyshells and has been investigating why. Her only lead is the Church requisitioning vast amounts of Basilisk oil through independent guilds so it goes unnoticed. The basilisk oil is in preparation for a confrontation with Mallia, who have warriors that can petrify with their gaze.
+*Lenna Madizos* was recalled from the Manyshells. Church clerics and paladins were sent in her place. She discovered the Church was requisitioning vast amounts of basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to a CSCA-occupied island close to Mallia and was captured by *Bhaldrom Anchorheart* during a pirate raid.
 
-**Guy**'s captain, *Bhaldrom Anchorheart* ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing. Anchorheart has made a deal with Vasilissa. He offers resonance weapons and in exchange the Mallians force the CSCA out of the Manyshells. *ABC* is headed to the Manyshells to investigate.
+Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons and in exchange the Mallians force the CSCA out of the Manyshells. *ABC* is posing as one of Anchorheart's crew, as both are looking for the submarine.
+
+### Project Abyss
+
+*Naal* was picked by the Grand Inquisitor to join the *Crosscut Circle* undercover due to his closeness with *Camren de Villeneuve*. The Grand Herald was told to announce Naal's dismissal but refused. Now Camren has been arrested, Naal accompanies *Vetra* as she steals the submarine and flees to the Manyshells.
+
+Vetra wants the submarine to recover the body of Tenebrae (Arzhang) from Mundi Eversor and summon him to prove that Caelum created the Miasma.
+
+---
+
+## **Mirror Plane**
 
 ### Confront River Chapman
 
 Tymora's emissary, *Chance*, has been trapped in a mirror by *River Chapman*, who is using her luck to influence his business and income. Chance recruits Gomruss to help her escape. River Chapman may trap the party in his game room. They will face dice monsters on a chequerboard in the Plane of Mirrors.
 
-Gomruss needs a key to the Plane of Mirrors. Research may uncover:
-- An artefact buried in a tomb in Arx
-- The Queen of Diamante's crown
-- Bhaldrom's diamond eye
+---
+
+## **Micantrum**
+
+### Investigate the Mining Dispute
+
+*Snicker Nickelfoot* saw a miner fall to his death in the Resonant Mines, triggering the unionisation of the miners. The Ministry could not confirm the existence of the fallen miner and prevented the implementation of better health and safety in the mines. Spiro encouraged his sister to intervene. Aura instructed the *Garnetgrinder Clan* to sell shares of the Resonant Mines and outlawed monopolies on essential goods like resonite.
+
+The *Think Tank*, in league with the *Micantrum Mining Consortium*, modified Snicker's memory to persuade the Church to purchase resonite from MMC instead of GC.
+
+The *Think Tank* wish to know more about the expedition and have recruited **Blythe** via a business card that leads to the drug dens of Micantrum.
+
+---
+
+## **Atada and Atado**
 
 ### The Diamond Ball
 
@@ -109,8 +79,31 @@ The Queen of Diamante is hosting a ball following successful negotiations with t
 
 An assassination attempt on the queen's life will seemingly reveal the Emmeraude Republic are to blame. However, this is an excuse for *Baldassare Leonardi*, the head of the Diamond Guard to declare martial law. *Tiamo Trouve* was exiled when he lost a duel to Baldassare. Tiamo challenged his warmongering and punitive leadership.
 
+---
+
+## **Arx**
+
 ### Unearth the Tomb
 
-*Gurdeep Darshan*, the representative from the *Arx Institute of Archaeology* offered work clearing out a buried tomb in *Os Terrae*. Darshan's first expedition, led by *Xander Coppermane III*, became lost in the plane of mirrors, the party must rescue them. The tomb contains undead. The throne room houses a staff that can open portals to the plane of mirrors.
+*Gurdeep Darshan*, the representative from the *Arx Institute of Archaeology* offered work clearing out a buried tomb in *Os Terrae*. Darshan's first expedition became lost in the plane of mirrors, the party must rescue them. The tomb contains undead. The throne room houses a staff that can open portals to the plane of mirrors.
 
 The party may discover a leopard-skin cloak inhabited by the spirit of a tabaxi thief king, *Darkhalijz*, who made a deal for immortality with *Abishek*. Trapped beneath a mountain of his own gold, his resurrections became a never-ending cycle, earning him a half-life as a cloak.
+
+---
+
+## **Fio**
+
+### Find the Pillars
+
+Whoever touches the pillar is granted a vision (1d10). Each pillar holds one of Ten's memories:
+
+1. Ten paints a picture of the Miasma. Bahamut, Chauntea and Lathander beseech them to make the pillars.
+2. Ten and their followers are attacked by vandals who want to destroy the pillars.
+3. Ten is sought out by *Lao Tan*, a Lathander cleric who warns of *Caelum*'s treachery.
+4. Ten and Lao Tan seek the *League of Archfiends* to help construct *Mundi Eversor*.
+5. *Malaika* returns with proof of Caelum's treachery.
+6. Ten watches the evacuation of Discidium and laments that Lao Tan had to return to Anfang.
+7. **FOUND** Ten grants half his soul to Eversor's diamond heart, activating the colossus.
+8. Caelum's ritual is interrupted when Mundi Eversor erupts from beneath Discidium.
+9. Ten tries to absorb the Miasma pouring from Caelum when he strikes the heart, releasing the Miasma.
+10. Caelum ascends to divinity, leaving Ten to activate the pillars and shield the relief.
