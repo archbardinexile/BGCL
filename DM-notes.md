@@ -21,7 +21,25 @@ While the 6oS were in the Miasma...
   - *Cade* used his father's money to buy the mine on *Tenebrae's Refuge*.
 - *Roshia* evaded the Inquisition and returned to *Arx* having heard of an expedition gone missing.
 
-*Aura* will organise a celebration at *Crowswood Place* to prevent the Inquisition lynching the 6oS on the journey home. However, she warns that Inquisitors (including *Naal Berevan*) will be present to escort them. During the night, Naal and the *Crosscut Circle* will kidnap *Kalyptos* and **Blythe**.
+### Race for the Truth
+
+- Naal, while grappling Blythe, can move 30 feet per turn (6 seconds)
+- Firien and Gomruss can move 60 feet per turn (6 seconds) **gaining 30 feet per turn**
+- Naal is 5 turns/150 feet/30 seconds ahead of Firien and Gomruss
+- Naal is 22 turns/650 feet/2 mins 12 seconds ahead of Arti, Bantonio and Guy
+
+- Naal cannot dash the same turn as glyph of warding is cast (15 feet that turn)
+- Blythe may try to escape Naal (15 feet that turn)
+- Naal will reach a hidden teleportation circle in 4 turns
+  - He must spend 1 turn setting explosives before teleporting
+
+The teleportation circle leads to a cave where the *Crosscut Circle* are hiding. They will deactivate their circle if the hidden circle is not destroyed.
+
+Firien and Gomruss will be taken prisoner. Naal will tell them the story of the expedition from Tamlo and ask the Six of Steel to help them.
+
+During the chase, a participant can freely use the Dash action a number of times equal to 3 + its Constitution modifier. Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution check at the end of its turn or gain one level of exhaustion.
+
+A participant drops out of the chase if its exhaustion reaches level 5, since its speed becomes 0. A creature can remove the levels of exhaustion it gained during the chase by finishing a short or long rest.
 
 ### The Inquisition
 
