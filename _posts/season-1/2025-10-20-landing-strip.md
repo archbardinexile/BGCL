@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Sunday Landing—996, Inceptum 21st
+title: Landing Strip—996, Inceptum 21st
 ---
 
-Extracts from *The Sunday Landing* newspaper dated 996, Inceptum 21st.
+Extracts from the *Landing Strip* newspaper dated 996, Inceptum 21st, Sunday.
 
 > **World looks to new horizon!**
 >
