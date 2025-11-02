@@ -346,6 +346,14 @@ Anti-pirate captain. Guy Brush's ex-wife.
 
 Seafaring mercenary in service to Umberlee. Guy Brush's Captain.
 
+### Rose Merryn
+
+Shopkeeper and occasional Threepwood crewmember.
+
+### Tress Combe
+
+Guy's younger sister, heir to the Combe estate.
+
 ---
 
 ### **[Home](index)**
