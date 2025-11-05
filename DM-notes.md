@@ -21,29 +21,64 @@ While the 6oS were in the Miasma...
   - *Cade* used his father's money to buy the mine on *Tenebrae's Refuge*.
 - *Roshia* evaded the Inquisition and returned to *Arx* having heard of an expedition gone missing.
 
-### The Inquisition
+Next destinations
+  - **The Manyshells.** They will find Rose Merryn’s Pre-Loved Goods destroyed.
+  - **The mirror plane.** A corridor of mirrors presenting infinite destinations. The Arx expedition can be seen trapped in a sandstone maze demiplane. Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
 
-> *Tristis* revealed how an expedition from *Tamlo* in 972 PO returned from the Miasma with Tenebrae's diary. Tristis' order intervened, murdering the psychotic expedition members and sealing the blasphemous artefact in the vault beneath the Oratory. *Ardeat Sol Orbis* then founded the Inquisition, naming Tristis *Grand Inquisitor*.
+---
 
-Tristis' warhammer is the key to the vault. The diamond-shaped floor will descend into stairs.
+#### **Tristis Veritas**
 
-- If the 6oS agree to enter the vault, they may read Tenebrae's diary:
+**HP:** 275
+**AC:** 27 (18+3 armour 2+3 shield +1 defence)
+**ATK:** +12 to hit, 1d8+6 bludgeoning + 1d8 radiant (one-handed warhammer)
+**DC:** 19
 
-The diary reveals that ten of 24 pillars remain out of those constructed by *Ten* at the behest of *Lathander*, *Chauntea* and *Bahamut* to protect the Relief from the Miasma. Each pillar holds a memory of Ten. When *Lao Tan*, aid to Caelum, sought out Tenebrae. She spoke of a cabal of fiends who could help them construct Mundi Eversor and prevent Caelum completing a ritual to exorcise his evil and ascend to godhood. The resulting conflict created the Miasma.
+**Features**
 
-- If the 6oS don't enter the vault, Tristis will deliver an ultimatum prematurely.
+- 4 attacks (8 with action surge)
+- 2 action surges
+- 2nd wind bonus heal 1d10+20
+- Resistance to psychic damage
+- Re-roll save up to 3 times
+- **Bulwark of Force** bonus, half cover for 1 minute
+- 12d12 psionic dice
+  - **Protective Field** reaction, 1d12+4 reduce damage
+  - **Psionic Strike** additional force damage equal to roll +4, STR save or pushed 10ft/prone
+  - **Psi-Powered Leap** bonus, gain flying equal to double walking until end of turn
+  - end charmed or frightened at start of turn
+  - **Telekinesis** one attack as bonus while concentrating
 
-  - To go free, Aura must agree to keep the diary secret and the 6oS must agree to have their memories altered.
-  - If they do not agree, Tristis will summon his Inquisitors and trap Aura in the vault.
+---
 
-Even if Aura agrees, Spiro will not.
+#### **Inquisitor**
 
-- If fleeing through the city, the 6oS will be chased by Inquisitors.
-  - Clerics were reassigned to the Manyshells to minimise resistance against the coup.
-- If fleeing on the Verity, Church gliders will attempt to stop them.
-- If fleeing via gate to...
-  - The Manyshells, they will find Rose Merryn’s Pre-Loved Goods destroyed.
-  - The mirror plane, a corridor of mirrors shall present infinite destinations. The Arx expedition can be seen trapped in a sandstone maze demiplane. Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
+**HP:** Up to 92
+**AC:** 18
+**ATK:** +8 to hit
+**DC:** 16
+
+- 2 attacks (4 with action surge)
+- 1 action surge
+- **Psionic Strike** additional force damage equal to roll +4,
+
+---
+
+#### **Spiro**
+
+**HP:** 203
+**AC:** 20 (18+2 armour)
+**ATK:** +11 to hit, 1d6 slashing + 2d8 radiant. Thrown (30/120 ft.)
+**DC:** 18
+
+- 3 attacks (with Halo of Caelum)
+- 4 **Glorious Defences** grant ally in 10 feet +4 AC, if miss, reaction, attack
+- Immune to disease
+- Oath of Glory spells
+- Creatures within 30 feet +4 to saves, can't be frightened
+- **Lay on Hands** action, restore 90 HP
+- **Divine Smite** +2d8 radiant on melee hit, bonus, distribute 2d8+18 HP
+- **Great Weapon Fighting** re-roll 1 or 2 on damage
 
 ---
 
