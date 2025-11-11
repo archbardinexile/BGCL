@@ -10,75 +10,19 @@ title: Dungeon Master's Notes
 While the 6oS were in the Miasma...
 
 - *Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*.
-- The Inquisition attacked the *Dawnroot Druids* to retrieve the letter, then altered their memories.
-- The Inquisition ceased construction of *Loronath*'s submarine
+- Roshia discovered the Inquisition attacked the *Dawnroot Druids* to retrieve the letter, then altered their memories.
+  - The Inquisition altered Roshia's memory before she returned to Arx, her pocket watch can restore her memory.
+- The Inquisition ceased construction of *Loronath*'s submarine.
   - *Vetra Bery* stole the submarine and fled to the Manyshells.
 - *Subira* tracked the basilisk venom to *Runnelstone* a CSCA-occupied island close to Mallia.
-  - The Crows have not heard from her in 7 days.
 - The petrified dinosaur rider from *Primal Antiqua*, 744 PO, *Miyoko*, joined the *Commission*.
 - *Aura* declared monopolies on essential goods (including resonite) illegal.
   - The *Garnetgrinder Clan* sold their Resonant Mine shares to other guilds including Micantrum.
   - *Cade* used his father's money to buy the mine on *Tenebrae's Refuge*.
-- *Roshia* evaded the Inquisition and returned to *Arx* having heard of an expedition gone missing.
 
 Next destinations
   - **The Manyshells.** They will find Rose Merryn’s Pre-Loved Goods destroyed.
   - **The mirror plane.** A corridor of mirrors presenting infinite destinations. The Arx expedition can be seen trapped in a sandstone maze demiplane. Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
-
----
-
-#### **Tristis Veritas**
-
-**HP:** 275
-**AC:** 27 (18+3 armour 2+3 shield +1 defence)
-**ATK:** +12 to hit, 1d8+6 bludgeoning + 1d8 radiant (one-handed warhammer)
-**DC:** 19
-
-**Features**
-
-- 4 attacks (8 with action surge)
-- 2 action surges
-- 2nd wind bonus heal 1d10+20
-- Resistance to psychic damage
-- Re-roll save up to 3 times
-- **Bulwark of Force** bonus, half cover for 1 minute
-- 12d12 psionic dice
-  - **Protective Field** reaction, 1d12+4 reduce damage
-  - **Psionic Strike** additional force damage equal to roll +4, STR save or pushed 10ft/prone
-  - **Psi-Powered Leap** bonus, gain flying equal to double walking until end of turn
-  - end charmed or frightened at start of turn
-  - **Telekinesis** one attack as bonus while concentrating
-
----
-
-#### **Inquisitor**
-
-**HP:** Up to 92
-**AC:** 18
-**ATK:** +8 to hit
-**DC:** 16
-
-- 2 attacks (4 with action surge)
-- 1 action surge
-- **Psionic Strike** additional force damage equal to roll +4,
-
----
-
-#### **Spiro**
-
-**HP:** 203
-**AC:** 20 (18+2 armour)
-**ATK:** +11 to hit, 1d6 slashing + 2d8 radiant. Thrown (30/120 ft.)
-**DC:** 18
-
-- 3 attacks (with Halo of Caelum)
-- 4 **Glorious Defences** grant ally in 10 feet +4 AC, if miss, reaction, attack
-- Immune to disease
-- Oath of Glory spells
-- Creatures within 30 feet +4 to saves, can't be frightened
-- **Lay on Hands** action, restore 90 HP
-- **Divine Smite** +2d8 radiant on melee hit, bonus, distribute 2d8+18 HP
-- **Great Weapon Fighting** re-roll 1 or 2 on damage
 
 ---
 
@@ -90,12 +34,13 @@ Next destinations
 
 Rose was smuggling the venom on behalf of the Church. She and Subira were captured by *Bhaldrom Anchorheart* during a pirate raid. The pirates destroyed the venom on orders from Queen Vasilissa.
 
-The 6oS must track down the *Wrath of Umberlee* with the help of Elyse. Rumours suggest Anchorheart is looking for the stolen submarine to add to his fleet. Hence, *ABC* is posing as one of Anchorheart's crew. Plundered CSCA vessels can be found in the Wrath's wake.
+The 6oS must track down the *Wrath of Umberlee* with the help of *Elyse*. Rumours suggest Anchorheart is looking for the stolen submarine to add to his fleet. Hence, *ABC* is posing as one of Anchorheart's crew. Plundered CSCA vessels can be found in the Wrath's wake.
 
 Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons and in exchange the Mallians force the CSCA out of the Manyshells.
 
 - If **Guy** chooses to join Anchorheart, he must hand over the rifle.
-  - The Verity will join Anchorheart's fleet and attack the CSCA bank at *Sullivanton*.
+  - The 6oS will join Anchorheart's fleet and attack the CSCA bank at *Sullivanton*.
+  - The 6oS will help Anchorheart track down the submarine.
 - If **Guy** refuses to join Anchorheart, he will threaten to kill *Subira*.
   - The execution fails due to damp powder. The powder monkey, ABC, reveals herself and joins the battle.
 
