@@ -3,28 +3,7 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Caelum's Landing**
-
-### Homecoming
-
-While the 6oS were in the Miasma...
-
-- *Tristis* successfully read **Blythe**'s thoughts leading to the arrest of *Camren*.
-- Roshia discovered the Inquisition attacked the *Dawnroot Druids* to retrieve the letter, then altered their memories.
-  - The Inquisition altered Roshia's memory before she returned to Arx, her pocket watch can restore her memory.
-- The Inquisition ceased construction of *Loronath*'s submarine.
-  - *Vetra Bery* stole the submarine and fled to the Manyshells.
-- *Subira* tracked the basilisk venom to *Runnelstone* a CSCA-occupied island close to Mallia.
-- The petrified dinosaur rider from *Primal Antiqua*, 744 PO, *Miyoko*, joined the *Commission*.
-- *Aura* declared monopolies on essential goods (including resonite) illegal.
-  - The *Garnetgrinder Clan* sold their Resonant Mine shares to other guilds including Micantrum.
-  - *Cade* used his father's money to buy the mine on *Tenebrae's Refuge*.
-
-Next destinations
-  - **The Manyshells.** They will find Rose Merryn’s Pre-Loved Goods destroyed.
-  - **The mirror plane.** A corridor of mirrors presenting infinite destinations. The Arx expedition can be seen trapped in a sandstone maze demiplane. Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
-
----
+The petrified dinosaur rider from Primal Antiqua, 744 PO, Miyoko, joined the Commission.
 
 ## **Manyshells**
 
@@ -32,23 +11,40 @@ Next destinations
 
 > *Lenna Madizos* was recalled from the Manyshells. Church clerics and paladins were sent in her place. She discovered the Church was requisitioning vast amounts of basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to Rose Merryn’s Pre-Loved Goods in *Runnelstone*, a CSCA-occupied island close to *Mallia*.
 
-Rose was smuggling the venom on behalf of the Church. She and Subira were captured by *Bhaldrom Anchorheart* during a pirate raid. The pirates destroyed the venom on orders from Queen Vasilissa.
+*Elyse* asked *Rose* to smuggle the basilisk venom in order to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* during a pirate raid. The pirates set Runnelstone alight on the 23rd Inceptum as a distraction while they destroyed Rose's shop and the venom (the attack was ordered by Queen *Vasilissa*, in league with Anchorheart).
 
-The 6oS must track down the *Wrath of Umberlee* with the help of *Elyse*. Rumours suggest Anchorheart is looking for the stolen submarine to add to his fleet. Hence, *ABC* is posing as one of Anchorheart's crew. Plundered CSCA vessels can be found in the Wrath's wake.
+Anchorheart used his Tempest powers to conceal his attacking fleet in fog. The 6oS must track down the *Wrath of Umberlee* with the help of *Elyse* on the FTN Marley.
 
-Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons and in exchange the Mallians force the CSCA out of the Manyshells.
+Rumours suggest Anchorheart is looking for the stolen submarine to add to his fleet. Hence, *ABC* is posing as one of Anchorheart's crew. Tracking markers include:
+
+- Plundered CSCA vessels that contain loot and bodies of slaughtered crewmembers
+- Weather reports of sudden gusts and fog (ask Daniel the meteorologist on his island)
+
+Use **At Sea** encounter tables.
+
+The Wrath of Umberlee can be found sailing for the *Farwest Archipelago*.
+- If found at sea, the 6oS may choose to tail or attack. Anchorheart may recognise the Marley and threaten Elyse.
+- If successfully tailed or found at the Archipelago, Anchorheart prepares a raid on the Crosscut Circle base.
+
+Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the Manyshells.
 
 - If **Guy** chooses to join Anchorheart, he must hand over the rifle.
-  - The 6oS will join Anchorheart's fleet and attack the CSCA bank at *Sullivanton*.
+  - The 6oS will join Anchorheart's fleet and attack the CSCA bank at *Sullivanwick*.
   - The 6oS will help Anchorheart track down the submarine.
 - If **Guy** refuses to join Anchorheart, he will threaten to kill *Subira*.
   - The execution fails due to damp powder. The powder monkey, ABC, reveals herself and joins the battle.
+
+A whale singing Lydia's song will lead the 6oS to another pillar underwater.
 
 ### Project Abyss
 
 > *Naal* was picked by the Grand Inquisitor to join the *Crosscut Circle* undercover due to his closeness with *Camren de Villeneuve*. The Grand Herald was told to announce Naal's dismissal but refused. Now Camren has been arrested, Naal accompanies *Vetra* as she steals the submarine and flees to the Manyshells.
 
 The Circle continue construction of the submarine hidden in the *Farwest Archipelago*. Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him to prove that Caelum created the Miasma. The submarine may be attacked by triton from *Abyssus* on its journey.
+
+The 6oS cannot reveal that the body inside Eversor is not Tenebrae, lest they break their oath.
+
+The Circle will defend their base long enough to force Anchorheart into retreat.
 
 ---
 
@@ -58,7 +54,24 @@ The Circle continue construction of the submarine hidden in the *Farwest Archipe
 
 > Tymora's emissary, *Chance*, has been trapped in a mirror by *River Chapman*, who is using her luck to influence his business and income. Chance recruits Gomruss to help her escape.
 
-River Chapman may trap the party in his game room, an infinite chequerboard demiplane. Chance is trapped in a giant hourglass. To escape, the 6oS must defeat dark and light monsters and shatter the hourglass before time runs out. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
+Lighting the candles creates a portal to a corridor of mirrors presenting infinite destinations. The 6oS may have to fight their duplicates to continue.
+
+- The Arx expedition can be seen trapped in a sandstone maze demiplane.
+  - 6oS must guide them out while battling mirror mephits.
+  - Darkhalijz, the spirit cloak worn by Xander Coppermane, tells how the staff from his collection banishes enemies to the mirror plane. To escape they must find and destroy it.
+- Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
+
+River Chapman will trap the party in his game room, an infinite chequerboard demiplane. Chance is trapped in a giant hourglass. To escape, the 6oS must defeat dark and light monsters and shatter the hourglass before time runs out. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
+
+---
+
+## **Arx**
+
+### Unearth the Tomb
+
+> *Gurdeep Darshan*, the representative from the *Arx Institute of Archaeology* offered work clearing out a buried tomb in *Os Terrae*. Darshan's first expedition became lost in the plane of mirrors, the party must rescue them. The tomb contains undead. The throne room houses a staff that can open portals to the plane of mirrors.
+
+The party may discover a leopard-skin cloak inhabited by the spirit of a tabaxi thief king, *Darkhalijz*, who made a deal for immortality with *Abishek*. Trapped beneath a mountain of his own gold, his resurrections became a never-ending cycle, earning him a half-life as a cloak.
 
 ---
 
@@ -78,19 +91,9 @@ The *Think Tank*, led by *Zdenek*, in league with the *Micantrum Mining Consorti
 
 ### The Diamond Ball
 
-The Queen of Diamante is hosting a ball following successful negotiations with the Emmeraude Republic. Magical trees were encroaching on Diamante territory. Emmeraude called for the cessation of deforestation. The Feywild Ones sought out *Lothran* in the Sylvan Kingdoms and found a way to quell the trees. The crown jewels will be on display, ripe for theft.
+> The Queen of Diamante is hosting a ball following successful negotiations with the Emmeraude Republic. Magical trees were encroaching on Diamante territory. Emmeraude called for the cessation of deforestation. The Feywild Ones sought out *Lothran* in the Sylvan Kingdoms and found a way to quell the trees.
 
 An assassination attempt on the queen's life will seemingly reveal the Emmeraude Republic are to blame. However, this is an excuse for *Baldassare Leonardi*, the head of the Diamond Guard to declare martial law. *Tiamo Trouve* was exiled when he lost a duel to Baldassare. Tiamo challenged his warmongering and punitive leadership.
-
----
-
-## **Arx**
-
-### Unearth the Tomb
-
-*Gurdeep Darshan*, the representative from the *Arx Institute of Archaeology* offered work clearing out a buried tomb in *Os Terrae*. Darshan's first expedition became lost in the plane of mirrors, the party must rescue them. The tomb contains undead. The throne room houses a staff that can open portals to the plane of mirrors.
-
-The party may discover a leopard-skin cloak inhabited by the spirit of a tabaxi thief king, *Darkhalijz*, who made a deal for immortality with *Abishek*. Trapped beneath a mountain of his own gold, his resurrections became a never-ending cycle, earning him a half-life as a cloak.
 
 ---
 

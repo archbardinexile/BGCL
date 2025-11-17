@@ -5,7 +5,7 @@ title: Letter from Elyse
 
 A letter from Elyse Trelawney to Guy Brush.
 
-> FTN Marley, Glasdowra. 996, Inceptum 13th.
+> FTN Marley, Gwerdowra. 996, Inceptum 13th.
 >
 > Guy Brush.
 >
