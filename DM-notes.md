@@ -3,28 +3,33 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-The petrified dinosaur rider from Primal Antiqua, 744 PO, Miyoko, joined the Commission.
-
 ## **Manyshells**
 
 ### Anchorheart's Folly
 
 > *Lenna Madizos* was recalled from the Manyshells. Church clerics and paladins were sent in her place. She discovered the Church was requisitioning vast amounts of basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to Rose Merryn’s Pre-Loved Goods in *Runnelstone*, a CSCA-occupied island close to *Mallia*.
 
-*Elyse* asked *Rose* to smuggle the basilisk venom in order to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* during a pirate raid. The pirates set Runnelstone alight on the 23rd Inceptum as a distraction while they destroyed Rose's shop and the venom (the attack was ordered by Queen *Vasilissa*, in league with Anchorheart).
+> *Elyse* asked *Rose* to smuggle the basilisk venom to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
 
-Anchorheart used his Tempest powers to conceal his attacking fleet in fog. The 6oS must track down the *Wrath of Umberlee* with the help of *Elyse* on the FTN Marley.
+The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
 
-Rumours suggest Anchorheart is looking for the stolen submarine to add to his fleet. Hence, *ABC* is posing as one of Anchorheart's crew. Tracking markers include:
+Rose left a hidden message in her recording of the attack. **Follow fog. Find Daniel.**
 
-- Plundered CSCA vessels that contain loot and bodies of slaughtered crewmembers
-- Weather reports of sudden gusts and fog (ask Daniel the meteorologist on his island)
+..-. --- .-.. .-.. --- .-- / ..-. --- --. / ..-. .. -. -.. / -.. .- -. .. . .-..
+
+Anchorheart bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, they can enlist the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Bantonio may recognise the eye sigil on Daniel's ring—Loronath had the sigil tattooed on his chest.
+
+Daniel will ask the 6oS to drop magical buoys into the sea at regular intervals so he can track the water temperature. Once complete, Daniel can track the water elemental.
 
 Use **At Sea** encounter tables.
+- Plundered CSCA ships
+- A whale singing Lydia's song can lead the 6oS to another pillar underwater
+
+*ABC* is posing as one of Anchorheart's crew.
 
 The Wrath of Umberlee can be found sailing for the *Farwest Archipelago*.
 - If found at sea, the 6oS may choose to tail or attack. Anchorheart may recognise the Marley and threaten Elyse.
-- If successfully tailed or found at the Archipelago, Anchorheart prepares a raid on the Crosscut Circle base.
+- If successfully tailed or found at the Archipelago, Anchorheart prepares a raid on the *Crosscut Circle* base.
 
 Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the Manyshells.
 
@@ -33,8 +38,6 @@ Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Cael
   - The 6oS will help Anchorheart track down the submarine.
 - If **Guy** refuses to join Anchorheart, he will threaten to kill *Subira*.
   - The execution fails due to damp powder. The powder monkey, ABC, reveals herself and joins the battle.
-
-A whale singing Lydia's song will lead the 6oS to another pillar underwater.
 
 ### Project Abyss
 

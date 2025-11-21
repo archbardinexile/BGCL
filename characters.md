@@ -100,6 +100,10 @@ Harengon wild magic sorcerer.
 
 Human watcher paladin. Exiled diamond guard and tactician.
 
+### Miyoko
+
+A petrified dinosaur rider from Primal Antiqua, 744 PO.
+
 ---
 
 ## **Crosscut Circle**
