@@ -17,9 +17,13 @@ Rose left a hidden message in her recording of the attack. **Follow fog. Find Da
 
 ..-. --- .-.. .-.. --- .-- / ..-. --- --. / ..-. .. -. -.. / -.. .- -. .. . .-..
 
-Anchorheart bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, they can enlist the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Bantonio may recognise the eye sigil on Daniel's ring—Loronath had the sigil tattooed on his chest.
+Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, they can enlist the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*.
 
-Daniel will ask the 6oS to drop magical buoys into the sea at regular intervals so he can track the water temperature. Once complete, Daniel can track the water elemental.
+Bantonio and Blythe may recognise the eye sigil on Daniel's ring
+- *Loronath* had the same sigil tattooed on his chest.
+- It appeared on the card marked 'Find us. Burn me.'
+
+Daniel will ask the 6oS to drop magical buoys into the sea at regular intervals so he can record the water temperature. Once complete, Daniel can track the water elemental.
 
 Use **At Sea** encounter tables.
 - Plundered CSCA ships
