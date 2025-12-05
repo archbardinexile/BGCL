@@ -13,25 +13,21 @@ title: Dungeon Master's Notes
 
 The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
 
-Rose left a hidden message in her recording of the attack. **Follow fog. Find Daniel.**
+Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. They must drop magical buoys into the sea at regular intervals so Daniel can record the water temperature. Once complete, Daniel can track the water elemental.
 
-..-. --- .-.. .-.. --- .-- / ..-. --- --. / ..-. .. -. -.. / -.. .- -. .. . .-..
-
-Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, they can enlist the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*.
-
-Bantonio and Blythe may recognise the eye sigil on Daniel's ring
-- *Loronath* had the same sigil tattooed on his chest.
-- It appeared on the card marked 'Find us. Burn me.'
-
-Daniel will ask the 6oS to drop magical buoys into the sea at regular intervals so he can record the water temperature. Once complete, Daniel can track the water elemental.
-
-Use **At Sea** encounter tables.
-- Plundered CSCA ships
+Use **At Sea** encounter tables
+- Week-old plundered CSCA ships show signs of Umberlant attack
+- Pirate ship flies Umberlant flag as deterrent when smuggling *joose* though Anchorheart's territory
+  - The smell of joose is impure—unlike that of the business card
+  - Fairy dust is used to make *joose*—it is ethically sourced from the *Sylvan Kingdoms* or stolen from captured fey
 - A whale singing Lydia's song can lead the 6oS to another pillar underwater
+- NPC clinging to rubble is *Elisa Santiago*, **Bantonio**'s niece, who took a bard job aboard a CSCA ship
 
-*ABC* is posing as one of Anchorheart's crew.
+*Julian*'s contacts report no strange activity at trade ports. However, ships have been reported going to *Os Terrae* from *Farwest Archipelago*. The Crosscut Circle have enlisted Githzechi engineers and used materials from *Shka'keth*.
 
-The Wrath of Umberlee can be found sailing for the *Farwest Archipelago*.
+*ABC* is aboard the *Wavemother's Fortune* and intends to rendezvous with Umberlee's Wrath. She will pose as the powder monkey of Anchorheart's crew.
+
+The Wrath of Umberlee can be found sailing for the *Farwest Archipelago* to investigate ships from Os Terrae.
 - If found at sea, the 6oS may choose to tail or attack. Anchorheart may recognise the Marley and threaten Elyse.
 - If successfully tailed or found at the Archipelago, Anchorheart prepares a raid on the *Crosscut Circle* base.
 
