@@ -11,33 +11,37 @@ title: Dungeon Master's Notes
 
 > *Elyse* asked *Rose* to smuggle the basilisk venom to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
 
-The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
-
 Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. They must drop magical buoys into the sea at regular intervals so Daniel can record the water temperature. Once complete, Daniel can track the water elemental.
 
+- The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
+- The Crosscut Circle have enlisted Githzechi engineers and used materials from *Shka'keth*.
+- *ABC* is aboard the Umberlee's Wrath posing as the powder monkey.
+
 Use **At Sea** encounter tables
-- Week-old plundered CSCA ships show signs of Umberlant attack
-- Pirate ship flies Umberlant flag as deterrent when smuggling *joose* though Anchorheart's territory
-  - The smell of joose is impure—unlike that of the business card
-  - Fairy dust is used to make *joose*—it is ethically sourced from the *Sylvan Kingdoms* or stolen from captured fey
-- A whale singing Lydia's song can lead the 6oS to another pillar underwater
 - NPC clinging to rubble is *Elisa Santiago*, **Bantonio**'s niece, who took a bard job aboard a CSCA ship
+- Guy may dream of *Uther* berating him for forgetting his wedding vows, he is then shot by Anchorheart
 
-*Julian*'s contacts report no strange activity at trade ports. However, ships have been reported going to *Os Terrae* from *Farwest Archipelago*. The Crosscut Circle have enlisted Githzechi engineers and used materials from *Shka'keth*.
-
-*ABC* is aboard the *Wavemother's Fortune* and intends to rendezvous with Umberlee's Wrath. She will pose as the powder monkey of Anchorheart's crew.
-
-The Wrath of Umberlee can be found sailing for the *Farwest Archipelago* to investigate ships from Os Terrae.
-- If found at sea, the 6oS may choose to tail or attack. Anchorheart may recognise the Marley and threaten Elyse.
-- If successfully tailed or found at the Archipelago, Anchorheart prepares a raid on the *Crosscut Circle* base.
+The Umberlee's Wrath can be found sailing for the *Farwest Archipelago*
+- Require persuasion check if luring Anchorheart with promise to exchange gemlock rifle
+  - If successful, Anchorheart will arrive first with the Wrath, Rose and Subira hidden as collateral
+  - If unsuccessful, 6oS must track the Wrath west
+- Require stealth check if following the Wrath in visual range
+  - If discovered, the Wrath will teleport using the elemental's power and board the Marley
+  - If successfully followed, the Wrath will board an unmarked Crosscut Circle ship
+    - or (later) moor at Farwest Archipelago to search for and attack the Crosscut Circle base
+- Elyse will overrule a decision to attack the Wrath without support
+  - The FTN will not provide support against Anchorheart as he is working against the CSCA
+  - The CSCA may provide support if Guy successfully persuades his father
+    - The CSCA reinforcements will not be organised before Anchorheart attacks Farwest Archipelago
 
 Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the Manyshells.
 
-- If **Guy** chooses to join Anchorheart, he must hand over the rifle.
-  - The 6oS will join Anchorheart's fleet and attack the CSCA bank at *Sullivanwick*.
-  - The 6oS will help Anchorheart track down the submarine.
-- If **Guy** refuses to join Anchorheart, he will threaten to kill *Subira*.
-  - The execution fails due to damp powder. The powder monkey, ABC, reveals herself and joins the battle.
+- If **Guy** chooses to join Anchorheart, he must hand over the rifle
+  - The 6oS must help Anchorheart attack the Crosscut Circle base at Farwest Archipelago
+- If **Guy** refuses to join Anchorheart, he will threaten to kill Elyse (if boarded) or Rose and Subira (if lured)
+  - The execution fails due to damp powder—ABC reveals herself and joins the battle
+    - If captured, Guy must persuade Elyse not to execute Anchorheart
+    - If escaped, Anchorheart's attack on Farwest Archipelago will fail
 
 ### Project Abyss
 
