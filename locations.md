@@ -155,17 +155,19 @@ Often besieged by howling sandstorms, a portal to the elemental plane of earth m
 
 ## **Contritus**
 
-Contritus, the easternmost region, is broken by the far-reaching fjords and archipelagos of the [Manyshells](#the-manyshells). To the south-east, the enormous jungle earthmote [Mallia](#mallia) appears to drain the sea with curtains of vines that veil its shores.
+Contritus, the easternmost region, is broken by the far-reaching archipelagos of [Gwerdowra](#gwerdowra) and the [Manyshells](#the-manyshells). To the south-east, the enormous jungle earthmote [Mallia](#mallia) appears to drain the sea with curtains of vines that veil its shores.
+
+### Gwerdowra
+
+When the archipelagos to the far east protested against oppressive CSCA trade influence, the islands of Gwerdowra banded together to form a coalition government with *Anchora* as its capital. Having thwarted the CSCA's expansion, their nascent military, the [Free Trade Navy](factions#free-trade-navy), now police the eastern seas.
 
 ### The Manyshells
 
-This archipelago of diminutive isles spans most of the eastern Altum Sea, reaching even beyond the Miasma. The isles range from 60 miles wide to as little as a half-mile wide, broken by exponentially branching rivers of sparkling aquamarine. With no singular form of government, the Manyshells have become a reliable refuge for pirates, cultists, adrenaline junkies and other counter cultures.
+North of Mallia, this archipelago of diminutive isles bears a colloquial name since the CSCA monopolised trade in the region. Despite the Church's influence, the Manyshells have become a reliable refuge for pirates, cultists, adrenaline junkies and other counter cultures.
 
-#### **Raptor Island**
+#### **Libertalia**
 
-The largest of the Manyshells, Raptor Island, hosts the shanty city of [Anchora](#anchora), surreptitiously ruled by the [Confederacy of Privateers](factions#confederacy-of-privateers); a loose alliance of pirates, privateers and merchant crews governed by those with the largest fleets and the greatest wealth.
-
-##### Anchora
+This independent city state sits between Gwerdowra and the Manyshells on an island broken by branching rivers of sparkling aquamarine. It is the chosen home of a loose alliance of pirates, privateers and merchant crews. This shanty city's government frequently changes, favouring those with the largest fleets and the greatest wealth.
 
 ### Mallia
 
