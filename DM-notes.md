@@ -11,15 +11,30 @@ title: Dungeon Master's Notes
 
 > *Elyse* asked *Rose* to smuggle the basilisk venom to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
 
-Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. They must drop magical buoys into the sea at regular intervals so Daniel can record the water temperature. Once complete, Daniel can track the water elemental.
+Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. *DAV3* can track the elemental's movements inside *Killigrew Mor*.
 
-- The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
-- The Crosscut Circle have enlisted Githzechi engineers and used materials from *Shka'keth*.
-- *ABC* is aboard the Umberlee's Wrath posing as the powder monkey.
+- The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy through a CSCA insurance policy.
+- The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart
+- The Crosscut Circle have enlisted Githzechi engineers to help build the submarine using materials from *Shka'keth*
+- *ABC* is aboard the Umberlee's Wrath posing as the powder monkey
 
-Use **At Sea** encounter tables
-- NPC clinging to rubble is *Elisa Santiago*, **Bantonio**'s niece, who took a bard job aboard a CSCA ship
-- Guy may dream of *Uther* berating him for forgetting his wedding vows, he is then shot by Anchorheart
+### Sullivanwick
+
+Daern's Instant Fortress has sleeping and living quarters for twenty Antiquan soldiers. It is not insulated. One of the walls has lost 45 hit points. A bell in the dining hall can summon up to 100 *compsognathus* spirit helpers.
+
+Blackflight can be found at the chapel arguing with Duchy of Ruby Minister *Bertrand Magnier*, who has arrived to explain why his insurance has not paid for the venom.
+
+The minister introduced Ruby's law of private invigilated mail to Caelum's Landing. A Church invigilator must have been paid off to hide the venom.
+
+*Volker Blackflight*, Jeremias' brother and renowned scoundrel, may follow the 6oS and offer his ship's services. His crew believe he should be prefect in Jeremias' place.
+
+A painted crosscut circle marks a cache where correspondence is shared. A letter from N asks T to report on Jeremias Blackflight's activities.
+
+*Elisa Santiago* can be found performing at *The Hissing Hand* in search of required work experience. She intends to apply for a job aboard a CSCA ship, providing entertainment for nobles.
+
+**Bantonio** may dream of his duel with *Rafael de Florencia*. Carina will question their relationship before he barges into her bedroom.
+
+### Before the storm
 
 The Umberlee's Wrath can be found sailing for the *Farwest Archipelago*
 - Require persuasion check if luring Anchorheart with promise to exchange gemlock rifle

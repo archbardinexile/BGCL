@@ -28,6 +28,7 @@ title: Options
 - [3rd Level](options/spells/3rd-level)
 - [4th Level](options/spells/4th-level)
 - [5th Level](options/spells/5th-level)
+- [6th Level](options/spells/6th-level)
 
 ---
 
