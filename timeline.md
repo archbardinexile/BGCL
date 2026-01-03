@@ -255,7 +255,7 @@ The [Commission](factions#the-commission) for the Research of Offshore Worlds, a
 
 #### **The Medusae Wars begin**
 
-The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *Medusae*, the warriors of the Mallian queen, [Vasilissa](characters#vasilissa), capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
+The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *medusae*, the warriors of the Mallian queen, [Vasilissa](characters#vasilissa), capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
 
 ### 977 PO
 
