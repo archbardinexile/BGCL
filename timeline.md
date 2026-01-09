@@ -227,6 +227,10 @@ The sprawling brass metropolis of [Ingenium](locations#ingenium) appears in the 
 
 [Artifex Calligo](characters#artifex-calligo), Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations#the-innermotes).
 
+### 768 PO
+
+#### **The Antiquan Armada invades Gwerdowra**
+
 ### 899 PO
 
 #### **The Commission is founded**

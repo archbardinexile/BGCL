@@ -13,26 +13,21 @@ title: Dungeon Master's Notes
 
 Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. *DAV3* can track the elemental's movements inside *Killigrew Mor*.
 
-- The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy through a CSCA insurance policy.
+- The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy through an insurance policy
 - The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart
 - The Crosscut Circle have enlisted Githzechi engineers to help build the submarine using materials from *Shka'keth*
 - *ABC* is aboard the Umberlee's Wrath posing as the powder monkey
+- Anchorheart is on his way to intercept the Githzechi ships
 
 ### Sullivanwick
 
 Daern's Instant Fortress has sleeping and living quarters for twenty Antiquan soldiers. It is not insulated. One of the walls has lost 45 hit points. A bell in the dining hall can summon up to 100 *compsognathus* spirit helpers.
 
-Blackflight can be found at the chapel arguing with Duchy of Ruby Minister *Bertrand Magnier*, who has arrived to explain why his insurance has not paid for the venom.
+*Volker Blackflight*, Jeremias' brother and renowned scoundrel, is trying to engage the Crosscut Circle. A secret cache can be found if a cross is drawn through the circle on the grave of *Jowan Aubrey*. The correspondence has already been taken by Volker.
 
-The minister introduced Ruby's law of private invigilated mail to Caelum's Landing. A Church invigilator must have been paid off to hide the venom.
+The letter claims the submarine is close to completion and a distraction is required on the day of its launch.
 
-*Volker Blackflight*, Jeremias' brother and renowned scoundrel, may follow the 6oS and offer his ship's services. His crew believe he should be prefect in Jeremias' place.
-
-A painted crosscut circle marks a cache where correspondence is shared. A letter from N asks T to report on Jeremias Blackflight's activities.
-
-*Elisa Santiago* can be found performing at *The Hissing Hand* in search of required work experience. She intends to apply for a job aboard a CSCA ship, providing entertainment for nobles.
-
-**Bantonio** may dream of his duel with *Rafael de Florencia*. Carina will question their relationship before he barges into her bedroom.
+Volker will ask Blythe for an update on the submarine. He does not know who she is. If Blythe finds out Volker is not Crosscut Circle they may wait for the true messenger to arrive. *Thibault Duchamp* is the messenger, and intends to rob the bank on the day of launch.
 
 ### Before the storm
 
