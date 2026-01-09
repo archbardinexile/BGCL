@@ -7,61 +7,60 @@ title: Dungeon Master's Notes
 
 ### Anchorheart's Folly
 
-> *Lenna Madizos* was recalled from the Manyshells. Church clerics and paladins were sent in her place. She discovered the Church was requisitioning vast amounts of basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to Rose Merryn’s Pre-Loved Goods in *Runnelstone*, a CSCA-occupied island close to *Mallia*.
+> *Lenna Madizos* discovered the Church was requisitioning basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to Rose Merryn’s Pre-Loved Goods in *Runnelstone*.
 
-> *Elyse* asked *Rose* to smuggle the basilisk venom to discover the CSCA's plans. Rose and *Subira* were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
+> *Elyse* asked *Rose* to smuggle basilisk venom as part of her investigation. Rose and Subira were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
 
-Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It shrouded his fleet in fog during the attack. To track the elemental, the 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. *DAV3* can track the elemental's movements inside *Killigrew Mor*.
+> The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy. Now his insurance broker, *Bertrand Magnier* won't pay up.
 
-- The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy through an insurance policy
-- The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart
-- The Crosscut Circle have enlisted Githzechi engineers to help build the submarine using materials from *Shka'keth*
-- *ABC* is aboard the Umberlee's Wrath posing as the powder monkey
-- Anchorheart is on his way to intercept the Githzechi ships
+Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog. The 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Using sending buoys, *DAV3* can track the elemental's movements inside *Killigrew Mor*.
+
+Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the *Manyshells*. The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
 
 ### Sullivanwick
 
-Daern's Instant Fortress has sleeping and living quarters for twenty Antiquan soldiers. It is not insulated. One of the walls has lost 45 hit points. A bell in the dining hall can summon up to 100 *compsognathus* spirit helpers.
+*Faust Blackflight* discovered the *Crosscut Circle* dead drop and learned the submarine's location. When he heard that Anchorheart was planning to attack *Sullivanwick*, he engaged Anchorheart and claimed the submarine was almost finished. Anchorheart then changed tack south-west to intercept the Githzechi ships.
 
-*Volker Blackflight*, Jeremias' brother and renowned scoundrel, is trying to engage the Crosscut Circle. A secret cache can be found if a cross is drawn through the circle on the grave of *Jowan Aubrey*. The correspondence has already been taken by Volker.
+Faust will bring sandwiches to the meeting and play along. He will try to find out what Blythe knows. If discovered, he will offer the services of his ship, the *Lady Firehair*. The 6oS may be able to reach the Crosscut Circle before Anchorheart.
 
-The letter claims the submarine is close to completion and a distraction is required on the day of its launch.
-
-Volker will ask Blythe for an update on the submarine. He does not know who she is. If Blythe finds out Volker is not Crosscut Circle they may wait for the true messenger to arrive. *Thibault Duchamp* is the messenger, and intends to rob the bank on the day of launch.
+> "It's the ship that made the Tamar run in less than 12 fathoms."
+>
+> *Faust.*
 
 ### Before the storm
 
-The Umberlee's Wrath can be found sailing for the *Farwest Archipelago*
-- Require persuasion check if luring Anchorheart with promise to exchange gemlock rifle
+Anchorheart will intercept the Githzechi ships on ***Flavum 7th*** and follow them to *Farwest Archipelago*. Umberlee's Wrath will arrive on ***Flavum 10th*** and attack.
+
+- ***If luring Anchorheart*** with promise to exchange gemlock rifle, require persuasion check
   - If successful, Anchorheart will arrive first with the Wrath, Rose and Subira hidden as collateral
-  - If unsuccessful, 6oS must track the Wrath west
-- Require stealth check if following the Wrath in visual range
-  - If discovered, the Wrath will teleport using the elemental's power and board the Marley
-  - If successfully followed, the Wrath will board an unmarked Crosscut Circle ship
-    - or (later) moor at Farwest Archipelago to search for and attack the Crosscut Circle base
-- Elyse will overrule a decision to attack the Wrath without support
-  - The FTN will not provide support against Anchorheart as he is working against the CSCA
-  - The CSCA may provide support if Guy successfully persuades his father
-    - The CSCA reinforcements will not be organised before Anchorheart attacks Farwest Archipelago
+  - If unsuccessful, 6oS must track Umberlee's Wrath to Farwest Archipelago
 
-Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the Manyshells.
+- ***If following Umberlee's Wrath*** in visual range, require stealth check
+  - If discovered, Umberlee's Wrath will teleport and board the Marley/Lady Firehair
+  - If successfully followed, Anchorheart must do stealth check to follow the Githzechi ships
+    - Anchorheart will bombard Farwest Archipelago and attempt to take the Crosscut Circle base
+    - Githzechi ships may successfully repel Anchorheart if not attacked beforehand
+    - If Crosscut Circle are warned, the submarine will have already left
 
-- If **Guy** chooses to join Anchorheart, he must hand over the rifle
-  - The 6oS must help Anchorheart attack the Crosscut Circle base at Farwest Archipelago
-- If **Guy** refuses to join Anchorheart, he will threaten to kill Elyse (if boarded) or Rose and Subira (if lured)
-  - The execution fails due to damp powder—ABC reveals herself and joins the battle
-    - If captured, Guy must persuade Elyse not to execute Anchorheart
-    - If escaped, Anchorheart's attack on Farwest Archipelago will fail
+- ***If Guy chooses to join Anchorheart*** he must hand over the rifle and help attack the Crosscut Circle
+- ***If Guy refuses to join Anchorheart*** he will threaten to kill:
+  - Rose and Subira (if lured)
+  - Elyse (if boarded)
+
+*ABC* is aboard Umberlee's Wrath posing as the powder monkey. She can sabotage the weapons.
+
+*Elyse* will overrule a decision to attack the Wrath without support.
+
+- Elyse will successfully garner *Free Trade Navy* support—the ships won't arrive until ***Flavum 13th***
+- Guy may garner immediate Church/CSCA support if he successfully persuades Magnier
 
 ### Project Abyss
 
-> *Naal* was picked by the Grand Inquisitor to join the *Crosscut Circle* undercover due to his closeness with *Camren de Villeneuve*. The Grand Herald was told to announce Naal's dismissal but refused. Now Camren has been arrested, Naal accompanies *Vetra* as she steals the submarine and flees to the Manyshells.
+> *Naal* was picked by *Tristis* to join the *Crosscut Circle* undercover due to his relationship with *Camren de Villeneuve*. Camren has been arrested. Naal and *Vetra Bery* now assemble the stolen submarine in the *Farwest Archipelago* with help from *Githzechi* engineers.
 
-The Circle continue construction of the submarine hidden in the *Farwest Archipelago*. Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him to prove that Caelum created the Miasma. The submarine may be attacked by triton from *Abyssus* on its journey.
+Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him and prove that Caelum created the Miasma. The submarine may be attacked by triton from *Abyssus* on its journey.
 
-The 6oS cannot reveal that the body inside Eversor is not Tenebrae, lest they break their oath.
-
-The Circle will defend their base long enough to force Anchorheart into retreat.
+The 6oS cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
 
 ---
 
