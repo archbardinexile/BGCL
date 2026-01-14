@@ -19,9 +19,9 @@ Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Cael
 
 ### Sullivanwick
 
-*Faust Blackflight* discovered the *Crosscut Circle* dead drop and learned the submarine's location. When he heard that Anchorheart was planning to attack *Sullivanwick*, he engaged Anchorheart and claimed the submarine was almost finished. Anchorheart then changed tack south-west to intercept the Githzechi ships.
+*Faust Blackflight* discovered the dead drop and learned that *Thibault Duchamp* (T) sent resonite from the bank's vault to the *Crosscut Circle* via the *Arxman*. When he heard that Anchorheart was planning to attack *Sullivanwick*, he engaged Anchorheart and claimed the submarine was almost finished. Anchorheart then changed tack south-west to intercept the Githzechi ships.
 
-Faust will bring sandwiches to the meeting and play along. He will try to find out what Blythe knows. If discovered, he will offer the services of his ship, the *Lady Firehair*. The 6oS may be able to reach the Crosscut Circle before Anchorheart.
+Faust will bring sandwiches to the meeting and play along. He will try to find out what Blythe (V) knows. If discovered, he will offer the services of his ship, the *Lady Firehair*. The 6oS may be able to reach the Crosscut Circle before Anchorheart.
 
 > "It's the ship that made the Tamar run in less than 12 fathoms."
 >
