@@ -19,9 +19,9 @@ Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Cael
 
 ### Before the Storm
 
-*ABC* will use *Rose*'s sending stone to warn the Six of Steel that the Umberlee's Wrath is three days from *Farwest*. The Six of Steel must proceed at full speed to *Farwest* to arrive in time. If warned via sending, *Vetra* will take the submarine to *Os Terrae*. A warning via dead drop will not arrive in time.
+*ABC* will use *Rose*'s sending stone to warn the Six of Steel that the Umberlee's Wrath is three days from *Farwest*. The Six of Steel must proceed at full speed to *Farwest* to arrive in time. The *Lady Firehair* is built for speed and has no weapons.
 
-***Thugs*** may attack the Six of Steel if they return to the dead drop or investigate *Thibault*'s ship, the *Arxman*. Thibault can give the exact location of the Crosscut Circle base, *Pedn Vounder*.
+If warned via sending, *Vetra* will take the submarine to *Os Terrae*. A warning via dead drop will not arrive in time. ***Thugs*** may attack the Six of Steel if they return to the dead drop or investigate *Thibault*'s ship, the *Arxman*. Thibault can give the exact location of the Crosscut Circle base, *Pedn Vounder*.
 
 ### The Siege of Farwest
 
@@ -37,6 +37,47 @@ The *Crosscut Circle* have allied with the githzechi to construct the submarine.
 - Elyse will successfully garner *Free Trade Navy* support
   - Ships won't arrive until ***Flavum 14th***
   - Airships won't arrive until ***Flavum 12th***
+
+The Umberlee's Wrath's crew is composed of **Pirates*** with hit points 44–68.
+
+#### **Bhaldrom Anchorheart**
+
+*Medium Humanoid (Human), Chaotic Evil*
+
+- **Armor Class** 20 (*plate*, *shield*)
+- **Hit Points** 255
+- **Speed** 25 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 20 (+5) | 10 (+0) | 18 (+4) | 13 (+1) | 15 (+2) | 19 (+4) |
+
+- **Saving Throws** WIS +7, CHA +9
+- **Skills** Animal Handling +7, Athletics +10, Insight +7, Persuasion +9
+- **Condition Immunities** Charmed, Frightened
+- **Senses** Passive Perception 12
+- **Proficiency Bonus** +5
+
+***Special Equipment.*** Bhaldrom Anchorheart wields a *+3 Umberlant Warhammer*.  
+***Divine Strikes.*** Bhaldrom Anchorheart's weapon attacks are magical. When he hits with any weapon, the weapon deals an extra 4d8 cold damage (included in the attack).  
+***Legendary Resistance (3/Day).*** If Bhaldrom Anchorheart fails a saving throw, he can choose to succeed instead.  
+***Spellcasting.*** Bhaldrom Anchorheart is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). He has the following Cleric spells prepared:  
+- 1st level (4 slots): fog cloud, thunderwave
+- 3rd level (3 slots): gust of wind, shatter
+- 5th level (2 slots): call lightning, sleet storm
+- 7th level (1 slot): control water, ice storm
+
+##### Actions
+
+***Multiattack.*** Bhaldrom Anchorheart makes two melee attacks.  
+***+3 Umberlant Warhammer.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d8 + 8 bludgeoning damage plus 4d8 cold damage.  
+
+##### Legendary Actions
+
+Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Bhaldrom Anchorheart regains spent legendary actions at the start of its turn.
+
+**Attack.** Bhaldrom Anchorheart makes one weapon attack.
+**Call Elder Tempest (Costs 2 actions).** Bhaldrom Anchorheart calls upon a bound Elder Tempest to take one of its actions/legendary actions.
 
 ### Project Abyss
 
