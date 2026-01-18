@@ -11,56 +11,38 @@ title: Dungeon Master's Notes
 
 > *Elyse* asked *Rose* to smuggle basilisk venom as part of her investigation. Rose and Subira were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
 
-> The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy. Now his insurance broker, *Bertrand Magnier* won't pay up.
+> The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy. The Six of Steel tricked his insurance broker, *Bertrand Magnier*, to make a donation to the Church, securing his support.
 
-Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog. The 6oS have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Using sending buoys, *DAV3* can track the elemental's movements inside *Killigrew Mor*.
+Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog. The Six of Steel have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Using sending buoys, *DAV3* can track the elemental's movements inside *Killigrew Mor*.
 
-Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons, in exchange the Mallians force the CSCA out of the *Manyshells*. The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart.
+Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons and in exchange the Mallians force the CSCA out of the *Manyshells*. The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart. The queen gave him an artefact to help him bind the elemental.
 
-### Sullivanwick
+### Before the Storm
 
-*Faust Blackflight* discovered the dead drop and learned that *Thibault Duchamp* (T) sent resonite from the bank's vault to the *Crosscut Circle* via the *Arxman*. When he heard that Anchorheart was planning to attack *Sullivanwick*, he engaged Anchorheart and claimed the submarine was almost finished. Anchorheart then changed tack south-west to intercept the Githzechi ships.
+*ABC* will use *Rose*'s sending stone to warn the Six of Steel that the Umberlee's Wrath is three days from *Farwest*. The Six of Steel must proceed at full speed to *Farwest* to arrive in time. If warned via sending, *Vetra* will take the submarine to *Os Terrae*. A warning via dead drop will not arrive in time.
 
-Faust will bring sandwiches to the meeting and play along. He will try to find out what Blythe (V) knows. If discovered, he will offer the services of his ship, the *Lady Firehair*. The 6oS may be able to reach the Crosscut Circle before Anchorheart.
+***Thugs*** may attack the Six of Steel if they return to the dead drop or investigate *Thibault*'s ship, the *Arxman*. Thibault can give the exact location of the Crosscut Circle base, *Pedn Vounder*.
 
-> "It's the ship that made the Tamar run in less than 12 fathoms."
->
-> *Faust.*
+### The Siege of Farwest
 
-### Before the storm
+The *Crosscut Circle* have allied with the githzechi to construct the submarine. Anchorheart will intercept the githzechi ships on ***Flavum 8th*** and attempt to follow them to the *Farwest* archipelago. The Umberlee's Wrath will arrive on ***Flavum 11th*** and attack.
 
-Anchorheart will intercept the Githzechi ships on ***Flavum 7th*** and follow them to *Farwest Archipelago*. Umberlee's Wrath will arrive on ***Flavum 10th*** and attack.
+- Anchorheart must succeed on a ***stealth check*** to follow the githzechi ships
+  - ***If attacked***, the githzechi ships will not lead Anchorheart to *Farwest* unless charmed (12th)
+  - ***If followed***, Anchorheart will bombard Farwest and attempt to take the Crosscut Circle base (11th)
+    - Undamaged Githzechi ships may join the battle against Anchorheart
 
-- ***If luring Anchorheart*** with promise to exchange gemlock rifle, require persuasion check
-  - If successful, Anchorheart will arrive first with the Wrath, Rose and Subira hidden as collateral
-  - If unsuccessful, 6oS must track Umberlee's Wrath to Farwest Archipelago
-
-- ***If following Umberlee's Wrath*** in visual range, require stealth check
-  - If discovered, Umberlee's Wrath will teleport and board the Marley/Lady Firehair
-  - If successfully followed, Anchorheart must do stealth check to follow the Githzechi ships
-    - Anchorheart will bombard Farwest Archipelago and attempt to take the Crosscut Circle base
-    - Githzechi ships may successfully repel Anchorheart if not attacked beforehand
-    - If Crosscut Circle are warned, the submarine will have already left
-
-- ***If Guy chooses to join Anchorheart*** he must hand over the rifle and help attack the Crosscut Circle
-- ***If Guy refuses to join Anchorheart*** he will threaten to kill:
-  - Rose and Subira (if lured)
-  - Elyse (if boarded)
-
-*ABC* is aboard Umberlee's Wrath posing as the powder monkey. She can sabotage the weapons.
-
-*Elyse* will overrule a decision to attack the Wrath without support.
-
-- Elyse will successfully garner *Free Trade Navy* support—the ships won't arrive until ***Flavum 13th***
-- Guy may garner immediate Church/CSCA support if he successfully persuades Magnier
+- If the *Crosscut Circle* are warned, the unfinished submarine will leave for *Os Terrae*
+- *ABC* is aboard the Umberlee's Wrath posing as a powder monkey. She can sabotage its weapons.
+- Elyse will successfully garner *Free Trade Navy* support
+  - Ships won't arrive until ***Flavum 14th***
+  - Airships won't arrive until ***Flavum 12th***
 
 ### Project Abyss
 
-> *Naal* was picked by *Tristis* to join the *Crosscut Circle* undercover due to his relationship with *Camren de Villeneuve*. Camren has been arrested. Naal and *Vetra Bery* now assemble the stolen submarine in the *Farwest Archipelago* with help from *Githzechi* engineers.
+> *Naal* was picked by *Tristis* to join the *Crosscut Circle* undercover due to his relationship with *Camren de Villeneuve*. Camren has been arrested. Naal and *Vetra Bery* now assemble the stolen submarine in the *Farwest* archipelago with help from *githzechi* engineers.
 
-Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him and prove that Caelum created the Miasma. The submarine may be attacked by triton from *Abyssus* on its journey.
-
-The 6oS cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
+Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him and prove that Caelum created the Miasma. The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
 
 ---
 
@@ -70,14 +52,14 @@ The 6oS cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest t
 
 > Tymora's emissary, *Chance*, has been trapped in a mirror by *River Chapman*, who is using her luck to influence his business and income. Chance recruits Gomruss to help her escape.
 
-Lighting the candles creates a portal to a corridor of mirrors presenting infinite destinations. The 6oS may have to fight their duplicates to continue.
+Lighting the candles creates a portal to a corridor of mirrors presenting infinite destinations. The Six of Steel may have to fight their duplicates to continue.
 
 - The Arx expedition can be seen trapped in a sandstone maze demiplane.
-  - 6oS must guide them out while battling mirror mephits.
+  - Six of Steel must guide them out while battling mirror mephits.
   - Darkhalijz, the spirit cloak worn by Xander Coppermane, tells how the staff from his collection banishes enemies to the mirror plane. To escape they must find and destroy it.
 - Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
 
-River Chapman will trap the party in his game room, an infinite chequerboard demiplane. Chance is trapped in a giant hourglass. To escape, the 6oS must defeat dark and light monsters and shatter the hourglass before time runs out. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
+River Chapman will trap the party in his game room, an infinite chequerboard demiplane. Chance is trapped in a giant hourglass. To escape, the Six of Steel must defeat dark and light monsters and shatter the hourglass before time runs out. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
 
 ---
 
@@ -128,4 +110,4 @@ Whoever touches the pillar is granted a vision (1d10). Each pillar holds one of 
 7. **FOUND** Ten grants half his soul to Eversor's diamond heart, activating the colossus.
 8. Caelum's ritual is interrupted when Mundi Eversor erupts from beneath Discidium.
 9. Ten tries to absorb the Miasma pouring from Caelum when he strikes the heart, releasing the Miasma.
-10. Caelum ascends to divinity, leaving Ten to activate the pillars and shield the relief.
+10. Caelum is captured by Talona, leaving Ten to activate the pillars and shield the relief.
