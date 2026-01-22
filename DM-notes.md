@@ -5,63 +5,51 @@ title: Dungeon Master's Notes
 
 ## **Manyshells**
 
-### Anchorheart's Folly
+The destruction of the venom was ordered by Queen *Vasilissa*, in league with *Anchorheart*. The queen gave him a magical weapon to help him bind an Elder Tempest to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog.
 
-> *Lenna Madizos* discovered the Church was requisitioning basilisk venom in preparation for a confrontation with Mallia. *Subira* tracked the venom to Rose Merryn’s Pre-Loved Goods in *Runnelstone*.
+Anchorheart ordered **Guy** to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. With gemlock weapons, the Mallians can invade the Manyshells and destroy the CSCA. The queen has promised Anchorheart territory.
 
-> *Elyse* asked *Rose* to smuggle basilisk venom as part of her investigation. Rose and Subira were captured by *Bhaldrom Anchorheart* when his fleet attacked Runnelstone. Rose's shop and the venom were destroyed.
-
-> The venom was purchased by *Jeremias Blackflight* and hidden from the exarchy. The Six of Steel tricked his insurance broker, *Bertrand Magnier*, to make a donation to the Church, securing his support.
-
-Anchorheart has bound a powerful water elemental to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog. The Six of Steel have enlisted the help of *Daniel*, a meteorologist and member of the *Society of Brilliance*. Using sending buoys, *DAV3* can track the elemental's movements inside *Killigrew Mor*.
-
-Anchorheart ordered Guy to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. He offers the Queen gemlock weapons and in exchange the Mallians force the CSCA out of the *Manyshells*. The destruction of the venom was ordered by Queen *Vasilissa*, in league with Anchorheart. The queen gave him an artefact to help him bind the elemental.
-
-### Before the Storm
-
-*ABC* will use *Rose*'s sending stone to warn the Six of Steel that the Umberlee's Wrath is three days from *Farwest*. The Six of Steel must proceed at full speed to *Farwest* to arrive in time. The *Lady Firehair* is built for speed and has no weapons.
-
-If warned via sending, *Vetra* will take the submarine to *Os Terrae*. A warning via dead drop will not arrive in time. ***Thugs*** may attack the Six of Steel if they return to the dead drop or investigate *Thibault*'s ship, the *Arxman*. Thibault can give the exact location of the Crosscut Circle base, *Pedn Vounder*.
+The *Crosscut Circle* have allied with the *githzechi* to construct the submarine. Anchorheart wants to add the submarine to his fleet and equip it with gemlock weapons.
 
 ### The Siege of Farwest
 
-The *Crosscut Circle* have allied with the githzechi to construct the submarine. Anchorheart will intercept the githzechi ships on ***Flavum 8th*** and attempt to follow them to the *Farwest* archipelago. The Umberlee's Wrath will arrive on ***Flavum 11th*** and attack.
+The Crosscut Circle are supported by ***3 githzechi ships***. The submarine has been moved to *Pedn Vounder* using a catamaran. The submarine will be seaworthy on ***Flavum 12th***, allowing *Vetra* to escape underwater.
 
-- Anchorheart must succeed on a ***stealth check*** to follow the githzechi ships
-  - ***If attacked***, the githzechi ships will not lead Anchorheart to *Farwest* unless charmed (12th)
-  - ***If followed***, Anchorheart will bombard Farwest and attempt to take the Crosscut Circle base (11th)
-    - Undamaged Githzechi ships may join the battle against Anchorheart
+Traps have been laid at the submarine's previous location. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
 
-- If the *Crosscut Circle* are warned, the unfinished submarine will leave for *Os Terrae*
-- *ABC* is aboard the Umberlee's Wrath posing as a powder monkey. She can sabotage its weapons.
-- Elyse will successfully garner *Free Trade Navy* support
-  - Ships won't arrive until ***Flavum 14th***
-  - Airships won't arrive until ***Flavum 12th***
+The Wrath's crew is composed of **Pirates*** with hit points 44–68. *ABC* is aboard the Wrath posing as a powder monkey. She can sabotage its weapons if Anchorheart tries to bombard *Farwest*.
 
-The Umberlee's Wrath's crew is composed of **Pirates*** with hit points 44–68.
+Anchorheart must make an ***intimidation check (DC 15 with pain symbol)*** to successfully interrogate the githzechi. They have not been told the new location of the submarine. Anchorheart may use the githzechi's sending stone.
+- ***If no traps are revealed***, Anchorheart will send 2 small ships to pursue the *Lady Firehair* into *Farwest*.
+- ***If traps are revealed***, Anchorheart will send ***Yuan-Ti Malison*** and ***Triton Shorestalkers*** to investigate. One of the Shorestalkers carries a scrying orb.
+  - ***If Guy is spotted***, Anchorheart will cast sending and torture *Rose* unless Guy reveals the submarine's location.
+
+- *Durzus*' 8 ships will arrive on 11th-12th
+- *Elyse*'s airship will arrive 12th-13th
+- *Elyse*'s ships will arrive on 16th-17th
 
 #### **Bhaldrom Anchorheart**
 
 *Medium Humanoid (Human), Chaotic Evil*
 
-- **Armor Class** 20 (*plate*, *shield*)
+- **Armour Class** 20 (*plate*, *shield*)
 - **Hit Points** 255
 - **Speed** 25 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 10 (+0) | 18 (+4) | 13 (+1) | 15 (+2) | 19 (+4) |
+| 20 (+5) | 10 (+0) | 18 (+4) | 13 (+1) | 19 (+4) | 15 (+2) |
 
-- **Saving Throws** WIS +7, CHA +9
-- **Skills** Animal Handling +7, Athletics +10, Insight +7, Persuasion +9
+- **Saving Throws** WIS +9, CHA +7
+- **Skills** Animal Handling +9, Athletics +10, Insight +9, Persuasion +7
 - **Condition Immunities** Charmed, Frightened
-- **Senses** Passive Perception 12
+- **Senses** Passive Perception 14
 - **Proficiency Bonus** +5
 
-***Special Equipment.*** Bhaldrom Anchorheart wields a *+3 Umberlant Warhammer*.  
+***Special Equipment.*** Bhaldrom Anchorheart wields a *+3 Tempest Warhammer*.  
 ***Divine Strikes.*** Bhaldrom Anchorheart's weapon attacks are magical. When he hits with any weapon, the weapon deals an extra 4d8 cold damage (included in the attack).  
 ***Legendary Resistance (3/Day).*** If Bhaldrom Anchorheart fails a saving throw, he can choose to succeed instead.  
-***Spellcasting.*** Bhaldrom Anchorheart is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). He has the following Cleric spells prepared:  
+***Spellcasting.*** Bhaldrom Anchorheart is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). He has the following Cleric spells prepared:  
 - 1st level (4 slots): fog cloud, thunderwave
 - 3rd level (3 slots): gust of wind, shatter
 - 5th level (2 slots): call lightning, sleet storm
@@ -70,7 +58,7 @@ The Umberlee's Wrath's crew is composed of **Pirates*** with hit points 44–68.
 ##### Actions
 
 ***Multiattack.*** Bhaldrom Anchorheart makes two melee attacks.  
-***+3 Umberlant Warhammer.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d8 + 8 bludgeoning damage plus 4d8 cold damage.  
+***+3 Tempest Warhammer.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d8 + 8 bludgeoning damage plus 4d8 cold damage.  
 
 ##### Legendary Actions
 
@@ -81,9 +69,7 @@ Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options bel
 
 ### Project Abyss
 
-> *Naal* was picked by *Tristis* to join the *Crosscut Circle* undercover due to his relationship with *Camren de Villeneuve*. Camren has been arrested. Naal and *Vetra Bery* now assemble the stolen submarine in the *Farwest* archipelago with help from *githzechi* engineers.
-
-Vetra wants to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. She intends to revive him and prove that Caelum created the Miasma. The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
+*Naal* and *Vetra* want to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They intend to conduct a ritual to revive him and prove that Caelum created the Miasma. The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
 
 ---
 
