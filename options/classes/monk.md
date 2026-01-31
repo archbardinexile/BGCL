@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Monk—Way of the Spirit Temple
 ---
 

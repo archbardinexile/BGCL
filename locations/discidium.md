@@ -1,0 +1,18 @@
+---
+layout: page
+title: Discidium
+---
+
+Discidium, though completely engulfed by the [Miasma](../lore#the-miasma), can still be seen beyond the barrier to the south-west as the red glow of lava and lightning storms illuminate the purple fog. At the centre of Discidium lies the crater from which Mundi Eversor emerged 1,000 years ago.
+
+### Mundi Eversor
+
+To the erde-south-west, the derelict remains of the ancient colossus, Mundi Eversor, can still be seen protruding from the sea. Above sea level, great metallic blades curve into an enormous rib cage formation, large enough to fit Fundus within. Scholars have discovered further remains in the depths of the Altum sea and estimate the colossus to have been ten times the size of Fundus. The landmass is too unstable to house a settlement, but here you may find expeditions looking to further chart the expanse of Eversor's remains, or pilgrims from wayward cults searching for enlightenment amidst the magical energies that linger there to this day.
+
+### Tamlo
+
+### Xor
+
+---
+
+### **[Locations](../locations)**

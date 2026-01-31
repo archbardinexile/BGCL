@@ -17,7 +17,7 @@ The *Ascensus in Caelum* teaches us that one millennium ago, [Caelum Sol Orbis](
 
 #### **Caer Wraidd is built**
 
-Anfarwol treks to [Anfang](locations#caelums-landing) and imposes his order on the disparate human societies. Enslaved by the immortal elf, the humans would spend almost a century carving the citadel of *Caer Wraidd* into the *Asgwrn Mountains*. Despite the hardship, the citadel's construction would bring prosperity and unity to the human societies. The humans would name Anfarwol the immortal elf-king of Anfang.
+Anfarwol treks to [Anfang](locations/profundus#caelums-landing) and imposes his order on the disparate human societies. Enslaved by the immortal elf, the humans would spend almost a century carving the citadel of *Caer Wraidd* into the *Asgwrn Mountains*. Despite the hardship, the citadel's construction would bring prosperity and unity to the human societies. The humans would name Anfarwol the immortal elf-king of Anfang.
 
 ### 64 AO
 
@@ -41,11 +41,11 @@ Caelum Sol Orbis is born an aasimar from human parentage on the 24th day of Asce
 
 #### **The Rising**
 
-In a bid for power, the fiend Tenebrae conducts a ritual to grow the skeleton of a colossal war machine from the very earth beneath [Discidium](locations#discidium). Flying high above the *Oratory*, Caelum watches in horror as Mundi Eversor erupts from the ground of the neighbouring region. So great is the colossus in size that it seems to rise from the horizon as it approaches. Great chunks of earth crumble away from Eversor's metallic form and rain down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor begins its approach to Anfang. As Eversor takes enormous strides towards Anfang, Caelum soars across the [Altum Sea](locations#altum-sea) alongside his winged paladins to intercept the colossus.
+In a bid for power, the fiend Tenebrae conducts a ritual to grow the skeleton of a colossal war machine from the very earth beneath [Discidium](locations/discidium). Flying high above the *Oratory*, Caelum watches in horror as Mundi Eversor erupts from the ground of the neighbouring region. So great is the colossus in size that it seems to rise from the horizon as it approaches. Great chunks of earth crumble away from Eversor's metallic form and rain down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor begins its approach to Anfang. As Eversor takes enormous strides towards Anfang, Caelum soars across the [Altum Sea](locations/profundus#altum-sea) alongside his winged paladins to intercept the colossus.
 
-Returning to the site where his statue now stands, mortally wounded, Caelum gives his last breath to inspire his people. His people's faith renews his body and, engulfed in a radiant inferno, Caelum ascends to deliver a final blow to Eversor. The [resonance engine](lore#resonance-engines) within Eversor explodes, releasing the [Miasma](lore#the-miasma) from its corpse. The resulting magical shock wave enchants the deposits of [resonite](lore#resonance-engines) in the earth and the [earthmotes](lore#earthmotes) begin to rise. As a fissure opens up around Caelum's city, he stands at its centre and raises his wings. A mighty golden shield grows around the city, holding back the Miasma as [Fundus](locations#fundus) rises into the sky.
+Returning to the site where his statue now stands, mortally wounded, Caelum gives his last breath to inspire his people. His people's faith renews his body and, engulfed in a radiant inferno, Caelum ascends to deliver a final blow to Eversor. The [resonance engine](lore#resonance-engines) within Eversor explodes, releasing the [Miasma](lore#the-miasma) from its corpse. The resulting magical shock wave enchants the deposits of [resonite](lore#resonance-engines) in the earth and the [earthmotes](lore#earthmotes) begin to rise. As a fissure opens up around Caelum's city, he stands at its centre and raises his wings. A mighty golden shield grows around the city, holding back the Miasma as [Fundus](locations/profundus#fundus) rises into the sky.
 
-Once the turmoil subsides, Caelum releases the shield and falls to his knees, having expended the last of his energy. Caelum's body erupts into a coruscation of light, and he ascends to divinity. The city is renamed [Caelum's Landing](locations#caelums-landing) in recognition of their saviour. This event is known as the *Rising*. It should be noted, however, that this is only what is written in the chronicles of the Church of Caelum. As more and more adventurers brave the Miasma in search of new lands to settle, strange stone pillars are being discovered which seem to hold chapters of another story.
+Once the turmoil subsides, Caelum releases the shield and falls to his knees, having expended the last of his energy. Caelum's body erupts into a coruscation of light, and he ascends to divinity. The city is renamed [Caelum's Landing](locations/profundus#caelums-landing) in recognition of their saviour. This event is known as the *Rising*. It should be noted, however, that this is only what is written in the chronicles of the Church of Caelum. As more and more adventurers brave the Miasma in search of new lands to settle, strange stone pillars are being discovered which seem to hold chapters of another story.
 
 ---
 
@@ -69,7 +69,7 @@ Lathander's Church completes its transition into the Church of Caelum on Fundus.
 
 #### **Anfarwol is killed**
 
-The Church begins putting pressure on King Anfarwol to anoint Prima Vita the new theocratic leader. King Anfarwol is killed in the sacking of [Caer Wraidd](locations#ruins-of-caer-wraidd).
+The Church begins putting pressure on King Anfarwol to anoint Prima Vita the new theocratic leader. King Anfarwol is killed in the sacking of [Caer Wraidd](locations/profundus#ruins-of-caer-wraidd).
 
 #### **Prima Vita Sol Orbis becomes the first Exarch**
 
@@ -101,7 +101,7 @@ Alberich Geboren, husband to Prima Vita, dies aged 75.
 
 #### **Nox arrives in Fio**
 
-The earthmote [Nox](locations#nox) first appears high in the sky skew-north of Fundus in a ring of aurora. The silver dragon [Nox](characters#nox), who had gifted the wintry earthmote his namesake, flies down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returns home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
+The earthmote [Nox](locations/glacialis#nox) first appears high in the sky skew-north of Fundus in a ring of aurora. The silver dragon [Nox](characters#nox), who had gifted the wintry earthmote his namesake, flies down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returns home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
 
 ### 111 PO
 
@@ -145,7 +145,7 @@ Cor is anointed Exarch by the people of Caelum's Landing. The young aasimar appo
 
 #### **Madanau arrives in Fio**
 
-The desert oasis [Madanau](locations#madanau) appears erde-west of Fundus in a whirlwind of sand. Initially submerged in the Miasma, the enormous emerald dragon, [Vulcan](characters#vulcan), emerges from his dormancy to push Madanau beyond the barrier with his hurricane-like breath. Few denizens of Madanau see the dragon before he returns to his slumber beneath [Montanum](locations#montanum), but those that did have passed on the tale for generations. Cor Sol Orbis chooses to send aid to Madanau but is met with adversity.
+The desert oasis [Madanau](locations/montanum#madanau) appears erde-west of Fundus in a whirlwind of sand. Initially submerged in the Miasma, the enormous emerald dragon, [Vulcan](characters#vulcan), emerges from his dormancy to push Madanau beyond the barrier with his hurricane-like breath. Few denizens of Madanau see the dragon before he returns to his slumber beneath [Montanum](locations/montanum), but those that did have passed on the tale for generations. Cor Sol Orbis chooses to send aid to Madanau but is met with adversity.
 
 #### **Lydia Iremia journeys to Caelum's Landing**
 
@@ -167,13 +167,13 @@ Despite the care of his wife, after a decade of increasing sickness, Cor Sol Orb
 
 #### **Rex Sol Orbis invades Atada and Atado**
 
-Intense feuds between the fractured nations of [Atada](locations#Atada) and [Atado](locations#atado) result in the deaths of several Church missionaries, prompting the Exarch, *Rex Sol Orbis*, to declare a holy war on the two earthmotes to the west.
+Intense feuds between the fractured nations of [Atada](locations/profundus#Atada) and [Atado](locations/profundus#atado) result in the deaths of several Church missionaries, prompting the Exarch, *Rex Sol Orbis*, to declare a holy war on the two earthmotes to the west.
 
 ### 241 PO
 
 #### **The Kingdom of Diamante is founded**
 
-Allied with King *Dimas Fantoccio* of the northern realms, Rex Sol Orbis is able to unite the nations of Atada and Atado in only four years. Inspired by the collective wealth of his new kingdom, Rex installs Fantoccio as the puppet-king of the newly proclaimed [Kingdom of Diamante](locations#kingdom-of-diamante).
+Allied with King *Dimas Fantoccio* of the northern realms, Rex Sol Orbis is able to unite the nations of Atada and Atado in only four years. Inspired by the collective wealth of his new kingdom, Rex installs Fantoccio as the puppet-king of the newly proclaimed [Kingdom of Diamante](locations/profundus#kingdom-of-diamante).
 
 ### 266 PO
 
@@ -191,7 +191,7 @@ The ensuing eight-year civil war concludes with a civilian march on the Oratory.
 
 #### **The Fundus Republic is founded**
 
-Chlodovech anoints himself Chancellor of the nascent *Fundus Republic* and construction begins on the [Ministerial Houses](locations#ministerial-houses) where his new government would take shape. A period of unrest would follow as Chlodovech's Republic would consistently fail to deliver the needs of its people.
+Chlodovech anoints himself Chancellor of the nascent *Fundus Republic* and construction begins on the [Ministerial Houses](locations/profundus#ministerial-houses) where his new government would take shape. A period of unrest would follow as Chlodovech's Republic would consistently fail to deliver the needs of its people.
 
 ### 411 PO
 
@@ -213,19 +213,19 @@ Auga Vigil assumes the role of Exarch after some encouragement from their peers,
 
 #### **Little Nox separates from Tenebrae's Refuge**
 
-Erde-south-west of Fundus, the earthmote known as [Tenebrae's Refuge](locations#tenebraes-refuge) is constantly weathered by the [Fountainhead Falls](locations#river-fountainhead). In 617 PO, the eastern side of Tenebrae's Refuge is abandoned when it becomes clear the erosion would finally cause the earthmote to split in two. The new smaller earthmote remains stable and is named [Little Nox](locations#little-nox).
+Erde-south-west of Fundus, the earthmote known as [Tenebrae's Refuge](locations/profundus#tenebraes-refuge) is constantly weathered by the [Fountainhead Falls](locations/profundus#river-fountainhead). In 617 PO, the eastern side of Tenebrae's Refuge is abandoned when it becomes clear the erosion would finally cause the earthmote to split in two. The new smaller earthmote remains stable and is named [Little Nox](locations/profundus#little-nox).
 
 ### 748 PO
 
 #### **Ingenium arrives in Fio**
 
-The sprawling brass metropolis of [Ingenium](locations#ingenium) appears in the skies north-east of Fundus in the year 748 PO, bringing with it a displaced but technologically advanced culture in the tens of thousands. Facing an energy crisis, they sought the assistance of the Church while acclimating to the new world in which they found themselves.
+The sprawling brass metropolis of [Ingenium](locations/profundus#ingenium) appears in the skies north-east of Fundus in the year 748 PO, bringing with it a displaced but technologically advanced culture in the tens of thousands. Facing an energy crisis, they sought the assistance of the Church while acclimating to the new world in which they found themselves.
 
 ### 756 PO
 
 #### **Ingenium is propelled towards Fundus**
 
-[Artifex Calligo](characters#artifex-calligo), Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations#the-innermotes).
+[Artifex Calligo](characters#artifex-calligo), Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations/profundus#the-innermotes).
 
 ### 768 PO
 
@@ -259,7 +259,7 @@ The [Commission](factions#the-commission) for the Research of Offshore Worlds, a
 
 #### **The Medusae Wars begin**
 
-The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *medusae*, the warriors of the Mallian queen, [Vasilissa](characters#vasilissa), capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
+The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations/contritus#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *medusae*, the warriors of the Mallian queen, [Vasilissa](characters#vasilissa), capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
 
 ### 977 PO
 
@@ -283,13 +283,13 @@ Many wrecks of Church gliders and Mallian flagellates can be found on the seabed
 
 #### **Aura Sol Orbis becomes Exarch**
 
-Following the death of her father, Ardeat Sol Orbis, Aura Sol Orbis is anointed the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura takes an oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](characters#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](characters#sana-sol-orbis), Prefect of Madanau and her sister [Clara](characters#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations#tenebraes-refuge).
+Following the death of her father, Ardeat Sol Orbis, Aura Sol Orbis is anointed the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura takes an oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](characters#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](characters#sana-sol-orbis), Prefect of Madanau and her sister [Clara](characters#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations/profundus#tenebraes-refuge).
 
 ### 990 PO
 
 #### **Abyssus is discovered**
 
-An advanced submarine made by Ingenium's top artificers succeeds in capturing images of illuminated, jellyfish-like domed structures at the bottom of the [Vena Trench](locations#vena-trench). The submarine is subsequently attacked on its return journey by triton riding giant sharks. Fortunately, the crew is able to escape unharmed. The mysterious underwater city is named Abyssus by explorers that until now had only inferred its existence.
+An advanced submarine made by Ingenium's top artificers succeeds in capturing images of illuminated, jellyfish-like domed structures at the bottom of the [Vena Trench](locations/montanum#vena-trench). The submarine is subsequently attacked on its return journey by triton riding giant sharks. Fortunately, the crew is able to escape unharmed. The mysterious underwater city is named Abyssus by explorers that until now had only inferred its existence.
 
 ### 996 PO
 

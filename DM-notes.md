@@ -30,88 +30,6 @@ Anchorheart must make an ***intimidation check (DC 15 with pain symbol)*** to su
 
 ---
 
-#### **Bhaldrom Anchorheart**
-
-*Medium Humanoid (Human), Chaotic Evil*
-
-- **Armour Class** 20 (*plate*, *shield*)
-- **Hit Points** 255
-- **Speed** 25 ft.
-
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 10 (+0) | 18 (+4) | 13 (+1) | 19 (+4) | 15 (+2) |
-
-- **Saving Throws** WIS +9, CHA +7
-- **Skills** Animal Handling +9, Athletics +10, Insight +9, Persuasion +7
-- **Condition Immunities** Charmed, Frightened
-- **Senses** Passive Perception 14
-- **Proficiency Bonus** +5
-
-***Special Equipment.*** Bhaldrom Anchorheart wields a *+3 Tempest Warhammer*.  
-***Sea Legs.*** The captain has advantage on ability checks and saving throws to resist being knocked prone.  
-***Divine Strikes.*** Bhaldrom Anchorheart's weapon attacks are magical. When he hits with any weapon, the weapon deals an extra 4d8 cold damage (included in the attack).  
-***Legendary Resistance (3/Day).*** If Bhaldrom Anchorheart fails a saving throw, he can choose to succeed instead.  
-***Spellcasting.*** Bhaldrom Anchorheart is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). He has the following Cleric spells prepared:  
-- 1st level (4 slots): fog cloud, thunderwave
-- 3rd level (3 slots): gust of wind, shatter
-- 5th level (2 slots): call lightning, sleet storm
-- 7th level (1 slot): control water, ice storm
-
-##### Actions
-
-***Multiattack.*** Bhaldrom Anchorheart makes two melee attacks.  
-***+3 Tempest Warhammer.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d8 + 8 bludgeoning damage plus 4d8 cold damage.  
-
-##### Reactions
-
-***Shape Up, Ye Dog (2/Day).*** Whenever a friendly creature within 30 feet of the captain that can hear it misses with an attack, the captain can yell perilous threats to allow that creature to re-roll the attack roll.
-
-##### Legendary Actions
-
-Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Bhaldrom Anchorheart regains spent legendary actions at the start of its turn.
-
-**Attack.** Bhaldrom Anchorheart makes one weapon attack.
-**Call Elder Tempest (Costs 2 actions).** Bhaldrom Anchorheart calls upon a bound Elder Tempest to take one of its actions/legendary actions.
-
----
-
-#### **Faust**
-
-*Medium Humanoid (Aasimar), Neutral Good*
-
-- **Armour Class** 16 (*studded leather*)
-- **Hit Points** 110
-- **Speed** 30 ft., fly 90 ft.
-
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 18 (+4) | 14 (+2) | 11 (+0) | 13 (+1) | 12 (+1) |
-
-- **Saving Throws** Dex +7, Con +5, Wis +4
-- **Skills** Perception +4, Stealth +10
-- **Senses** darkvision 120 ft., passive Perception 14
-- **Proficiency Bonus** +3
-
-***Special Equipment.*** Faust carries three magical bolts, as follows:  
-- A *bolt of holding*, which casts *hold person* on a target hit with the bolt, as well as up to two other targets within 30 feet of that target
-- A *bolt of blinding*, which casts *blindness/deafness* to blind on a target hit with the bolt, as well as up to two other targets within 30 feet of that target
-- A *bolt of vapours*, which casts *stinking cloud* centred on the point it hits
-Each of these effects has a spell save DC of 15 and a duration of 1 minute.  
-***Flyby.*** Faust doesn't provoke an opportunity attack when he flies out of an enemy's reach.
-
-##### Actions
-
-***Multiattack.*** Faust makes two shortsword attacks or one shortsword and one hand crossbow attack  
-***Shortsword +2.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d6 + 6 piercing damage  
-***Hand Crossbow +1.*** *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:* 1d6 + 5 piercing damage  
-
-##### Reactions
-
-***Parry.*** Faust adds 3 to his AC against one melee attack that would hit him. To do so, Faust must see the attacker and be wielding a melee weapon.
-
----
-
 ### Project Abyss
 
 *Naal* and *Vetra* want to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They intend to conduct a ritual to revive him and prove that Caelum created the Miasma. The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
@@ -183,3 +101,64 @@ Whoever touches the pillar is granted a vision (1d10). Each pillar holds one of 
 8. Caelum's ritual is interrupted when Mundi Eversor erupts from beneath Discidium.
 9. Ten tries to absorb the Miasma pouring from Caelum when he strikes the heart, releasing the Miasma.
 10. Caelum is captured by Talona, leaving Ten to activate the pillars and shield the relief.
+
+---
+
+The Annals of Tenebrae, held secretly within the [Oratory](locations#the-oratory)'s vaults, hold the words of [Tenebrae](lore#tenebrae) as they recount the alleged true events that led up to the [Rising](timeline#the-rising).
+
+## **Ante Orientem**
+
+### 10 AO
+
+#### **Tenebrae's journey begins**
+
+Once an earth genasi with another name, Tenebrae began their life as an artist. Receiving visions of a blight upon the land, Tenebrae felt compelled to paint a swirling dark purple void surrounding the region of [Profundus](locations#profundus). Having dwelt on the meaning of their ominous painting, Tenebrae was sought out by *Chauntea*, the deity of life and agriculture. She encouraged Tenebrae to travel the land and construct stone pillars that might retain the true history of events to come. These pillars would bear the blessings of Chauntea, *Lathander* and Bahamut so that together they might shield Profundus from the coming blight.
+
+Tenebrae travelled the region for six years, beseeching those in power to prepare for the coming blight. Very few heeded their word. In that time, they and their followers managed to construct 24 pillars. However, upon hearing that many of the pillars had been vandalised by terror-stricken cynics, Tenebrae began to doubt their ability to complete the task entrusted to them. Fleeing from *Church of Lathander*, *Lao Tan*, until recently an aid to [Caelum Sol Orbis](lore#caelum-sol-orbis), sought out Tenebrae in order to tell the tale of the Grand Paladin's treachery. She implored Tenebrae to focus their efforts not on preparing for the inevitable, but on discovering a way to prevent it. She spoke of a cabal of powerful fiends that dwelt in the region of [Discidium](locations#discidium), who may be able to help.
+
+### 4 AO
+
+#### **Tenebrae creates a pact with the League of Archfiends**
+
+Having challenged and rediscovered their resolve, Tenebrae travelled to the region of Discidium to seek out the *League of Archfiends*. Their number was said to include the powerful rakshasa sorcerer *Abhishek*, the alu-fiend seductress *Malaika*, the cambion warmonger *Arzhang*, and the durzagon artificer *Zdenek*. The fiends did not believe Tenebrae's tale until Malaika's agents returned with proof of Caelum's treachery. With the Archfiends' influence, Tenebrae's allies soon multiplied and collection began of the graphite required to construct the enormous diamond that would become the heart of [Mundi Eversor](lore#mundi-eversor); a great colossus that could match the powers of Caelum Sol Orbis, the aasimar who was to bring forth the [Miasma](lore#the-miasma) in his bid for ascension.
+
+### 0 PO
+
+#### **The Rising**
+
+In a vast cavern deep beneath Discidium, Zdenek was able to refine the graphite into a diamond almost half a mile in diameter. With Eversor's heart complete, Abhishek began a ritual to graft half of Tenebrae's soul onto the diamond. Eversor's skeleton began to grow from the very earth surrounding them. The evacuation of Discidium drew the gaze of Caelum Sol Orbis. In his hubris, he called upon the *Saints* to prematurely begin the ritual to cleanse his mortal body of darkness so that he might ascend to divinity. Flying high above the Oratory, Caelum watched in horror as Mundi Eversor erupted from the ground beneath Discidium. Great chunks of earth crumbled away from Eversor's metallic form and rained down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor began its approach to [Anfang](locations#caelums-landing).
+
+As Eversor took enormous strides towards Anfang, Caelum sent his winged paladins to intercept the colossus. Arzhang took to the skies in defence of the colossus, cutting down many paladins with his flaming blade. Some paladins were able to climb Eversor and discover the diamond heart within, though their efforts to destroy it were in vain. Trapped above the Oratory by his own ritual, Caelum watched as Eversor began to stride across the [Altum Sea](locations#altum-sea), its mechanical legs great enough in size to reach the ocean's depths. Below, the Saints continued to chant, hoping that Caelum might gain the power to strike down Eversor before it arrived.
+
+As Caelum summoned what power he had, a coruscation of light began to surround him. Seeing this, Tenebrae brought Eversor to a halt. Slowed by the ocean, there was no chance of reaching Anfang in time. Arzhang opened the chest of Eversor, revealing the diamond heart within. The heart began to hum and glow with radiant energy as Eversor charged its deadliest weapon. Sensing danger, Caelum tore himself from the ritual and darkness began to spill from his soul.
+
+Wounded, Caelum spread his wings and launched himself towards Eversor. He appeared to those below as a divine spear, sheathed in radiant light yet leaving behind a wake of darkness. The spear pierced Eversor's heart, shattering it. Caelum fled back to Anfang only to discover the resulting shock wave had caused fissures to open up around his home. Caelum returned to the ritual, now spoiled by the Miasma leaking from his broken soul. As Eversor's body fell, [Fundus](lore#fundus) begin to rise. Yet Caelum was more concerned with his ascension. His loyal Saints would continue sapping the Miasma from his soul until the world beyond the pillars was shrouded in darkness. Once the turmoil had subsided, Caelum was nowhere to be found. The world had changed forever.
+
+---
+
+# House Santiago
+
+### Notable Members
+
+- **Giovanni Santiago** 75, head of House Santiago, husband to Juliana, father to five including Rodrigo Santiago (Rachael). Adviser to the queen, amateur cartographer.
+- **Juliana Santiago** 73, husband to Giovanni, formerly of house Lucia. Retired knight and historian
+  - **Alessandra Santiago** 26, student of philosophy
+  - **Rodrigo Santiago** 34, assumed dead, current alias Bantonio Anderas
+  - **Francesca Santiago** 42, diplomat
+  - **Alfonso Santiago** 47, cleric and apothecary with a green thumb
+  - **Isabela Santiago** 49, wife to Alfonso, formerly of House Florencia. Professor of Philosophy at CLU. Collects antiques.
+    - **Elisa Santiago** 23, daughter of Alfonso and Isabela, musician
+    - **Cecilia Santiago** 20, squire under the tutelage of a Diamond Guard
+    - **Rodrigo Santiago II** 17, student
+
+# House Leonardi
+
+### Notable Members
+
+- **Damain Leonardi** 38, husband to Magerite, wizard and head of House Leonardi
+- **Magerite Leonardi** 37, sister to Rodrigo Santiago, poet and astronomer
+  - **Paulo & Frencesco Leonardi** 8, excitable twin brothers, students of acrobatics and martial arts respectively
+
+### Charis Madizos
+
+21, genderfluid, abandoned Firien to find adventure

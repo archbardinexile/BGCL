@@ -10,13 +10,13 @@ title: Characters
 - **Race:** Aasimar, Female
 - **Class:** Paladin (Oath of Redemption)
 - **Background:** Exarch, Prefect of Caelum's Landing
-- **Born:** [964 PO](timeline#964-po), [Caelum's Landing](locations#caelums-landing)
+- **Born:** [964 PO](timeline#964-po), [Caelum's Landing](locations/profundus#caelums-landing)
 
-Aura Sol Orbis was born on the 14th day of Viridis in the [Oratory](locations#the-oratory) on Caelum's Landing. As the first of *Ardeat Sol Orbis*' four children, much of her upbringing was focused on preparing her for the day she would inevitably take over as *Exarch*. Though she shared a close relationship with her father, her politics would grow apart from his as she watched him champion the Church's expansionist practices and perpetuate the *Medusae Wars* until [983 PO](timeline#983-po).
+Aura Sol Orbis was born on the 14th day of Viridis in the [Oratory](locations/profundus#the-oratory) on Caelum's Landing. As the first of *Ardeat Sol Orbis*' four children, much of her upbringing was focused on preparing her for the day she would inevitably take over as *Exarch*. Though she shared a close relationship with her father, her politics would grow apart from his as she watched him champion the Church's expansionist practices and perpetuate the *Medusae Wars* until [983 PO](timeline#983-po).
 
 Aura has warm-tinted brown skin and solid white eyes much like her father, and sports a long afro gathered into a high ponytail. She and her siblings bare the silver Sol Orbis halo on their foreheads. Those who are granted audience with Aura see her as a kind and understanding soul, while those closest to her know her to be solemn and somewhat lonesome.
 
-Following the natural death of her father, Aura was heralded as the new Exarch in a grand coronation on the 11th day of Flavum, [986 PO](timeline#986-po). Accepting her crown, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](#spiro-sol-orbis), Grand Paladin and Prefect of [Ingenium](locations#ingenium), her sibling, [Sana](#sana-sol-orbis), Prefect of [Madanau](locations#madanau) and her sister [Clara](#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations#tenebraes-refuge).
+Following the natural death of her father, Aura was heralded as the new Exarch in a grand coronation on the 11th day of Flavum, [986 PO](timeline#986-po). Accepting her crown, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](#spiro-sol-orbis), Grand Paladin and Prefect of [Ingenium](locations/profundus#ingenium), her sibling, [Sana](#sana-sol-orbis), Prefect of [Madanau](locations/montanum#madanau) and her sister [Clara](#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations/profundus#tenebraes-refuge).
 
 ### Spiro Sol Orbis
 
