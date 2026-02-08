@@ -3,7 +3,7 @@ layout: page
 title: Stat Blocks
 ---
 
-#### **Bhaldrom Anchorheart**
+## **Bhaldrom Anchorheart**
 
 *Medium Humanoid (Human), Chaotic Evil*
 
@@ -31,16 +31,16 @@ title: Stat Blocks
 - 5th level (2 slots): call lightning, sleet storm
 - 7th level (1 slot): control water, ice storm
 
-##### Actions
+### Actions
 
 ***Multiattack.*** Bhaldrom Anchorheart makes two melee attacks.  
 ***+3 Tempest Warhammer.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 1d8 + 8 bludgeoning damage plus 4d8 cold damage.  
 
-##### Reactions
+### Reactions
 
 ***Shape Up, Ye Dog (2/Day).*** Whenever a friendly creature within 30 feet of the captain that can hear it misses with an attack, the captain can yell perilous threats to allow that creature to re-roll the attack roll.
 
-##### Legendary Actions
+### Legendary Actions
 
 Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Bhaldrom Anchorheart regains spent legendary actions at the start of its turn.
 
@@ -49,7 +49,7 @@ Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options bel
 
 ---
 
-#### **Faust**
+## **Faust**
 
 *Medium Humanoid (Aasimar), Neutral Good*
 
@@ -73,12 +73,52 @@ Bhaldrom Anchorheart can take 3 legendary actions, choosing from the options bel
 Each of these effects has a spell save DC of 15 and a duration of 1 minute.  
 ***Flyby.*** Faust doesn't provoke an opportunity attack when he flies out of an enemy's reach.
 
-##### Actions
+### Actions
 
 ***Multiattack.*** Faust makes two shortsword attacks or one shortsword and one hand crossbow attack  
 ***Shortsword +2.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d6 + 6 piercing damage  
 ***Hand Crossbow +1.*** *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:* 1d6 + 5 piercing damage  
 
-##### Reactions
+### Reactions
 
 ***Parry.*** Faust adds 3 to his AC against one melee attack that would hit him. To do so, Faust must see the attacker and be wielding a melee weapon.
+
+---
+
+## **Agnes Briar-Colton**
+
+*Medium Humanoid, Lawful Neutral*
+
+- **Armour Class** 15 (*chain shirt*)
+- **Hit Points** 54
+- **Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 16 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 18 (+4) |
+
+- **Saving Throws** Dex +6, Wis +4
+- **Skills** Acrobatics +6, Perception +7, Performance +7
+- **Senses** passive Perception 17
+- **Languages** any two languages
+- **Proficiency Bonus** +3
+
+**Teaching Method.** When a creature within 60 feet of Agnes rolls a Bardic Inspiration die:
+- if the number rolled is a 1, it can re-roll the die and must use the new roll
+- to add to its attack roll, if the number rolled is the highest possible, that attack becomes a critical hit
+- to add to an ability check, its proficiency bonus is doubled for that ability check provided she is also proficient in the required skill
+- to add to a saving throw, it has advantage on that saving throw.
+
+### Actions
+
+***Multiattack.*** Agnes makes two Shortsword or Shortbow attacks. She can replace one attack with a use of Spellcasting.  
+***Shortsword.*** *Melee Weapon Attack:*  +6 to hit, reach 5 ft., one target. *Hit:* 1d6 + 3 piercing damage.  
+***Shortbow.*** *Ranged Weapon Attack:*  +6 to hit, range 80/320 ft., one target. *Hit:* 1d6 + 3 piercing damage.  
+***Cacophony (Recharge 4–6).*** Each creature in a 15-foot cube originating from Agnes must make a DC 15 Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed up to 10 feet away from Agnes. On a successful save, a creature takes half as much damage and isn't pushed.  
+***Spellcasting.*** Agnes casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15):  
+At will: *dancing lights*, *mage hand*, *prestidigitation*  
+1/day each: *charm person*, *invisibility*, *sleep*  
+
+### Bonus Actions
+
+***Taunt (2/Day).*** Agnes targets one creature within 30 feet of it. If the target can hear Agnes, the target must succeed on a DC 15 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of Agnes's next turn.

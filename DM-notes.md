@@ -5,24 +5,28 @@ title: Dungeon Master's Notes
 
 ## **Manyshells**
 
-The destruction of the venom was ordered by Queen *Vasilissa*, in league with *Anchorheart*. The queen gave him a magical weapon to help him bind an Elder Tempest to his ship, the *Umberlee's Wrath*. It can shroud his fleet in fog.
+The destruction of the venom was ordered by Queen *Vasilissa*, in league with *Anchorheart*. Mallian soldiers caught Anchorheart trying to retrieve the *Tempest Warhammer* from their territory.
 
-Anchorheart ordered **Guy** to retrieve the triple-barrelled gemlock rifle from Caelum's Landing, having made a deal with Queen *Vasilissa*. With gemlock weapons, the Mallians can invade the Manyshells and destroy the CSCA. The queen has promised Anchorheart territory.
+Vasilissa allowed him to keep the warhammer in exchange for a gemlock rifle. Anchorheart ordered **Guy** to retrieve the triple-barrelled gemlock rifle from Caelum's Landing.
+
+Anchorheart used the warhammer to bind an Elder Tempest to his ship, the *Umberlee's Wrath*. It allows the ship to teleport and can shroud his fleet in fog.
 
 The *Crosscut Circle* have allied with the *githzechi* to construct the submarine. Anchorheart wants to add the submarine to his fleet and equip it with gemlock weapons.
 
 ### The Siege of Farwest
 
-The Crosscut Circle are supported by ***3 githzechi ships***. The submarine has been moved to *Pedn Vounder* using a catamaran. The submarine will be seaworthy on ***Flavum 12th***, allowing *Vetra* to escape underwater.
+The Crosscut Circle are supported by ***3 githzechi ships***.
 
-Traps have been laid at the submarine's previous location. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
+Traps have been laid at *Serpent's Creek*. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
 
-The Wrath's crew is composed of **Pirates*** with hit points 44–68. *ABC* is aboard the Wrath posing as a powder monkey. She can sabotage its weapons if Anchorheart tries to bombard *Farwest*.
+*ABC* has sabotaged the Wrath's gunpowder supply.
 
-Anchorheart must make an ***intimidation check (DC 15 with pain symbol)*** to successfully interrogate the githzechi. They have not been told the new location of the submarine. Anchorheart may use the githzechi's sending stone.
-- ***If no traps are revealed***, Anchorheart will send 2 small ships to pursue the *Lady Firehair* into *Farwest*.
-- ***If traps are revealed***, Anchorheart will send ***Yuan-Ti Malison*** and ***Triton Shorestalkers*** to investigate. One of the Shorestalkers carries a scrying orb.
-  - ***If Guy is spotted***, Anchorheart will cast sending and torture *Rose* unless Guy reveals the submarine's location.
+The Wrath's crew is composed of **Pirates*** with hit points 44–68.
+
+Anchorheart will throw the sending stone to his first officer to take the call. *Laslow* will report the scouts are under attack and submarine is missing. Guy cannot deceive Anchorheart.
+
+***If Guy refuses*** to hand over the gun and reveal the true location of the submarine: Anchorheart will threaten to torture Rose with a *Symbol*.
+- ABC will counter the symbol and reveal herself. Anchorheart's pistol will fail due to damp powder and ABC will ignite the powder kegs, beginning initiative.
 
 - *Durzus*' 8 ships will arrive on 11th-12th
 - *Elyse*'s airship will arrive 12th-13th
