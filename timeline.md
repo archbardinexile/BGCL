@@ -41,7 +41,7 @@ Caelum Sol Orbis is born an aasimar from human parentage on the 24th day of Asce
 
 #### **The Rising**
 
-In a bid for power, the fiend Tenebrae conducts a ritual to grow the skeleton of a colossal war machine from the very earth beneath [Discidium](locations/discidium). Flying high above the *Oratory*, Caelum watches in horror as Mundi Eversor erupts from the ground of the neighbouring region. So great is the colossus in size that it seems to rise from the horizon as it approaches. Great chunks of earth crumble away from Eversor's metallic form and rain down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor begins its approach to Anfang. As Eversor takes enormous strides towards Anfang, Caelum soars across the [Altum Sea](locations/profundus#altum-sea) alongside his winged paladins to intercept the colossus.
+In a bid for power, the fiend Tenebrae conducts a ritual to grow the skeleton of a colossal war machine from the very earth beneath [Discidium](locations/discidium). Flying high above the *Oratory*, Caelum watches in horror as Mundi Eversor erupts from the ground of the neighbouring region. So great is the colossus in size that it seems to rise from the horizon as it approaches. Great chunks of earth crumble away from Eversor's metallic form and rain down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor begins its approach to Anfang. As Eversor takes enormous strides toward Anfang, Caelum soars across the [Altum Sea](locations/profundus#altum-sea) alongside his winged paladins to intercept the colossus.
 
 Returning to the site where his statue now stands, mortally wounded, Caelum gives his last breath to inspire his people. His people's faith renews his body and, engulfed in a radiant inferno, Caelum ascends to deliver a final blow to Eversor. The [resonance engine](lore#resonance-engines) within Eversor explodes, releasing the [Miasma](lore#the-miasma) from its corpse. The resulting magical shock wave enchants the deposits of [resonite](lore#resonance-engines) in the earth and the [earthmotes](lore#earthmotes) begin to rise. As a fissure opens up around Caelum's city, he stands at its centre and raises his wings. A mighty golden shield grows around the city, holding back the Miasma as [Fundus](locations/profundus#fundus) rises into the sky.
 
@@ -223,7 +223,7 @@ The sprawling brass metropolis of [Ingenium](locations/profundus#ingenium) appea
 
 ### 756 PO
 
-#### **Ingenium is propelled towards Fundus**
+#### **Ingenium is propelled toward Fundus**
 
 [Artifex Calligo](characters#artifex-calligo), Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations/profundus#the-innermotes).
 

@@ -100,7 +100,7 @@ A millennium of living in such isolated conditions has inspired a wealth of tech
 
 ### Resonance Engines
 
-Perhaps chief among the nascent technologies developed since the Rising is the resonance engine, invented by [Artifex Calligo](characters#artifex-calligo) in [756 PO](timeline#756-po) to propel [Ingenium](locations/profundus#ingenium) towards Fundus. Resonance engines use the magical properties of *resonite*, a lustrous, dark purple ore found in the [Resonant Mines](locations/profundus#resonant-mines), to create kinetic energy. The ore is capable of exerting magical pressures on its surroundings, making it difficult to cast magic in close proximity to rich deposits.
+Perhaps chief among the nascent technologies developed since the Rising is the resonance engine, invented by [Artifex Calligo](characters#artifex-calligo) in [756 PO](timeline#756-po) to propel [Ingenium](locations/profundus#ingenium) toward Fundus. Resonance engines use the magical properties of *resonite*, a lustrous, dark purple ore found in the [Resonant Mines](locations/profundus#resonant-mines), to create kinetic energy. The ore is capable of exerting magical pressures on its surroundings, making it difficult to cast magic in close proximity to rich deposits.
 
 The ore can be refined into *resonance gems*. Much like how the similar poles of two magnets repel, the magical pressures of two resonance gems forced together can create motion. Resonance engines are used in machines such as automobiles, aircraft, power generators and even rail guns. Some have even theorised that the heart used to power Mundi Eversor was a prototype resonance engine on a colossal scale. As such, the trade of the mineral is strictly regulated.
 
