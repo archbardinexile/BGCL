@@ -5,38 +5,25 @@ title: Dungeon Master's Notes
 
 ## **Manyshells**
 
-The destruction of the venom was ordered by Queen *Vasilissa*, in league with *Anchorheart*. Mallian soldiers caught Anchorheart trying to retrieve the *Tempest Warhammer* from their territory.
-
-Vasilissa allowed him to keep the warhammer in exchange for a gemlock rifle. Anchorheart ordered **Guy** to retrieve the triple-barrelled gemlock rifle from Caelum's Landing.
-
-Anchorheart used the warhammer to bind an Elder Tempest to his ship, the *Umberlee's Wrath*. It allows the ship to teleport and can shroud his fleet in fog.
-
-The *Crosscut Circle* have allied with the *githzechi* to construct the submarine. Anchorheart wants to add the submarine to his fleet and equip it with gemlock weapons.
-
 ### The Siege of Farwest
 
-The Crosscut Circle are supported by ***3 githzechi ships***.
+The *Crosscut Circle* are supported by ***3 githzechi ships***. Traps have been laid at *Serpent's Creek*. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
 
-Traps have been laid at *Serpent's Creek*. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
+*Anchorheart*'s ships were unable to capture the catamaran before it entered *Farwest*. The githzechi ships will drive them away. Anchorheart's ships will move east to begin bombardment of *Pedn Vounder*. A ***hit (AC 20)*** will create falling rocks.
 
-*ABC* has sabotaged the Wrath's gunpowder supply.
+The **Six of Steel** may evade falling rocks ***DEX save (DC 18) damage 6d6*** or hide in the adamantine fortress ***damage 3d6 halved***. Anchorheart may try to persuade **Guy** to give himself up.
 
-The Wrath's crew is composed of **Pirates*** with hit points 44–68.
-
-Anchorheart will throw the sending stone to his first officer to take the call. *Laslow* will report the scouts are under attack and submarine is missing. Guy cannot deceive Anchorheart.
-
-***If Guy refuses*** to hand over the gun and reveal the true location of the submarine: Anchorheart will threaten to torture Rose with a *Symbol*.
-- ABC will counter the symbol and reveal herself. Anchorheart's pistol will fail due to damp powder and ABC will ignite the powder kegs, beginning initiative.
-
-- *Durzus*' 8 ships will arrive on 11th-12th
-- *Elyse*'s airship will arrive 12th-13th
-- *Elyse*'s ships will arrive on 16th-17th
+*Durzus*' 8 ships and *Elyse*'s airship will arrive at sunrise. They will face Anchorheart's 7 ships. The *Umberlee's Wrath* is disabled and may be retrieved once abandoned. Anchorheart will cast sending to Guy before fleeing. Anchorheart's ships will retreat.
 
 ---
 
 ### Project Abyss
 
-*Naal* and *Vetra* want to recover the body of Tenebrae (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They intend to conduct a ritual to revive him and prove that Caelum created the Miasma. The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae, lest they break their oath.
+The submarine successfully fled to *Arx* where the *Crosscut Circle* intend to meet the **Six of Steel**. The submarine needs several days worth of repairs. The Six of Steel may find materials in Arx.
+
+*Naal* and *Vetra* want to recover the body of *Tenebrae* (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They intend to conduct a ritual to revive him and prove that *Caelum* created the Miasma.
+
+The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae unless they have the Crosscut Circle take the same oath.
 
 ---
 
