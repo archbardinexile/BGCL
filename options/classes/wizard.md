@@ -9,7 +9,7 @@ title: Wizard—Lapidurgy
 
 ### Lapidurgy
 
-A lapidurge studies and shapes gemstones in great detail in order to achieve magical effects. The practice originated in Atada, where sparkling mineral deposits gave rise to the formidable *Diamond Guard*, who use gemstones to conjure radiant staves in defence of their queen.
+A lapidurge studies and shapes gemstones in great detail in order to achieve magical effects. The practice originated in Atada, where sparkling mineral deposits gave rise to the formidable [Diamond Guard](../../factions/house-of-diamante#diamond-guard), who use gemstones to conjure radiant staves in defence of their queen.
 
 #### **Gem Magic**
 

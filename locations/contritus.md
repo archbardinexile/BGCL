@@ -7,7 +7,9 @@ Contritus, the easternmost region, is broken by the far-reaching archipelagos of
 
 ### Gwerdowra
 
-When the archipelagos to the far east protested against oppressive CSCA trade influence, the islands of Gwerdowra banded together to form a coalition government with *Anchora* as its capital. Having thwarted the CSCA's expansion, their nascent military, the [Free Trade Navy](../factions#free-trade-navy), now police the eastern seas.
+When the archipelagos to the far east protested against oppressive CSCA trade influence, the islands of Gwerdowra banded together to form a coalition government with [Anchora](#anchora) as its capital. Having thwarted the CSCA's expansion, their nascent military, the [Free Trade Navy](../factions#free-trade-navy), now police the eastern seas.
+
+#### **Anchora**
 
 ### The Manyshells
 

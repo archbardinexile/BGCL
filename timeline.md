@@ -35,7 +35,7 @@ Caelum Sol Orbis is born an aasimar from human parentage on the 24th day of Asce
 
 #### **Prima Vita Sol Orbis is born**
 
-*Prima Vita Sol Orbis* is born on the 4th day of Niveus; Caelum's first and only child. Named *First Life* by her father, she would become the progenitor of more than thirty generations of the Sol Orbis family following Caelum's ascension. Aasimar descended from Caelum would bear his distinctive silver halo on their foreheads. This would become the symbol for the [Church of Caelum](factions#church-of-caelum).
+*Prima Vita Sol Orbis* is born on the 4th day of Niveus; Caelum's first and only child. Named *First Life* by her father, she would become the progenitor of more than thirty generations of the Sol Orbis family following Caelum's ascension. Aasimar descended from Caelum would bear his distinctive silver halo on their foreheads. This would become the symbol for the [Church of Caelum](factions/church-of-caelum).
 
 ### 0 AO
 
@@ -101,7 +101,7 @@ Alberich Geboren, husband to Prima Vita, dies aged 75.
 
 #### **Nox arrives in Fio**
 
-The earthmote [Nox](locations/glacialis#nox) first appears high in the sky skew-north of Fundus in a ring of aurora. The silver dragon [Nox](characters#nox), who had gifted the wintry earthmote his namesake, flies down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returns home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
+The earthmote [Nox](locations/glacialis#nox) first appears high in the sky skew-north of Fundus in a ring of aurora. The silver dragon *Nox*, who had gifted the wintry earthmote his namesake, flies down to Caelum's Landing in search of help, only to be met by the nascent Church's zealotry. Embittered, Nox returns home intent on securing the future of his people; ensuring they could live self-reliant lives in isolation.
 
 ### 111 PO
 
@@ -145,7 +145,7 @@ Cor is anointed Exarch by the people of Caelum's Landing. The young aasimar appo
 
 #### **Madanau arrives in Fio**
 
-The desert oasis [Madanau](locations/montanum#madanau) appears erde-west of Fundus in a whirlwind of sand. Initially submerged in the Miasma, the enormous emerald dragon, [Vulcan](characters#vulcan), emerges from his dormancy to push Madanau beyond the barrier with his hurricane-like breath. Few denizens of Madanau see the dragon before he returns to his slumber beneath [Montanum](locations/montanum), but those that did have passed on the tale for generations. Cor Sol Orbis chooses to send aid to Madanau but is met with adversity.
+The desert oasis [Madanau](locations/montanum#madanau) appears erde-west of Fundus in a whirlwind of sand. Initially submerged in the Miasma, the enormous emerald dragon, *Vulcan*, emerges from his dormancy to push Madanau beyond the barrier with his hurricane-like breath. Few denizens of Madanau see the dragon before he returns to his slumber beneath [Montanum](locations/montanum), but those that did have passed on the tale for generations. Cor Sol Orbis chooses to send aid to Madanau but is met with adversity.
 
 #### **Lydia Iremia journeys to Caelum's Landing**
 
@@ -207,7 +207,7 @@ Facing increasing resistance as support for Vigil grows across the Republic's te
 
 #### **The First Vigil Dynasty begins**
 
-Auga Vigil assumes the role of Exarch after some encouragement from their peers, given their blood relation to the Sol Orbis family. A new Vigil dynasty would begin while Frey would take on the new role of *Chairman* at the [Ministry](factions#the-ministry).
+Auga Vigil assumes the role of Exarch after some encouragement from their peers, given their blood relation to the Sol Orbis family. A new Vigil dynasty would begin while Frey would take on the new role of *Chairman* at the [Ministry](factions/church-of-caelum#the-ministry).
 
 ### 617 PO
 
@@ -225,7 +225,7 @@ The sprawling brass metropolis of [Ingenium](locations/profundus#ingenium) appea
 
 #### **Ingenium is propelled toward Fundus**
 
-[Artifex Calligo](characters#artifex-calligo), Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations/profundus#the-innermotes).
+*Artifex Calligo*, Ingenium's prime minister, reaches an agreement with *Manus Sol Orbis*, the Exarch, and with the help of the monks of the [Spirit Temple](factions/the-commission#spirit-temple), the earthmote Ingenium is moved alongside Fundus' north-eastern shore. The agreement leads to advances in resonance engines, airships, street lighting and the establishment of the *Calligo Way*, a network of cable cars providing convenient travel between the [Innermotes](locations/profundus#the-innermotes).
 
 ### 768 PO
 
@@ -235,13 +235,13 @@ The sprawling brass metropolis of [Ingenium](locations/profundus#ingenium) appea
 
 #### **The Commission is founded**
 
-The [Commission](factions#the-commission) for the Research of Offshore Worlds, affectionately called the Crows or simply the Commission, is founded by [Glimback Toestubber](characters#glimback-toestubber) in 899 PO. Originally known as the *Explorer's Guild*, the Crows secures government funding in 923 PO when approached by *Ardeat Sol Orbis* to begin prospecting new earthmotes for colonisation. Though in the employ of the government, the Crows continue to work independently, conducting research into the Miasma and the curious beasts that reside within.
+The [Commission](factions/the-commission) for the Research of Offshore Worlds, affectionately called the Crows or simply the Commission, is founded by [Glimback Toestubber](factions/the-commission#glimback-toestubber) in 899 PO. Originally known as the *Explorer's Guild*, the Crows secures government funding in 923 PO when approached by *Ardeat Sol Orbis* to begin prospecting new earthmotes for colonisation. Though in the employ of the government, the Crows continue to work independently, conducting research into the Miasma and the curious beasts that reside within.
 
 ### 964 PO
 
 #### **Aura Sol Orbis is born**
 
-[Aura Sol Orbis](characters#aura-sol-orbis) is born unto Ardeat Sol Orbis and his first wife on the 14th day of Viridis in the Oratory on Caelum's Landing. Much of her upbringing is focused on preparing her for the day she would inevitably take over as Exarch. Though she shares a close relationship with her father, her politics would grow apart from his as she watches him perpetuate the *Medusae Wars* and the Church's expansionist practices.
+[Aura Sol Orbis](factions/church-of-caelum#aura-sol-orbis) is born unto Ardeat Sol Orbis and his first wife on the 14th day of Viridis in the Oratory on Caelum's Landing. Much of her upbringing is focused on preparing her for the day she would inevitably take over as Exarch. Though she shares a close relationship with her father, her politics would grow apart from his as she watches him perpetuate the *Medusae Wars* and the Church's expansionist practices.
 
 ### 966 PO
 
@@ -259,7 +259,7 @@ The [Commission](factions#the-commission) for the Research of Offshore Worlds, a
 
 #### **The Medusae Wars begin**
 
-The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations/contritus#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *medusae*, the warriors of the Mallian queen, [Vasilissa](characters#vasilissa), capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
+The gargantuan jungle earthmote, known to its inhabitants as [Mallia](locations/contritus#mallia), erupts from the seas erde-south-east of Fundus. The Church sends an expeditionary force to Mallia to ascertain its eligibility for colonisation. The expedition is met by a tribe of "Reptilian people with snakes for hair." These were *medusae*, the warriors of the Mallian queen, *Vasilissa*, capable of turning those who meet their gaze to stone. The expedition is quickly routed, but despite this, further expeditions into the queen's territory succeed in establishing trade routes with the estranged peoples of Mallia. The queen takes exception to this and declares war on the Church.
 
 ### 977 PO
 
@@ -283,7 +283,7 @@ Many wrecks of Church gliders and Mallian flagellates can be found on the seabed
 
 #### **Aura Sol Orbis becomes Exarch**
 
-Following the death of her father, Ardeat Sol Orbis, Aura Sol Orbis is anointed the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura takes an oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](characters#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](characters#sana-sol-orbis), Prefect of Madanau and her sister [Clara](characters#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations/profundus#tenebraes-refuge).
+Following the death of her father, Ardeat Sol Orbis, Aura Sol Orbis is anointed the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown at only 22 years of age, Aura takes an oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro](factions/church-of-caelum#spiro-sol-orbis), Grand Paladin and Prefect of Ingenium, her sibling, [Sana](factions/church-of-caelum#sana-sol-orbis), Prefect of Madanau and her sister [Clara](factions/church-of-caelum#clara-sol-orbis), Prefect of [Tenebrae's Refuge](locations/profundus#tenebraes-refuge).
 
 ### 990 PO
 
@@ -301,7 +301,7 @@ Creed's Hollow emerges from the Miasma in a ring of hellfire. The earthmote flie
 
 An earthmote of deteriorated black rock emerges from the Miasma to the west as if torn from *Avernus* and thrown by *Zariel* herself. The earthmote casts a menacing shadow over Madanau, raining down ash and bloodthirsty fiends. The citizens of Madanau are quickly rushed to shelters while clerics from the Church fight back the imp invaders. Monks from the Spirit Temple are dispatched to arrest the rogue earthmote as it passes over Madanau. Flying their gliders in a circular formation, the monks produce a magical golden shield that dwarfs the earthmote in size. The monks are able to arrest and stabilise the earthmote, but not before a shard of hellish rock skewers the oasis at Madanau's centre like a stake through its heart.
 
-Though the imps are defeated and Madanau saved, the oasis' source, a portal to the elemental plane of water, remains damaged to this day. Blights of tainted water and spoiled fish lead many of Madanau's citizens to leave and seek refuge on Caelum's Landing. Despite this, those who choose to remain have developed an unparalleled community and work ethic. With help from the [Dawnroot druids](factions#dawnroot-druids), the citizens of the ancient desert earthmote are able to stabilise the portal and develop measures to prevent or mitigate future blights.
+Though the imps are defeated and Madanau saved, the oasis' source, a portal to the elemental plane of water, remains damaged to this day. Blights of tainted water and spoiled fish lead many of Madanau's citizens to leave and seek refuge on Caelum's Landing. Despite this, those who choose to remain have developed an unparalleled community and work ethic. With help from the [Dawnroot druids](factions/the-commission#dawnroot-druids), the citizens of the ancient desert earthmote are able to stabilise the portal and develop measures to prevent or mitigate future blights.
 
 ---
 

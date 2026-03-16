@@ -127,29 +127,86 @@ Wounded, Caelum spread his wings and launched himself toward Eversor. He appeare
 
 ---
 
-# House Santiago
+---
 
-### Notable Members
+## **Firien Madizos**
 
-- **Giovanni Santiago** 75, head of House Santiago, husband to Juliana, father to five including Rodrigo Santiago (Rachael). Adviser to the queen, amateur cartographer.
-- **Juliana Santiago** 73, husband to Giovanni, formerly of house Lucia. Retired knight and historian
-  - **Alessandra Santiago** 26, student of philosophy
-  - **Rodrigo Santiago** 34, assumed dead, current alias Bantonio Anderas
-  - **Francesca Santiago** 42, diplomat
-  - **Alfonso Santiago** 47, cleric and apothecary with a green thumb
-  - **Isabela Santiago** 49, wife to Alfonso, formerly of House Florencia. Professor of Philosophy at CLU. Collects antiques.
-    - **Elisa Santiago** 23, daughter of Alfonso and Isabela, musician
-    - **Cecilia Santiago** 20, squire under the tutelage of a Diamond Guard
-    - **Rodrigo Santiago II** 17, student
+### Bixi Madizos
 
-# House Leonardi
+Mother to Firien, genius wizard and former adventurer
 
-### Notable Members
+### Lorento Madizos
 
-- **Damain Leonardi** 38, husband to Magerite, wizard and head of House Leonardi
-- **Magerite Leonardi** 37, sister to Rodrigo Santiago, poet and astronomer
-  - **Paulo & Frencesco Leonardi** 8, excitable twin brothers, students of acrobatics and martial arts respectively
+Father to Firien, former adventurer
 
 ### Charis Madizos
 
 21, genderfluid, abandoned Firien to find adventure
+
+### Lenna Madizos
+
+Firien's older sister, cleric of Caelum
+
+### Zaen Madizos
+
+16-year-old archaeology apprentice
+
+### Kudi Madizos
+
+10-year-old studying mathematician and wizard
+
+---
+
+## **Gomruss Yardos Bandorul**
+
+### Jaagins Maxal Bandorul
+
+Father to Gomruss
+
+### Roolu Fommis Bandorul
+
+Mother to Gomruss
+
+### Roshia Cralee
+
+Sea-elf graviturge, Gomruss' old mentor
+
+---
+
+## **Guy Brush**
+
+### Agnes Briar-Colton
+
+College of Retainers bard, Guy's former nanny.
+
+### Elyse Trelawney
+
+Anti-pirate captain. Guy Brush's ex-wife.
+
+### Bhaldrom Anchorheart
+
+Seafaring mercenary in service to Umberlee. Guy Brush's Captain.
+
+### Rose Merryn
+
+Shopkeeper and occasional Threepwood crewmember.
+
+### Tress Combe
+
+Guy's younger sister, heir to the Combe estate.
+
+---
+
+## **Dragons**
+
+### Nox
+
+Reclusive silver dragon of Nox.
+
+### Aequor
+
+Giant chromatic wandering sea-dragon of Contritus. Seahorse-like features.
+
+### Vulcan
+
+Giant mountain-like dragon asleep under Montanum.

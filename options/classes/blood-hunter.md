@@ -9,7 +9,7 @@ title: Blood Hunter—Order of the Lantern
 
 ### Order of the Lantern
 
-The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](lore#the-miasma). They have strong ties with the [Commission](factions#the-commission). Given the nature of your tainted blood, your DM may ask for a Constitution saving throw any time you take necrotic damage when invoking a blood curse or crimson rite. On a failed save, your level of [*psychosis*](rules#psychosis) may increase.
+The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [Miasma](../../lore#the-miasma). They have strong ties with the [Commission](../../factions/the-commission). Given the nature of your tainted blood, your DM may ask for a Constitution saving throw any time you take necrotic damage when invoking a blood curse or crimson rite. On a failed save, your level of [*psychosis*](../../rules#psychosis) may increase.
 
 #### **Rite of the Dusk**
 

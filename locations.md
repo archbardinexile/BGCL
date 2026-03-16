@@ -49,6 +49,7 @@ title: Locations
 ## [**Contritus**](locations/contritus)
 
 - [Gwerdowra](locations/contritus#gwerdowra)
+  - [Anchora](locations/contritus#anchora)
 - [The Manyshells](locations/contritus#the-manyshells)
   - [Libertalia](locations/contritus#libertalia)
 - [Mallia](locations/contritus#mallia)
