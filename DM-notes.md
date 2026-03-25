@@ -3,54 +3,54 @@ layout: page
 title: Dungeon Master's Notes
 ---
 
-## **Manyshells**
+### I Know a Guy
 
-### The Siege of Farwest
-
-The *Crosscut Circle* are supported by ***3 githzechi ships***. Traps have been laid at *Serpent's Creek*. Underwater spikes are ***difficult terrain*** and may ***damage (AC 15)*** or ***restrain (DC 10)*** ships. ***4d4*** piercing damage per spike (1d6).
-
-*Anchorheart*'s ships were unable to capture the catamaran before it entered *Farwest*. The githzechi ships will drive them away. Anchorheart's ships will move east to begin bombardment of *Pedn Vounder*. A ***hit (AC 20)*** will create falling rocks.
-
-The **Six of Steel** may evade falling rocks ***DEX save (DC 18) damage 6d6*** or hide in the adamantine fortress ***damage 3d6 halved***. Anchorheart may try to persuade **Guy** to give himself up.
-
-*Durzus*' 8 ships and *Elyse*'s airship will arrive at sunrise. They will face Anchorheart's 7 ships. The *Umberlee's Wrath* is disabled and may be retrieved once abandoned. Anchorheart will cast sending to Guy before fleeing. Anchorheart's ships will retreat.
-
----
-
-### Project Abyss
-
-The submarine successfully fled to *Arx* where the *Crosscut Circle* intend to meet the **Six of Steel**. The submarine needs several days worth of repairs. The Six of Steel may find materials in Arx.
-
-*Naal* and *Vetra* want to recover the body of *Tenebrae* (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They intend to conduct a ritual to revive him and prove that *Caelum* created the Miasma.
-
-The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae unless they have the Crosscut Circle take the same oath.
-
----
-
-## **Plane of Mirrors**
-
-### Confront River Chapman
-
-> Tymora's emissary, *Chance*, has been trapped in a mirror by *River Chapman*, who is using her luck to influence his business and income. Chance recruits Gomruss to help her escape.
-
-Lighting the candles creates a portal to a corridor of mirrors presenting infinite destinations. The Six of Steel may have to fight their duplicates to continue.
-
-- The Arx expedition can be seen trapped in a sandstone maze demiplane.
-  - Six of Steel must guide them out while battling mirror mephits.
-  - Darkhalijz, the spirit cloak worn by Xander Coppermane, tells how the staff from his collection banishes enemies to the mirror plane. To escape they must find and destroy it.
-- Chance can be seen trapped in a giant hourglass on an infinite chequerboard.
-
-River Chapman will trap the party in his game room, an infinite chequerboard demiplane. Chance is trapped in a giant hourglass. To escape, the Six of Steel must defeat dark and light monsters and shatter the hourglass before time runs out. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
+- **Guy** must decide whether to stay with the *Six of Steel* or join *Elyse* aboard the *Aubrey*.
+- **Firien** intends to summon the remaining *Feywild Ones* to *Arx* to take the oath.
+- *Roshia* will summon **Gomruss** to *Os Terrae* to help rescue Doctor *Gurdeep Darshan*'s expedition.
 
 ---
 
 ## **Arx**
 
-### Unearth the Tomb
+### Project Abyss
 
-> *Gurdeep Darshan*, the representative from the *Arx Institute of Archaeology* offered work clearing out a buried tomb in *Os Terrae*. Darshan's first expedition became lost in the plane of mirrors, the party must rescue them. The tomb contains undead. The throne room houses a staff that can open portals to the plane of mirrors.
+> The submarine escaped to *Arx* where the *Crosscut Circle* now await the *Six of Steel*. It will take several days to repair the submarine and make it under-seaworthy. The party may find materials in Arx.
 
-The party may discover a leopard-skin cloak inhabited by the spirit of a tabaxi thief king, *Darkhalijz*, who made a deal for immortality with *Abishek*. Trapped beneath a mountain of his own gold, his resurrections became a never-ending cycle, earning him a half-life as a cloak.
+*Naal* and *Vetra* intend to recover the body of *Tenebrae* (*Arzhang*) from *Mundi Eversor* in the *Vena Trench*. They plan to conduct a ritual to revive him and prove that *Caelum* created the Miasma.
+
+The Six of Steel cannot reveal that the body inside Mundi Eversor is not Tenebrae unless the Crosscut Circle take the oath.
+
+### Chapman's House of Mirrors
+
+> Tymora's emissary, *Chance*, has been trapped in the mirror plane by *River Chapman*, who is using her luck to influence his business and income. Chance has recruited **Gomruss** to help her escape.
+
+> Doctor *Gurdeep Darshan*'s expedition into the *Tomb of Darkhalijz* became trapped in the mirror plane when they disturbed the ancient tabaxi's banishing staff. *Roshia* has summoned Gomruss to help.
+
+- Gomruss must return Roshia's pocket watch to restore her memory of the Inquisition's attack on the druids.
+  - The pocket watch shows that Gomruss is missing memories but its magic cannot restore them—he has blocked the memories himself.
+
+The Six of Steel may enter the mirror plane by finding the staff in the *Tomb of Darkhalijz*, or by lighting a candle of invocation. Mirror mephits may attack while traversing the tomb or the *Corridor*.
+
+The party may discover a skeleton wearing a leopard-skin cloak. The cloak is inhabited by the spirit of the tabaxi thief king, *Darkhalijz*, who made a deal for immortality with *Abishek*. Trapped beneath a mountain of his own gold, his resurrections became a never-ending cycle, earning him a half-life as a cloak.
+
+Each member of the Arx expedition is trapped in a separate mirrored location which can be accessed by entering one of the Corridor's infinite mirrors. Each location will unlock a piece of Gomruss' missing memory.
+
+The final mirror leads to River Chapman's infinite chequerboard demiplane. Chance can be found trapped in a giant hourglass. The Six of Steel must battle their duplicates to escape. Releasing Chance breaks River Chapman's contract with *Malaika*, the alu-fiend who granted him the power to trap Chance.
+
+### The Life and Times of Gomruss Yardos Bandorul
+
+986 PO Gomruss (23) enrols in Caelum's Landing University.
+
+989 PO Gomruss (26) is expelled from CLU (reason?).
+
+990 PO Gomruss (27) finds employment with the Commission but is dismissed for accidentally colliding two earthmotes. Gomruss travels to Arx on the advice of his tutor, Roshia. He find employment as a contractor for the Arx Institute of Archaeology.
+
+991 PO Gomruss (28) wakes in a tavern to find himself sharing a bed with a dead body, apparently his wife. Documents of their association are found to be forgeries and Gomruss is exonerated. Gomruss leaves Arx in disgrace.
+
+996 PO Gomruss, (33) joins the Six of Steel and embarks on a mission into the Miasma.
+
+- Gomruss' wife was actually, Isma, formerly a servent to *Abhishek*. Having built a friendship with Gomruss, she requested he pose as her husband to nullify Abishek's claim to her. When Abishek's cronies came to kidnap her, she was killed. The cronies fled, leaving Gomruss helpless shouting in vain through silence.
 
 ---
 
